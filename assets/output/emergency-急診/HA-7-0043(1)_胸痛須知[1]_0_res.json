@@ -1,0 +1,225 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0043(1)_胸痛須知[1].pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "胸痛须知",
+            "block_bbox": [
+                527,
+                130,
+                661,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 胸痛是很多心肺血管疾病及胸壁骨骼神经肌肉病變的病兆之一，有可能有嚴重病況不能掉以輕心。",
+            "block_bbox": [
+                109,
+                200,
+                1080,
+                276
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 如果胸痛嚴重或時間持久沒有緩解，或胸痛同時伴有呼吸喘、冒冷汗、暈厥等身體不適的現象，請迅速就醫診治。",
+            "block_bbox": [
+                107,
+                292,
+                1080,
+                368
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 慢性病病患的藥物應按指示服用，不可無故自行停藥，尤其心臟病病患更應注意。",
+            "block_bbox": [
+                107,
+                384,
+                1008,
+                415
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 胸痛紧急就醫可以到急診室尋求協助。",
+            "block_bbox": [
+                107,
+                431,
+                552,
+                460
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 胸痛病患於急診離院後，仍須依醫師指示於近日內至相關科別門診追蹤，以發掘潛在性疾病。",
+            "block_bbox": [
+                107,
+                476,
+                1080,
+                551
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人關心您",
+            "block_bbox": [
+                853,
+                618,
+                1080,
+                645
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0043(1)",
+            "block_bbox": [
+                951,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 8,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9506731629371643,
+                "coordinate": [
+                    527.139892578125,
+                    130.81265258789062,
+                    661.457763671875,
+                    167.19583129882812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9739872217178345,
+                "coordinate": [
+                    109.07681274414062,
+                    200.41937255859375,
+                    1080.128173828125,
+                    276.391357421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.969370424747467,
+                "coordinate": [
+                    107.3797607421875,
+                    292.07769775390625,
+                    1080.064697265625,
+                    368.49273681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9412956833839417,
+                "coordinate": [
+                    107.70941162109375,
+                    384.9234619140625,
+                    1008.0319213867188,
+                    415.1102294921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9422761797904968,
+                "coordinate": [
+                    107.650146484375,
+                    431.0362548828125,
+                    552.5061645507812,
+                    460.5823974609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9679957032203674,
+                "coordinate": [
+                    107.2965087890625,
+                    476.48260498046875,
+                    1080.0919189453125,
+                    551.6493530273438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9355666637420654,
+                "coordinate": [
+                    853.9351806640625,
+                    618.8453979492188,
+                    1080.9737548828125,
+                    645.3128051757812
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9370726943016052,
+                "coordinate": [
+                    110.92105102539062,
+                    1587.488525390625,
+                    274.3461608886719,
+                    1611.870849609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.897983193397522,
+                "coordinate": [
+                    951.24462890625,
+                    1588.07958984375,
+                    1070.3662109375,
+                    1610.5537109375
+                ]
+            }
+        ]
+    }
+}

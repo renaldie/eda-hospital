@@ -1,0 +1,96 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                41,
+                0,
+                469,
+                78
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "急性心肌梗塞注意事项",
+            "block_bbox": [
+                80,
+                350,
+                764,
+                429
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                237,
+                456,
+                803,
+                1191
+            ],
+            "block_id": 2,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6385186910629272,
+                "coordinate": [
+                    41.550140380859375,
+                    0,
+                    469.26873779296875,
+                    78.1847152709961
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.5262047648429871,
+                "coordinate": [
+                    80.64495849609375,
+                    350.3359680175781,
+                    764.8240356445312,
+                    429.5593566894531
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8110164403915405,
+                "coordinate": [
+                    237.63592529296875,
+                    456.2779541015625,
+                    803.9397583007812,
+                    1191
+                ]
+            }
+        ]
+    }
+}

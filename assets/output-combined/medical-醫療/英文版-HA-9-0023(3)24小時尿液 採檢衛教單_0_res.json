@@ -1,0 +1,372 @@
+{
+    "input_path": "./assets/input/medical-醫療/英文版-HA-9-0023(3)24小時尿液 採檢衛教單.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header",
+            "block_content": "Instructions for 24-hour urine specimen collection",
+            "block_bbox": [
+                270,
+                12,
+                912,
+                56
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "NOTE :",
+            "block_bbox": [
+                28,
+                46,
+                125,
+                78
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. This test is not applicable to female during the menstrual period or if you are having bleeding from hemorrhoids.",
+            "block_bbox": [
+                31,
+                95,
+                1084,
+                174
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "Procedures :",
+            "block_bbox": [
+                34,
+                216,
+                179,
+                251
+            ],
+            "block_id": 3,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. Urinate at the start time but DO NOT collect this urine. Then collect all urine sample to the container for the following 24 hours. The container should be kept at  $ 4^{\\circ} $ C.",
+            "block_bbox": [
+                36,
+                264,
+                1137,
+                338
+            ],
+            "block_id": 4,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. When finished collecting, measure the total volume of the urine (the amount of c.c.), then write down on the test tube (No.1).",
+            "block_bbox": [
+                35,
+                340,
+                1136,
+                413
+            ],
+            "block_id": 5,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. Mix the urine well and draw 10 c.c. into the test tube (No.1).",
+            "block_bbox": [
+                36,
+                418,
+                691,
+                451
+            ],
+            "block_id": 6,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. If the container is full before the end of collection period, please write down the volume and draw 10 c.c. into the test tube (No.1). Then discard the urine in the container.",
+            "block_bbox": [
+                36,
+                457,
+                1140,
+                527
+            ],
+            "block_id": 7,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. Continue collecting the urine until 24 hours, then draw another 10 c.c. of urine into the test tube (No.2). Please sum up the urine volume and write down on the test tube (No.2).",
+            "block_bbox": [
+                35,
+                533,
+                1132,
+                604
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "6. Take the test tubes (with ice bath) to the window of 2F phlebotomy room. Confirm the total volume of 24 hours urine with our staffs.",
+            "block_bbox": [
+                34,
+                609,
+                1129,
+                680
+            ],
+            "block_id": 9,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "7. When CCR test is performed, please hand in your sample in person for additional blood test.",
+            "block_bbox": [
+                33,
+                687,
+                1035,
+                723
+            ],
+            "block_id": 10,
+            "block_order": 10
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "Our service and opening hours :",
+            "block_bbox": [
+                31,
+                747,
+                386,
+                777
+            ],
+            "block_id": 11,
+            "block_order": null
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td></td><td>Monday to Friday</td><td>Saturday</td><td>Telephone</td></tr><tr><td>E-Da Hospital</td><td>08:00~21:30</td><td>08:00~12:00</td><td>886-7-6150011 ext.2803</td></tr><tr><td>E-Da Cancer Hospital</td><td>07:00~16:00</td><td>07:00~12:00</td><td>886-7-6150022 ext.6285</td></tr><tr><td>E-Da DaChang Hospital</td><td>08:00~21:00</td><td>08:00~12:00</td><td>886-7-5599123 ext.7216</td></tr></table>",
+            "block_bbox": [
+                63,
+                777,
+                1085,
+                946
+            ],
+            "block_id": 12,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "E-DA Healthcare Group 21×29.7 cm",
+            "block_bbox": [
+                36,
+                1613,
+                420,
+                1642
+            ],
+            "block_id": 13,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "Revised November 2017 HA-9-0023(3)",
+            "block_bbox": [
+                724,
+                1612,
+                1166,
+                1641
+            ],
+            "block_id": 14,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8782327771186829,
+                "coordinate": [
+                    270.7611083984375,
+                    12.463565826416016,
+                    912.7593994140625,
+                    56.71982955932617
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9250262379646301,
+                "coordinate": [
+                    28.750205993652344,
+                    46.91957092285156,
+                    125.51091766357422,
+                    78.06781005859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9767897725105286,
+                "coordinate": [
+                    31.237060546875,
+                    95.50077056884766,
+                    1084.1546630859375,
+                    174.45779418945312
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9407732486724854,
+                "coordinate": [
+                    34.21565246582031,
+                    216.7760009765625,
+                    179.859619140625,
+                    251.0399169921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9731189012527466,
+                "coordinate": [
+                    36.08349609375,
+                    264.7579040527344,
+                    1137.3148193359375,
+                    338.7898864746094
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736157655715942,
+                "coordinate": [
+                    35.6353759765625,
+                    340.00213623046875,
+                    1136.670654296875,
+                    413.59490966796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9513747692108154,
+                "coordinate": [
+                    36.330780029296875,
+                    418.3126220703125,
+                    691.8470458984375,
+                    451.561767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783742427825928,
+                "coordinate": [
+                    36.19476318359375,
+                    457.1788330078125,
+                    1140.9765625,
+                    527.4483032226562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779786467552185,
+                "coordinate": [
+                    35.73150634765625,
+                    533.316162109375,
+                    1132.481201171875,
+                    604.1748046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788914322853088,
+                "coordinate": [
+                    34.61065673828125,
+                    609.5001220703125,
+                    1129.37109375,
+                    680.1739501953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9559054970741272,
+                "coordinate": [
+                    33.267333984375,
+                    687.2457275390625,
+                    1035.2738037109375,
+                    723.410888671875
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8493779897689819,
+                "coordinate": [
+                    31.62200927734375,
+                    747.317626953125,
+                    386.96636962890625,
+                    777.760498046875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9825252294540405,
+                "coordinate": [
+                    63.289794921875,
+                    777.8151245117188,
+                    1085.9434814453125,
+                    946.8250122070312
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9577181339263916,
+                "coordinate": [
+                    36.92774963378906,
+                    1613.55712890625,
+                    420.21014404296875,
+                    1642.663330078125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9549370408058167,
+                "coordinate": [
+                    724.1689453125,
+                    1612.4136962890625,
+                    1166.0386962890625,
+                    1641.3817138671875
+                ]
+            }
+        ]
+    }
+}

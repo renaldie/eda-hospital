@@ -1,0 +1,271 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0041(1)_留置導尿管居家照顧注.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "留置導尿管居家照顧注意事項",
+            "block_bbox": [
+                383,
+                130,
+                807,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 導尿管分為一般材質及矽質材質，需依醫囑放置使用及固定時間更換以避免感染，並定期到泌尿科門診追縱。",
+            "block_bbox": [
+                108,
+                200,
+                1080,
+                276
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 每日以肥皂水清潔會陰部兩次，每日更換導尿管之固定部位。",
+            "block_bbox": [
+                107,
+                292,
+                792,
+                322
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 多喝水，以增加排尿量，每天尿量至少需维持在1500cc。",
+            "block_bbox": [
+                107,
+                338,
+                742,
+                367
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 尿管应避免受壓、扭曲，並需常擠捏尿管，以避免阻塞。",
+            "block_bbox": [
+                107,
+                384,
+                744,
+                414
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 尿袋高度應維持低於病患腰部以下，以免尿液逆流致感染，尿袋之小便量超過2/3袋時應倒掉。",
+            "block_bbox": [
+                107,
+                430,
+                1071,
+                506
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "6. 如有發燒、發冷、尿道疼痛、血尿等泌尿道感染徵兆時，請立即就醫，並多吃含維他命C的食物（如：橘子、柳橙、蕃茄及木瓜），可預防泌尿道感染。",
+            "block_bbox": [
+                106,
+                522,
+                1081,
+                599
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "7. 小心注意不讓患者自行拔除尿管，以免造成尿道傷害。",
+            "block_bbox": [
+                107,
+                614,
+                721,
+                644
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                833,
+                711,
+                1081,
+                736
+            ],
+            "block_id": 8,
+            "block_order": 9
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 9,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0041(1)",
+            "block_bbox": [
+                940,
+                1588,
+                1061,
+                1610
+            ],
+            "block_id": 10,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9383872747421265,
+                "coordinate": [
+                    383.509033203125,
+                    130.595458984375,
+                    807.2320556640625,
+                    167.5743408203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.970654308795929,
+                "coordinate": [
+                    108.74594116210938,
+                    200.35733032226562,
+                    1080.3382568359375,
+                    276.1484680175781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9366757869720459,
+                "coordinate": [
+                    107.20751953125,
+                    292.707763671875,
+                    792.5970458984375,
+                    322.340087890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9306311011314392,
+                "coordinate": [
+                    107.42807006835938,
+                    338.8974914550781,
+                    742.1898193359375,
+                    367.9844055175781
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9289097785949707,
+                "coordinate": [
+                    107.42877197265625,
+                    384.8336181640625,
+                    744.6112670898438,
+                    414.3858642578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.966374397277832,
+                "coordinate": [
+                    107.189208984375,
+                    430.9873962402344,
+                    1071.0076904296875,
+                    506.0431213378906
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9676663875579834,
+                "coordinate": [
+                    106.63427734375,
+                    522.500732421875,
+                    1081.1650390625,
+                    599.128662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9387316107749939,
+                "coordinate": [
+                    107.28787231445312,
+                    614.9403076171875,
+                    721.136474609375,
+                    644.5174560546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.939468502998352,
+                "coordinate": [
+                    833.2265625,
+                    711.1060180664062,
+                    1081.01416015625,
+                    736.8527221679688
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9232832193374634,
+                "coordinate": [
+                    110.73533630371094,
+                    1587.7430419921875,
+                    274.602294921875,
+                    1611.5941162109375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7822352647781372,
+                "coordinate": [
+                    940.52685546875,
+                    1588.464599609375,
+                    1061.039306640625,
+                    1610.69970703125
+                ]
+            }
+        ]
+    }
+}

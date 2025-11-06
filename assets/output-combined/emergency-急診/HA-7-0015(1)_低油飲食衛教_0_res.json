@@ -1,0 +1,202 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0015(1)_低油飲食衛教.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "低油飲食衛教",
+            "block_bbox": [
+                519,
+                115,
+                671,
+                145
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 適用對象：血脂脅過高、膽囊炎、膽結石、嚴重腹瀉、心血管疾病。",
+            "block_bbox": [
+                108,
+                164,
+                865,
+                194
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 目的：限制饮食中脂肪的摄取量，以降低胰臟、腸道、膽囊及心血管的負荷。",
+            "block_bbox": [
+                107,
+                210,
+                960,
+                240
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 食物類別：脫脂奶、瘦肉、肝、心、腰子、非油炸豆類製品，魚卵、牡蠣(蚵仔)、蝦、鰻魚、鮑魚、章魚、沙丁魚、干貝、魷魚……。",
+            "block_bbox": [
+                107,
+                256,
+                1079,
+                332
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 可運用蒸、煮、燴、燉、烤、紅燒、涼拌等不必加油的烹飪方式增加食物口感，及利用無刺激性的調味品，以促進食慾。",
+            "block_bbox": [
+                106,
+                348,
+                1081,
+                425
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                821,
+                490,
+                1081,
+                517
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0015(1)",
+            "block_bbox": [
+                951,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 7,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9198914766311646,
+                "coordinate": [
+                    519.1365356445312,
+                    115.95991516113281,
+                    671.1981811523438,
+                    145.0582733154297
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.947073221206665,
+                "coordinate": [
+                    108.35003662109375,
+                    164.6870880126953,
+                    865.0430297851562,
+                    194.66542053222656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9466251730918884,
+                "coordinate": [
+                    107.03750610351562,
+                    210.559326171875,
+                    960.295654296875,
+                    240.61712646484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718063473701477,
+                "coordinate": [
+                    107.03793334960938,
+                    256.7177734375,
+                    1079.6192626953125,
+                    332.874755859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9701282978057861,
+                "coordinate": [
+                    106.32608032226562,
+                    348.6534729003906,
+                    1081.444580078125,
+                    425.2684631347656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.947584867477417,
+                "coordinate": [
+                    821.0343017578125,
+                    490.231201171875,
+                    1081.8087158203125,
+                    517.5398559570312
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9434585571289062,
+                "coordinate": [
+                    110.69781494140625,
+                    1587.6304931640625,
+                    274.61590576171875,
+                    1611.7169189453125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8799688220024109,
+                "coordinate": [
+                    951.0809326171875,
+                    1588.28466796875,
+                    1070.6251220703125,
+                    1610.51318359375
+                ]
+            }
+        ]
+    }
+}

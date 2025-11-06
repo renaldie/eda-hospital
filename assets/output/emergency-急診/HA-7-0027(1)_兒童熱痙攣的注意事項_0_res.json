@@ -1,0 +1,202 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0027(1)_兒童熱痙攣的注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "兒童熱痙攣的注意事項",
+            "block_bbox": [
+                432,
+                130,
+                758,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "1. 熱痙攣發生的原因：",
+            "block_bbox": [
+                110,
+                200,
+                360,
+                230
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "小兒發燒的同時，全身或局部的肢體產生抽搐現象，且常伴隨暫時性失去知覺，謂之熱痙攣。通常發生在剛發燒的廿四小時內、大多只發作一次、數分鐘就會停止、短時間內會醒過來、且接著無任何麻痺或神智不清現象，所幸五歲以後就少有熱痙攣之發生。",
+            "block_bbox": [
+                143,
+                246,
+                1081,
+                370
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "2. 有熱痙攣時如何處理？",
+            "block_bbox": [
+                107,
+                384,
+                388,
+                414
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "由於單純性的突發熱痙攣罕有立即的危險，亦無神經上的後遺症，所以要保持冷靜，先將病兒平躺於安全不會滑下的床上或地面，測量體溫並以肛門栓劑先退燒、有嘔吐要將頭轉向側面並將嘔吐物排乾淨、保持氣道暢通、若無明顯咬傷舌頭，不需置入任何物體於口腔中來防止舌頭咬傷，因置入物可能導致兒童窒息或引發嘔吐。注意呼吸及心跳是否正常，如抽搐在數分鐘後仍持續，必須立即送醫。對已醒過來的病兒，必須密切觀察有無意識不清、嘔吐不止、劇烈頭痛、頸部僵硬疼痛、持續高燒不退、手腳有麻痺跡象。",
+            "block_bbox": [
+                139,
+                431,
+                1082,
+                693
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人義大醫院 急診部關心您",
+            "block_bbox": [
+                693,
+                756,
+                1081,
+                783
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫院",
+            "block_bbox": [
+                111,
+                1588,
+                195,
+                1611
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0027(1)",
+            "block_bbox": [
+                951,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 7,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9498491287231445,
+                "coordinate": [
+                    432.46160888671875,
+                    130.43392944335938,
+                    758.2505493164062,
+                    167.53680419921875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9206727743148804,
+                "coordinate": [
+                    110.03753662109375,
+                    200.7421417236328,
+                    360.47442626953125,
+                    230.43418884277344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9800365567207336,
+                "coordinate": [
+                    143.33651733398438,
+                    246.66702270507812,
+                    1081.8253173828125,
+                    370.4313049316406
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9295715689659119,
+                "coordinate": [
+                    107.96562194824219,
+                    384.8423156738281,
+                    388.20977783203125,
+                    414.3442687988281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865869879722595,
+                "coordinate": [
+                    139.63046264648438,
+                    431.35137939453125,
+                    1082.3409423828125,
+                    693.7167358398438
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9420190453529358,
+                "coordinate": [
+                    693.5892333984375,
+                    756.5487060546875,
+                    1081.40087890625,
+                    783.18017578125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8919487595558167,
+                "coordinate": [
+                    111.05404663085938,
+                    1588.1063232421875,
+                    195.18798828125,
+                    1611.4844970703125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8735790848731995,
+                "coordinate": [
+                    951.24951171875,
+                    1588.24609375,
+                    1070.4532470703125,
+                    1610.395263671875
+                ]
+            }
+        ]
+    }
+}

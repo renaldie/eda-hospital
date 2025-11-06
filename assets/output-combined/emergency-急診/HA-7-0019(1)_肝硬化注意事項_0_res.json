@@ -1,0 +1,271 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0019(1)_肝硬化注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "肝硬化注意事项",
+            "block_bbox": [
+                478,
+                130,
+                710,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 請依指示採高醣飲食、高蛋白飲食（例如：魚、肉、蛋、奶）；但若有肝昏迷現象，應限制蛋白質。",
+            "block_bbox": [
+                108,
+                200,
+                1080,
+                275
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 併食道靜脈曲張者，避免粗糙、堅硬、過燙的食物，宜細嚼慢嚥。",
+            "block_bbox": [
+                107,
+                292,
+                840,
+                322
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 合併有腹水、水腫者採低鹽飲食，限制水份。",
+            "block_bbox": [
+                107,
+                338,
+                626,
+                368
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 少量多餐、规律生活、充份休息，避免激烈運動，戒煙戒酒。",
+            "block_bbox": [
+                107,
+                384,
+                792,
+                414
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 預防感染、注意有無出血徵兆（皮膚瘀血、牙齦出血、解黑色大便），並定期返院門診追蹤。",
+            "block_bbox": [
+                106,
+                430,
+                1080,
+                506
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "6. 避免用力解便，多吃蔬菜水果，预防便秘。",
+            "block_bbox": [
+                106,
+                522,
+                601,
+                552
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "7. 有大量吐血、血便、深度黄疸、昏迷、腹痛並發燒等情形，應儘速回診。",
+            "block_bbox": [
+                107,
+                568,
+                912,
+                598
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                832,
+                665,
+                1081,
+                690
+            ],
+            "block_id": 8,
+            "block_order": 9
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 9,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0019(1)",
+            "block_bbox": [
+                950,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 10,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9486929774284363,
+                "coordinate": [
+                    478.57073974609375,
+                    130.56378173828125,
+                    710.9627075195312,
+                    167.4320068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.973835825920105,
+                "coordinate": [
+                    108.45632934570312,
+                    200.41879272460938,
+                    1080.2791748046875,
+                    275.8290100097656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9427897930145264,
+                "coordinate": [
+                    107.0028076171875,
+                    292.51580810546875,
+                    840.6734619140625,
+                    322.47772216796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9424418210983276,
+                "coordinate": [
+                    107.1024169921875,
+                    338.80157470703125,
+                    626.5404052734375,
+                    368.16070556640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9389201998710632,
+                "coordinate": [
+                    107.07501220703125,
+                    384.88665771484375,
+                    792.9716186523438,
+                    414.236083984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9704009890556335,
+                "coordinate": [
+                    106.97109985351562,
+                    430.7994384765625,
+                    1080.13134765625,
+                    506.045654296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9408636093139648,
+                "coordinate": [
+                    106.96467590332031,
+                    522.7005004882812,
+                    601.28759765625,
+                    552.2184448242188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9410504102706909,
+                "coordinate": [
+                    107.35653686523438,
+                    568.5918579101562,
+                    912.327392578125,
+                    598.4318237304688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9431653618812561,
+                "coordinate": [
+                    832.943603515625,
+                    665.249267578125,
+                    1081.071044921875,
+                    690.734619140625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9272490739822388,
+                "coordinate": [
+                    110.65724182128906,
+                    1587.66748046875,
+                    274.62054443359375,
+                    1611.564453125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8402084708213806,
+                "coordinate": [
+                    950.9739990234375,
+                    1588.332763671875,
+                    1070.6285400390625,
+                    1610.362548828125
+                ]
+            }
+        ]
+    }
+}

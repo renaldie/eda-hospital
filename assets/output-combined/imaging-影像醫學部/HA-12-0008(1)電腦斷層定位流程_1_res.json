@@ -1,0 +1,294 @@
+{
+    "input_path": "./assets/imaging-影像醫學部/HA-12-0008(1)電腦斷層定位流程.pdf",
+    "page_index": 1,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "等固定模具冷卻後，掃電腦斷層影像前護理師會來注射顯影劑，顯影劑本身就是溫的，所以注射到體內後有溫熱感是正常的現象。定位結束後，如果身體沒有不舒服的感覺就可以找護理師拔針(拔針處就是在剛剛打針的地方)，若沒有其他需要禁食的檢查，可以多喝水有助於體內顯影劑的排除，之後的治療時間會再電話通知。",
+            "block_bbox": [
+                79,
+                132,
+                671,
+                496
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                714,
+                137,
+                1071,
+                439
+            ],
+            "block_id": 1,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "注意事项",
+            "block_bbox": [
+                511,
+                582,
+                678,
+                626
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "放射師會在身上劃黑線與記號，是之後放射治療前放射師用來擺位與校正姿勢用而非治療位置，洗澡時要注意！可以用清水沖洗,請勿用肥皂搓洗或用力擦拭。若黑線標記消失請勿自己補畫，等到治療時在交由放射師處理。",
+            "block_bbox": [
+                78,
+                645,
+                1109,
+                772
+            ],
+            "block_id": 3,
+            "block_order": 3
+        },
+        {
+            "block_label": "figure_title",
+            "block_content": "義大醫療財團法人 關心您的健康",
+            "block_bbox": [
+                388,
+                799,
+                801,
+                833
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                360,
+                840,
+                842,
+                1246
+            ],
+            "block_id": 5,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "諮詢服務電話：",
+            "block_bbox": [
+                327,
+                1283,
+                518,
+                1316
+            ],
+            "block_id": 6,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫院(07)615-0011",
+            "block_bbox": [
+                328,
+                1328,
+                594,
+                1362
+            ],
+            "block_id": 7,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大癌治療醫院(07)615-0022 分機 6813、6787",
+            "block_bbox": [
+                328,
+                1373,
+                878,
+                1407
+            ],
+            "block_id": 8,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大大昌醫院(07)559-9123",
+            "block_bbox": [
+                328,
+                1418,
+                649,
+                1452
+            ],
+            "block_id": 9,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "制修訂年月：2017年3月制訂",
+            "block_bbox": [
+                459,
+                1508,
+                813,
+                1542
+            ],
+            "block_id": 10,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "表單編號：HA-12-0008(1)",
+            "block_bbox": [
+                481,
+                1552,
+                790,
+                1587
+            ],
+            "block_id": 11,
+            "block_order": 9
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9863296151161194,
+                "coordinate": [
+                    79.64849853515625,
+                    132.07937622070312,
+                    671.8009643554688,
+                    496.2934265136719
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9816364645957947,
+                "coordinate": [
+                    714.2310791015625,
+                    137.02708435058594,
+                    1071.0338134765625,
+                    439.6953125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9492416381835938,
+                "coordinate": [
+                    511.04510498046875,
+                    582.0863037109375,
+                    678.4732055664062,
+                    626.0618896484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834169745445251,
+                "coordinate": [
+                    78.26904296875,
+                    645.2691650390625,
+                    1109.3387451171875,
+                    772.0137939453125
+                ]
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9136698246002197,
+                "coordinate": [
+                    388.4644775390625,
+                    799.0313110351562,
+                    801.624755859375,
+                    833.4270629882812
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.984437108039856,
+                "coordinate": [
+                    360.40997314453125,
+                    840.3839111328125,
+                    842.5665893554688,
+                    1246.0941162109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9117202162742615,
+                "coordinate": [
+                    327.0814208984375,
+                    1283.7607421875,
+                    518.21826171875,
+                    1316.79296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9157021045684814,
+                "coordinate": [
+                    328.35015869140625,
+                    1328.37451171875,
+                    594.9515380859375,
+                    1362.15673828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8967049717903137,
+                "coordinate": [
+                    328.47705078125,
+                    1373.2947998046875,
+                    878.299560546875,
+                    1407.2020263671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9045970439910889,
+                "coordinate": [
+                    328.58782958984375,
+                    1418.1561279296875,
+                    649.34423828125,
+                    1452.0272216796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.929256021976471,
+                "coordinate": [
+                    459.703369140625,
+                    1508.7255859375,
+                    813.647705078125,
+                    1542.17138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9217258095741272,
+                "coordinate": [
+                    481.5804443359375,
+                    1552.849609375,
+                    790.3853759765625,
+                    1587.25439453125
+                ]
+            }
+        ]
+    }
+}

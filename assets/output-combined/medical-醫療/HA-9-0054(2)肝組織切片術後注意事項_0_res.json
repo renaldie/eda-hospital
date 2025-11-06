@@ -1,0 +1,363 @@
+{
+    "input_path": "./assets/medical-醫療/HA-9-0054(2)肝組織切片術後注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                186,
+                52,
+                630,
+                130
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "肝組織切片術後注意事項",
+            "block_bbox": [
+                159,
+                147,
+                649,
+                194
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "一、名詞解釋",
+            "block_bbox": [
+                57,
+                235,
+                222,
+                263
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "肝臟切片檢查為侵入性檢查。醫師利用超音波為導引，以穿刺針取得數小片的肝臟組織送檢，進行組織病理學的診斷，進而決定治療方針或推測肝臟病變的進展。",
+            "block_bbox": [
+                111,
+                268,
+                744,
+                368
+            ],
+            "block_id": 3,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "二、適用對象",
+            "block_bbox": [
+                56,
+                403,
+                221,
+                432
+            ],
+            "block_id": 4,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "肝臟切片檢查後的病人。",
+            "block_bbox": [
+                111,
+                438,
+                398,
+                467
+            ],
+            "block_id": 5,
+            "block_order": 5
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "三、照護及注意事項",
+            "block_bbox": [
+                57,
+                505,
+                299,
+                534
+            ],
+            "block_id": 6,
+            "block_order": 6
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "1. 何时可以開始進食？",
+            "block_bbox": [
+                84,
+                539,
+                361,
+                568
+            ],
+            "block_id": 7,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "檢查結束後 1 小時，若生命徵象穩定且無不適，可以喝小量水無不適後開始採漸進式進食。",
+            "block_bbox": [
+                121,
+                573,
+                743,
+                638
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "2. 砂袋加座及卧床時間",
+            "block_bbox": [
+                83,
+                673,
+                366,
+                703
+            ],
+            "block_id": 9,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "檢查後需絕對臥床休息四小時，並以砂袋加壓穿刺部位，預防出血，期間護理人員會遵照醫囑監測血壓及心跳，並診視您的狀況。",
+            "block_bbox": [
+                122,
+                707,
+                731,
+                805
+            ],
+            "block_id": 10,
+            "block_order": 10
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "3. 傷口疼痛處理",
+            "block_bbox": [
+                78,
+                843,
+                283,
+                872
+            ],
+            "block_id": 11,
+            "block_order": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "腹部輕微疼痛可服用止痛藥物，若嚴重腹部疼痛或呼吸不順、冒冷汗、心跳加速、意識不清，需立即通知醫護人員。",
+            "block_bbox": [
+                116,
+                877,
+                752,
+                973
+            ],
+            "block_id": 12,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "傷口當日請勿碰到水，隔天保持乾燥一般清潔即可。",
+            "block_bbox": [
+                118,
+                979,
+                717,
+                1009
+            ],
+            "block_id": 13,
+            "block_order": 13
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人 14.8x21cm 2023.08印製 2023.04修訂 HA-9-0054(2)",
+            "block_bbox": [
+                58,
+                1134,
+                740,
+                1159
+            ],
+            "block_id": 14,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.8577755093574524,
+                "coordinate": [
+                    186.80841064453125,
+                    52.307369232177734,
+                    630.2660522460938,
+                    130.849365234375
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8057503700256348,
+                "coordinate": [
+                    159.91162109375,
+                    147.2966766357422,
+                    649.0776977539062,
+                    194.08164978027344
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9438638687133789,
+                "coordinate": [
+                    57.36387634277344,
+                    235.28097534179688,
+                    222.17124938964844,
+                    263.1188659667969
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9640703201293945,
+                "coordinate": [
+                    111.1392822265625,
+                    268.32366943359375,
+                    744.8419189453125,
+                    368.1629638671875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9447134733200073,
+                "coordinate": [
+                    56.820518493652344,
+                    403.57666015625,
+                    221.35418701171875,
+                    432.762939453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9387161731719971,
+                "coordinate": [
+                    111.63615417480469,
+                    438.04962158203125,
+                    398.80926513671875,
+                    467.77203369140625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9495522975921631,
+                "coordinate": [
+                    57.556297302246094,
+                    505.26611328125,
+                    299.6969909667969,
+                    534.14453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9246923923492432,
+                "coordinate": [
+                    84.61741638183594,
+                    539.25634765625,
+                    361.8912353515625,
+                    568.201171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9721899628639221,
+                "coordinate": [
+                    121.71163940429688,
+                    573.0565795898438,
+                    743.012939453125,
+                    638.0249633789062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9496824741363525,
+                "coordinate": [
+                    83.56689453125,
+                    673.8728637695312,
+                    366.2259826660156,
+                    703.6725463867188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783585071563721,
+                "coordinate": [
+                    122.30096435546875,
+                    707.8453979492188,
+                    731.922119140625,
+                    805.4783325195312
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9483016133308411,
+                "coordinate": [
+                    78.77761840820312,
+                    843.0244140625,
+                    283.6725769042969,
+                    872.88818359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794981479644775,
+                "coordinate": [
+                    116.95745849609375,
+                    877.8826293945312,
+                    752.0609130859375,
+                    973.2871704101562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9467446208000183,
+                "coordinate": [
+                    118.47250366210938,
+                    979.4412231445312,
+                    717.9647216796875,
+                    1009.7858276367188
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9274457693099976,
+                "coordinate": [
+                    58.71771240234375,
+                    1134.304443359375,
+                    740.5219116210938,
+                    1159.531005859375
+                ]
+            }
+        ]
+    }
+}

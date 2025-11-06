@@ -1,0 +1,452 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 14,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "九、返家照護須知及修正生活方式",
+            "block_bbox": [
+                59,
+                62,
+                645,
+                111
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "去除危險因子如：控制高血脂、高血壓、糖尿病、戒菸、減重等，另外適當的運動則是防止此類心臟病最便宜亦最有效的方法",
+            "block_bbox": [
+                68,
+                123,
+                796,
+                282
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 返家一週內，避免做劇烈運動及髖關節或膝關節過度屈曲的活動如：爬山、快速上下樓梯、提重物等活動。",
+            "block_bbox": [
+                95,
+                295,
+                560,
+                561
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                587,
+                296,
+                790,
+                506
+            ],
+            "block_id": 3,
+            "block_order": null
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                77,
+                611,
+                272,
+                803
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 出院後若有出現傷口處有疼痛、腫脹、出血不止及瘀青等不適，應立即返院追蹤。",
+            "block_bbox": [
+                269,
+                628,
+                761,
+                785
+            ],
+            "block_id": 5,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 請規則服藥，藥物的作用主要防止血管再阻塞或痙攣，如有服藥不適，可與醫師做討論與以調節，請勿自行停藥。",
+            "block_bbox": [
+                117,
+                853,
+                567,
+                1124
+            ],
+            "block_id": 6,
+            "block_order": 5
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                580,
+                863,
+                793,
+                1066
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 定期回診追蹤，因仍有部份的病人胸痛可能會再復發，有可能為血管再次阻塞，而這種再度阻塞的情形常發生在術後六個月內。\n5.期間有任何不適，特別是胸悶、呼吸困难、心悸等，回診時應主動告知醫師。必要時請提早返回門診求診。",
+            "block_bbox": [
+                894,
+                43,
+                1407,
+                327
+            ],
+            "block_id": 8,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                892,
+                334,
+                1637,
+                492
+            ],
+            "block_id": 9,
+            "block_order": 7
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                1411,
+                53,
+                1626,
+                266
+            ],
+            "block_id": 10,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "參考文獻",
+            "block_bbox": [
+                887,
+                621,
+                1026,
+                660
+            ],
+            "block_id": 11,
+            "block_order": 8
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "1\\. Internal Journal of cardiology\\. Volume 209, 15Apr2016, pages 103\\-113",
+            "block_bbox": [
+                886,
+                662,
+                1512,
+                733
+            ],
+            "block_id": 12,
+            "block_order": 9
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "2. Acute Coronary Syndrome in Taiwan - A study based on analysis of the National Health Institute Research Database (NHIRD). 台灣內科醫學會",
+            "block_bbox": [
+                887,
+                737,
+                1615,
+                844
+            ],
+            "block_id": 13,
+            "block_order": 10
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "3.Jernberg T et al.Eur Heart J 2015;36:1163-1 1 70",
+            "block_bbox": [
+                887,
+                847,
+                1621,
+                882
+            ],
+            "block_id": 14,
+            "block_order": 11
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "4. European heart journal, 42(14), 1289-1367. https://doi.org/10.1093/eurheartj/ehaa575",
+            "block_bbox": [
+                888,
+                885,
+                1510,
+                957
+            ],
+            "block_id": 15,
+            "block_order": 12
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "5\\. Implementation of a telephone-based secondary preventive intervention after acute coronary syndrome (ACS). doi:10\\.1186/s13063\\-016\\-1203\\-x",
+            "block_bbox": [
+                886,
+                959,
+                1602,
+                1071
+            ],
+            "block_id": 16,
+            "block_order": 13
+        },
+        {
+            "block_label": "reference_content",
+            "block_content": "6. Circulation, 140(19), 1578-1589",
+            "block_bbox": [
+                886,
+                1074,
+                1353,
+                1110
+            ],
+            "block_id": 17,
+            "block_order": 14
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9624329805374146,
+                "coordinate": [
+                    59.317596435546875,
+                    62.949607849121094,
+                    645.219970703125,
+                    111.77960968017578
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811002016067505,
+                "coordinate": [
+                    68.44375610351562,
+                    123.22659301757812,
+                    796.5478515625,
+                    282.88250732421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847685098648071,
+                "coordinate": [
+                    95.05928039550781,
+                    295.84375,
+                    560.5454711914062,
+                    561.8197021484375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9748654365539551,
+                "coordinate": [
+                    587.7296142578125,
+                    296.784912109375,
+                    790.2025146484375,
+                    506.559814453125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9639118909835815,
+                "coordinate": [
+                    77.94892883300781,
+                    611.254638671875,
+                    272.8470458984375,
+                    803.918212890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9757341742515564,
+                "coordinate": [
+                    269.00201416015625,
+                    628.4146728515625,
+                    761.8622436523438,
+                    785.5848388671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9837768077850342,
+                "coordinate": [
+                    117.65106201171875,
+                    853.6015625,
+                    567.9474487304688,
+                    1124.112548828125
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9543285369873047,
+                "coordinate": [
+                    580.6153564453125,
+                    863.8489990234375,
+                    793.0301513671875,
+                    1066.003173828125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798428416252136,
+                "coordinate": [
+                    894.349609375,
+                    43.16889953613281,
+                    1407.73583984375,
+                    327.0279541015625
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9139222502708435,
+                "coordinate": [
+                    1411.8634033203125,
+                    53.26995849609375,
+                    1626.7125244140625,
+                    266.32275390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9819321632385254,
+                "coordinate": [
+                    892.8226318359375,
+                    334.67205810546875,
+                    1637.0111083984375,
+                    492.63873291015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9353051781654358,
+                "coordinate": [
+                    887.5523681640625,
+                    621.451416015625,
+                    1026.5887451171875,
+                    660.382568359375
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.9407341480255127,
+                "coordinate": [
+                    886.6613159179688,
+                    662.2769775390625,
+                    1512.457763671875,
+                    733.3941650390625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.945450484752655,
+                "coordinate": [
+                    887.1234130859375,
+                    737.5806884765625,
+                    1615.1265869140625,
+                    844.1744384765625
+                ]
+            },
+            {
+                "cls_id": 18,
+                "label": "reference",
+                "score": 0.942173182964325,
+                "coordinate": [
+                    883.3203125,
+                    660.5709228515625,
+                    1622.15625,
+                    1113.1270751953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.8657596111297607,
+                "coordinate": [
+                    887.55859375,
+                    847.5589599609375,
+                    1621.824951171875,
+                    882.6895751953125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.8997463583946228,
+                "coordinate": [
+                    888.81787109375,
+                    885.65283203125,
+                    1510.134521484375,
+                    957.8311767578125
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.7125676870346069,
+                "coordinate": [
+                    886.747802734375,
+                    959.72119140625,
+                    1602.159912109375,
+                    1071.3677978515625
+                ]
+            },
+            {
+                "cls_id": 19,
+                "label": "reference_content",
+                "score": 0.569083034992218,
+                "coordinate": [
+                    886.4105224609375,
+                    1074.366943359375,
+                    1353.7147216796875,
+                    1110.467041015625
+                ]
+            }
+        ]
+    }
+}

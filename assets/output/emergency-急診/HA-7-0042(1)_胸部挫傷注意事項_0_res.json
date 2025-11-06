@@ -1,0 +1,202 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0042(1)_胸部挫傷注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "胸部挫傷注意事項",
+            "block_bbox": [
+                462,
+                130,
+                727,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 胸部創傷在排除血氣胸或肋骨斷裂情形後，仍可能有潛在的肺部挫傷情形發生，應密切注意病人呼吸情形。",
+            "block_bbox": [
+                108,
+                200,
+                1079,
+                276
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 若頸部有明顯的瘀腫、呼吸困难、呼吸急促、冒冷汗、臉色蒼白、發紺胸痛劇烈或背痛不適情形，應立即告知醫護人員。",
+            "block_bbox": [
+                107,
+                292,
+                1079,
+                368
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 返家後依醫師指示服用藥物，充分休息，禁止從事用力之工作，並依預約門診科別時間返診。",
+            "block_bbox": [
+                106,
+                384,
+                1080,
+                459
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 在家中若有咳血、呼吸困难、呼吸急促等嚴重不適症狀，應採坐姿並禁止餵食及下床活動，可來電詢問或返診就醫（急診專線：615-0995）。",
+            "block_bbox": [
+                106,
+                476,
+                1077,
+                553
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                833,
+                618,
+                1081,
+                645
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0042(1)",
+            "block_bbox": [
+                940,
+                1588,
+                1060,
+                1610
+            ],
+            "block_id": 7,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9356940984725952,
+                "coordinate": [
+                    462.5250549316406,
+                    130.5518798828125,
+                    727.0755615234375,
+                    167.30227661132812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9686411023139954,
+                "coordinate": [
+                    108.9814453125,
+                    200.4056396484375,
+                    1079.69384765625,
+                    276.73321533203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9658984541893005,
+                "coordinate": [
+                    107.2530517578125,
+                    292.3725280761719,
+                    1079.283447265625,
+                    368.9983825683594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.963347315788269,
+                "coordinate": [
+                    106.90185546875,
+                    384.7599792480469,
+                    1080.11279296875,
+                    459.4054870605469
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9620321989059448,
+                "coordinate": [
+                    106.70083618164062,
+                    476.3031005859375,
+                    1077.599365234375,
+                    553.340087890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9321506023406982,
+                "coordinate": [
+                    833.5213623046875,
+                    618.8377685546875,
+                    1081.413818359375,
+                    645.3050537109375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9244099259376526,
+                "coordinate": [
+                    110.8475341796875,
+                    1587.716796875,
+                    274.3372802734375,
+                    1611.609375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8489567637443542,
+                "coordinate": [
+                    940.723388671875,
+                    1588.492919921875,
+                    1060.7698974609375,
+                    1610.432373046875
+                ]
+            }
+        ]
+    }
+}

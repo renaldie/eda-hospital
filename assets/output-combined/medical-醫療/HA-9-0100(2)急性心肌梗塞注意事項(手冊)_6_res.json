@@ -1,0 +1,188 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 6,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "3. 心導管檢查後：",
+            "block_bbox": [
+                56,
+                54,
+                346,
+                99
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1)返回病室後密切監測血壓及心跳每15分鐘x1小時，之後30分鐘x3小時。",
+            "block_bbox": [
+                88,
+                118,
+                767,
+                228
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2)檢查部位若為手腕，醫護人員使用止血加壓帶或紗布及寬膠環繞加壓穿刺處，4小時後會開始漸進式拆除部份寬膠，隔天早上才會完全拆除，並重新換藥以防水膠膜固定，檢查之肢體勿出力，術後1星期內避免提重物。",
+            "block_bbox": [
+                90,
+                243,
+                767,
+                606
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3)檢查部位若為鼠蹊部，若導管已在檢查室移除者，心導管室醫護人員會在您的穿刺部位使用加壓器直接加壓30分鐘止血，之後放置一個重約2公斤的砂袋加壓4小時，穿刺部位不可彎曲保持砂袋於患處。砂袋加壓移除後需再平躺4~6小時避免翻身，以防出血。砂袋移除後可以採半坐臥，注意傷口出血情形。\n(4)行鼠蹊部之股動脈檢查且導管未移除者，導管拔除前須平躺，拔除導管後仍須以砂袋加壓4小時平躺6小時，臀部可左右移動，患肢關節須保持平直，不可彎曲避免用力，腳踝可自由活動並會固定時間為您評估生命徵象及上肢或下肢血循及溫度。",
+            "block_bbox": [
+                87,
+                621,
+                769,
+                1108
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                907,
+                54,
+                1626,
+                492
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "(5)檢查後返回病室，應先完全臥床休息4小時，如需解尿請使用便盆或尿壺，6小時未解時，請告知護理人員。若傷口於鼠蹊部者如有解便困難請告知醫護人員，以免傷口流血。",
+            "block_bbox": [
+                901,
+                505,
+                1630,
+                812
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "(6)若有噁心、嘔吐、心悸、呼吸困难、胸痛、發燒、出血及檢查側的肢體有冰冷、蒼白、麻刺、疼痛感及異常腫脹感、瘀青、傷口紗布有濕熱、疼痛等不適情形，應即刻告知醫護人員。",
+            "block_bbox": [
+                900,
+                828,
+                1636,
+                1133
+            ],
+            "block_id": 6,
+            "block_order": 7
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8966382145881653,
+                "coordinate": [
+                    56.79835510253906,
+                    54.783782958984375,
+                    346.44598388671875,
+                    99.82466125488281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9623563289642334,
+                "coordinate": [
+                    88.0699462890625,
+                    118.9780044555664,
+                    767.6453857421875,
+                    228.57809448242188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834875464439392,
+                "coordinate": [
+                    90.63583374023438,
+                    243.9368438720703,
+                    767.3826904296875,
+                    606.9004516601562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842365980148315,
+                "coordinate": [
+                    87.80667114257812,
+                    621.550537109375,
+                    769.3902587890625,
+                    1108.7547607421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986289381980896,
+                "coordinate": [
+                    907.796875,
+                    54.422393798828125,
+                    1626.638427734375,
+                    492.0401306152344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9831101894378662,
+                "coordinate": [
+                    901.2362060546875,
+                    505.493896484375,
+                    1630.5867919921875,
+                    812.17333984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9815479516983032,
+                "coordinate": [
+                    900.9864501953125,
+                    828.07763671875,
+                    1636.9903564453125,
+                    1133.580322265625
+                ]
+            }
+        ]
+    }
+}

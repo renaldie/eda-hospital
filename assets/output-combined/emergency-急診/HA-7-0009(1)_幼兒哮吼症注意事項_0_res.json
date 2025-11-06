@@ -1,0 +1,156 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0009(1)_幼兒哮吼症注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "幼兒哮吼症注意事項",
+            "block_bbox": [
+                446,
+                130,
+                743,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "小孩如果突然聲音沙啞，咳嗽像狗吠，吸氣性的喘鳴聲和呼吸困難，這可能是好發在一歲到三歲幼兒的哮吼症發作。因為幼兒的支氣管較窄發炎時容易被黏液阻塞，壓縮氣流經過發炎的聲帶所發出的聲音。",
+            "block_bbox": [
+                107,
+                200,
+                1077,
+                323
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "哮吼症大多在冬天的夜晚，有些幼兒突然於晚上發作，睡不好，狗吠的咳嗽聲，聲音沙啞，吸氣性的喘鳴。治療上除了藥物以外，充足的水份補充，並給予冷潮濕空氣吸入，如利用家中浴室或蒸臉器瀰漫的蒸氣，每次吸入蒸氣約十五分鐘，可以讓幼兒呼吸道自然擴張，有助於症状的解除。如果幼兒呼吸困难的現象沒改善需馬上送急診治療。",
+            "block_bbox": [
+                105,
+                338,
+                1077,
+                509
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                823,
+                572,
+                1082,
+                599
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0009(1)",
+            "block_bbox": [
+                950,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 5,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9520949721336365,
+                "coordinate": [
+                    446.6099853515625,
+                    130.6527099609375,
+                    743.3448486328125,
+                    167.3507080078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834097623825073,
+                "coordinate": [
+                    107.2470703125,
+                    200.80819702148438,
+                    1077.5870361328125,
+                    323.8310241699219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855749607086182,
+                "coordinate": [
+                    105.798095703125,
+                    338.69244384765625,
+                    1077.7816162109375,
+                    509.50164794921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9429947733879089,
+                "coordinate": [
+                    823.5020751953125,
+                    572.5374755859375,
+                    1082.3499755859375,
+                    599.3704833984375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9085938334465027,
+                "coordinate": [
+                    110.64791870117188,
+                    1587.7554931640625,
+                    274.72869873046875,
+                    1611.5604248046875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.785661518573761,
+                "coordinate": [
+                    950.9588623046875,
+                    1588.487548828125,
+                    1070.76025390625,
+                    1610.198974609375
+                ]
+            }
+        ]
+    }
+}

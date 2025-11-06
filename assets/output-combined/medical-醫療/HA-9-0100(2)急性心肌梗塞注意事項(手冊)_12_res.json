@@ -1,0 +1,165 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 12,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "6. 優先選擇無過度加工的黃豆製品(如豆漿、豆腐、豆干)、魚類及蛋類等優質蛋白質，減少紅肉攝取；每週攝取1-2次深海魚類，如：鮭魚、鯖魚、鱈魚等，其富含ω-3脂肪酸有助於增強血管抗發炎能力。",
+            "block_bbox": [
+                61,
+                59,
+                796,
+                320
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "7. 每天攝取新鮮蔬菜(2碗)及水果(2碗)，可補充天然抗氧化食物（多酚、維生素、異黃酮、類胡蘿蔔素），加強血管抗氧化能力。",
+            "block_bbox": [
+                69,
+                327,
+                795,
+                539
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "8. 避免油炸食物，滷肉、燉湯時應於冷藏後將上層油脂去除再食用。",
+            "block_bbox": [
+                69,
+                545,
+                802,
+                649
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "9. 烹調選用植物油，如：苦茶油、大豆沙拉油、橄欖油，避免人工造油或動物油。",
+            "block_bbox": [
+                72,
+                655,
+                803,
+                755
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "10. 戒菸、戒酒。",
+            "block_bbox": [
+                70,
+                765,
+                364,
+                812
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"3\">~飲食建議表~</td></tr><tr><td>類別</td><td>可食</td><td>忌食</td></tr><tr><td>奶類\n及其\n製品</td><td>鮮乳及其製品。</td><td>煉乳、調味乳、\n冰淇淋、乳酪、\n鮮奶油等。</td></tr><tr><td>全穀\n雜糧\n類</td><td>米飯、饅頭、土司\n、麵包、米粉、冬\n粉、餃子皮、餛飩\n皮、春捲皮、地瓜\n、馬鈴薯、芋頭等\n。</td><td>炒飯/麵、速食麵:\n各種多油製品如燒\n餅、油條、煎包、\n鍋貼、甜鹹麵包等。\n高鈉食物如:\n麵線、油麵、義大\n利脆餅等。</td></tr><tr><td>豆類</td><td>豆腐、豆干、豆皮\n、干絲、豆簽、豆\n花等。</td><td>醃製、罐製、滷製\n成品,如加味豆乾\n、筍豆、豆腐乳等。</td></tr><tr><td>蔬菜類</td><td>新鮮蔬菜及自製\n蔬菜汁。</td><td>醃製蔬菜及加工\n蔬菜罐頭。</td></tr></table>",
+            "block_bbox": [
+                892,
+                47,
+                1657,
+                1122
+            ],
+            "block_id": 5,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.966160774230957,
+                "coordinate": [
+                    61.1712646484375,
+                    59.99424743652344,
+                    796.5332641601562,
+                    320.2060546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9750304222106934,
+                "coordinate": [
+                    69.47695922851562,
+                    327.78143310546875,
+                    795.0634765625,
+                    539.0748291015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9683107733726501,
+                "coordinate": [
+                    69.93255615234375,
+                    545.5006103515625,
+                    802.709716796875,
+                    649.1588134765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5974158048629761,
+                "coordinate": [
+                    72.55783081054688,
+                    655.0611572265625,
+                    803.4176025390625,
+                    755.2686767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5651493668556213,
+                "coordinate": [
+                    70.65176391601562,
+                    765.94482421875,
+                    364.15283203125,
+                    812.5301513671875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9849399924278259,
+                "coordinate": [
+                    892.5415649414062,
+                    47.72998046875,
+                    1657.09912109375,
+                    1122.2523193359375
+                ]
+            }
+        ]
+    }
+}

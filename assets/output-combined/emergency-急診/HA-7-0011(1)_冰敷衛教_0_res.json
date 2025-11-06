@@ -1,0 +1,202 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0011(1)_冰敷衛教.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "冰敷衛教",
+            "block_bbox": [
+                527,
+                130,
+                662,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 外傷或發炎傷口，應聽從醫護人員指示使用。",
+            "block_bbox": [
+                108,
+                200,
+                625,
+                230
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 取適量冰塊於冰袋中，加水三分之一。",
+            "block_bbox": [
+                107,
+                247,
+                554,
+                275
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 倒置冰袋检查是否有漏水，用乾毛巾包裹冰袋，冰敷患部。",
+            "block_bbox": [
+                107,
+                293,
+                767,
+                321
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 每天冰敷四次，每次 15~20 分鐘休息。",
+            "block_bbox": [
+                106,
+                339,
+                550,
+                367
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                819,
+                434,
+                1081,
+                460
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0011(1)",
+            "block_bbox": [
+                940,
+                1588,
+                1060,
+                1610
+            ],
+            "block_id": 7,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9439968466758728,
+                "coordinate": [
+                    527.1239013671875,
+                    130.87930297851562,
+                    662.3997802734375,
+                    167.20718383789062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9502503871917725,
+                "coordinate": [
+                    108.75216674804688,
+                    200.7933349609375,
+                    625.2034912109375,
+                    230.36001586914062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9464623928070068,
+                "coordinate": [
+                    107.22406005859375,
+                    247.11508178710938,
+                    554.1082153320312,
+                    275.4889831542969
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9466331005096436,
+                "coordinate": [
+                    107.43118286132812,
+                    293.1259765625,
+                    767.9849853515625,
+                    321.791015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9433450102806091,
+                "coordinate": [
+                    106.84373474121094,
+                    339.42889404296875,
+                    550.467529296875,
+                    367.6767578125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9412528276443481,
+                "coordinate": [
+                    819.1949462890625,
+                    434.94488525390625,
+                    1081.991455078125,
+                    460.77490234375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9299274682998657,
+                "coordinate": [
+                    110.6775894165039,
+                    1587.75439453125,
+                    274.7908630371094,
+                    1611.553466796875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.782866895198822,
+                "coordinate": [
+                    940.322509765625,
+                    1588.39599609375,
+                    1060.53466796875,
+                    1610.75341796875
+                ]
+            }
+        ]
+    }
+}

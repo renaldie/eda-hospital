@@ -1,0 +1,294 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0022(1)_兒童急性腸胃炎注意事.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "兒童急性腸胃炎注意事項",
+            "block_bbox": [
+                415,
+                130,
+                774,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 急性期應減少或暫停進食，禁食期間口渴可沾水潤唇。",
+            "block_bbox": [
+                108,
+                200,
+                721,
+                230
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 無持續腹瀉可暫停止瀉劑。",
+            "block_bbox": [
+                107,
+                246,
+                433,
+                276
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 避免脱水，注意水与電解質補充，可飲用加水稀釋對半的運動飲料。",
+            "block_bbox": [
+                106,
+                292,
+                864,
+                322
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 盡量不要喝牛奶及豆類製品、油膩食物、刺激性食物。",
+            "block_bbox": [
+                106,
+                338,
+                722,
+                368
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 症狀改善後可嘗試給予白開水，若無不適可逐漸予少量清淡飲食（如：稀飯、米湯、白土司、果汁）。",
+            "block_bbox": [
+                106,
+                385,
+                1080,
+                459
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "6. 若嘔吐的情形再發生，則須休息幾小時後再進食。",
+            "block_bbox": [
+                106,
+                476,
+                673,
+                506
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "7. 預防方法：勤加洗手、注意烹飪環境、重視飲食衛生。",
+            "block_bbox": [
+                107,
+                522,
+                721,
+                552
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "8. 輕微腹瀉可以在家繼續休養，若持續嘔吐、持續水瀉、脫水休克、持續腹痛、嬰兒持續哭鬧不安、疼痛部位轉移至右下腹、食慾不振，或意識不清、嗜睡、活動差、或幾乎無法進食等情形，請儘速返診。",
+            "block_bbox": [
+                106,
+                568,
+                1080,
+                690
+            ],
+            "block_id": 8,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                832,
+                756,
+                1081,
+                783
+            ],
+            "block_id": 9,
+            "block_order": 10
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 10,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0022(1)",
+            "block_bbox": [
+                950,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 11,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9235789179801941,
+                "coordinate": [
+                    415.35760498046875,
+                    130.29574584960938,
+                    774.7471313476562,
+                    167.53952026367188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9500036239624023,
+                "coordinate": [
+                    108.27413940429688,
+                    200.87722778320312,
+                    721.10302734375,
+                    230.38571166992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9493101835250854,
+                "coordinate": [
+                    107.14762878417969,
+                    246.56854248046875,
+                    433.9796142578125,
+                    276.07537841796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9482133388519287,
+                "coordinate": [
+                    106.95956420898438,
+                    292.6515197753906,
+                    864.426025390625,
+                    322.0639343261719
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9453611373901367,
+                "coordinate": [
+                    106.3787841796875,
+                    338.93585205078125,
+                    722.0955810546875,
+                    368.30120849609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9756465554237366,
+                "coordinate": [
+                    106.71652221679688,
+                    385.0917663574219,
+                    1080.8900146484375,
+                    459.2403259277344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9502642750740051,
+                "coordinate": [
+                    106.55035400390625,
+                    476.805419921875,
+                    673.7431030273438,
+                    506.3817138671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9516203999519348,
+                "coordinate": [
+                    107.28829956054688,
+                    522.47314453125,
+                    721.3980712890625,
+                    552.474609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812489748001099,
+                "coordinate": [
+                    106.88357543945312,
+                    568.129150390625,
+                    1080.1719970703125,
+                    690.87646484375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9443473219871521,
+                "coordinate": [
+                    832.9044189453125,
+                    756.3240966796875,
+                    1081.7923583984375,
+                    783.3172607421875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9233799576759338,
+                "coordinate": [
+                    110.57254028320312,
+                    1587.6551513671875,
+                    274.76898193359375,
+                    1611.6221923828125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8186574578285217,
+                "coordinate": [
+                    950.8359375,
+                    1588.11767578125,
+                    1070.7318115234375,
+                    1610.459228515625
+                ]
+            }
+        ]
+    }
+}

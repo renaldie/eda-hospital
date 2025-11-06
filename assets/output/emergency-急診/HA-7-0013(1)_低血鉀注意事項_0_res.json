@@ -1,0 +1,202 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0013(1)_低血鉀注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "低血鉀注意事项",
+            "block_bbox": [
+                478,
+                130,
+                710,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 適用對象：血鉀過低患者",
+            "block_bbox": [
+                108,
+                200,
+                417,
+                230
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 多攝取含鉀高的食物，如香蕉、柳丁、橘子、芭樂、硬柿、哈蜜瓜、蕃茄、深綠色蔬菜、雞精、肉湯。",
+            "block_bbox": [
+                106,
+                246,
+                1078,
+                322
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 若持續有腹瀉、嘔吐問題，或就醫的症狀未改善、肌肉乏力加劇時需返急診。",
+            "block_bbox": [
+                106,
+                338,
+                960,
+                368
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 低血鉀症之原因須至内分泌或腎臟科門診求診，以安排進一步診斷及治療。",
+            "block_bbox": [
+                106,
+                384,
+                937,
+                414
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                822,
+                480,
+                1082,
+                507
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0013(1)",
+            "block_bbox": [
+                910,
+                1588,
+                1031,
+                1610
+            ],
+            "block_id": 7,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9403043985366821,
+                "coordinate": [
+                    478.9561767578125,
+                    130.58148193359375,
+                    710.7164306640625,
+                    167.25341796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9401463270187378,
+                "coordinate": [
+                    108.89642333984375,
+                    200.74978637695312,
+                    417.9061279296875,
+                    230.49371337890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9705886244773865,
+                "coordinate": [
+                    106.4405517578125,
+                    246.42373657226562,
+                    1078.62109375,
+                    322.1444396972656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9385727047920227,
+                "coordinate": [
+                    106.71420288085938,
+                    338.6793212890625,
+                    960.8914794921875,
+                    368.78857421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9399468302726746,
+                "coordinate": [
+                    106.5789794921875,
+                    384.8867492675781,
+                    937.1741943359375,
+                    414.5960388183594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9428245425224304,
+                "coordinate": [
+                    822.915771484375,
+                    480.62371826171875,
+                    1082.336669921875,
+                    507.35711669921875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9144600629806519,
+                "coordinate": [
+                    110.64947509765625,
+                    1587.688720703125,
+                    274.82342529296875,
+                    1611.719970703125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7581376433372498,
+                "coordinate": [
+                    910.4732666015625,
+                    1588.607177734375,
+                    1031.1375732421875,
+                    1610.692626953125
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 1,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "目鏘",
+            "block_bbox": [
+                1101,
+                39,
+                1320,
+                104
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "content",
+            "block_content": "一、什麼是急性心肌梗塞……01  \n二、心肌梗塞常見症狀……01  \n三、危險因子……02  \n四、治療種類及方式：……04  \n1. 冠狀動脈氣球擴張術……04  \n2. 血栓抽吸手術……04  \n3. 冠狀動脈支架置放術……04  \n4. 外科治療--冠狀動脈繞道手術……05  \n5. 藥物治療……05  \n五、心導管執行之注意事項……06  \n六、心肺復健須知及注意事項……12  \n七、急性心肌梗塞藥物說明……16  \n八、營養照護須知……20  \n九、返家照護須知及修正生活方式……25  \n十、血壓、心跳及血糖記錄表……27  \n十一、抽血報告紀錄表……29",
+            "block_bbox": [
+                883,
+                167,
+                1587,
+                1020
+            ],
+            "block_id": 1,
+            "block_order": 2
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9108790159225464,
+                "coordinate": [
+                    1101.620849609375,
+                    39.98888397216797,
+                    1320.999755859375,
+                    104.59278106689453
+                ]
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9803388714790344,
+                "coordinate": [
+                    883.727294921875,
+                    167.68426513671875,
+                    1587.00732421875,
+                    1020.2453002929688
+                ]
+            }
+        ]
+    }
+}

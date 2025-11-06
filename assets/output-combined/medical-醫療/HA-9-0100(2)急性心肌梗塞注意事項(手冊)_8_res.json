@@ -1,0 +1,372 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 8,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "第二階段：復健科門診復健",
+            "block_bbox": [
+                125,
+                32,
+                623,
+                76
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "建議出院後至少為期六週，每週三次的復健訓練，物理治療師將依照病人的訓練目標制定復健計畫，其中包含：",
+            "block_bbox": [
+                0,
+                89,
+                743,
+                242
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 熱身運動\n-輕度阻力訓練\n-肢體活動\n-自覺用力係數<8",
+            "block_bbox": [
+                30,
+                255,
+                422,
+                450
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 心肺復健運動\n- 跑步機、腳踏車、手搖車或其他制定項目\n- 自覺用力係數≤13",
+            "block_bbox": [
+                30,
+                456,
+                457,
+                652
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 緩和運動\n-輕度緩和運動\n-柔軟度運動\n-自覺用力係數<8",
+            "block_bbox": [
+                40,
+                658,
+                414,
+                850
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>6</td><td>完全沒有用力</td></tr><tr><td>7</td><td>超級輕鬆</td></tr><tr><td>8</td><td rowspan=\"2\">非常輕鬆</td></tr><tr><td>9</td></tr><tr><td>10</td><td>輕鬆</td></tr><tr><td>11</td><td>副練時還能唱歌</td></tr><tr><td>12</td><td>有點辛苦</td></tr><tr><td>13</td><td>尚能交談無法唱歌</td></tr><tr><td>14</td><td>辛苦</td></tr><tr><td>15</td><td>副練時講話會很嗚</td></tr><tr><td>16</td><td>非常辛苦</td></tr><tr><td>17</td><td>副練時講話會呼吸困難</td></tr><tr><td>18</td><td rowspan=\"2\">超級辛苦</td></tr><tr><td>19</td></tr><tr><td>20</td><td>已經盡最大努力</td></tr></table>",
+            "block_bbox": [
+                479,
+                259,
+                744,
+                831
+            ],
+            "block_id": 5,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "過程中應由物理治療師全程監測生命徵象，以確保病人安全，當休息時的血壓<90/50或>160/90mmHg；心跳<50或>100bpm時則無法接受復健運動。",
+            "block_bbox": [
+                17,
+                865,
+                748,
+                1045
+            ],
+            "block_id": 6,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "此階段可以進行輕度家事如掃地、拖地、烹飪，在醫師同意下可從事性行為。",
+            "block_bbox": [
+                15,
+                1061,
+                753,
+                1151
+            ],
+            "block_id": 7,
+            "block_order": 7
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "六、心肺復健須知及注意事項",
+            "block_bbox": [
+                888,
+                12,
+                1425,
+                59
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "第二階段：復健科門診復健",
+            "block_bbox": [
+                1027,
+                94,
+                1514,
+                140
+            ],
+            "block_id": 9,
+            "block_order": 9
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "接受門診復健流程：",
+            "block_bbox": [
+                903,
+                164,
+                1259,
+                207
+            ],
+            "block_id": 10,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "當病人出院後回診心臟內科醫師，醫師判斷病人適合接受復健時，將會轉介到復健科門診，復健科醫師評估、衛教及開立醫囑後，由物理治療師執行制定心肺復健計畫和心肺復健相關衛教。",
+            "block_bbox": [
+                896,
+                223,
+                1638,
+                503
+            ],
+            "block_id": 11,
+            "block_order": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "第三階段：社區居家復健",
+            "block_bbox": [
+                1026,
+                573,
+                1470,
+                618
+            ],
+            "block_id": 12,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "病人在無胸痛或不適症狀下，應在居家就近的社區、學校、健身房養成規律運動習慣，如：快走、慢跑、腳踏車、游泳、舞蹈、太極拳等，每週三次以上，每次三十分鐘以上。",
+            "block_bbox": [
+                896,
+                648,
+                1623,
+                882
+            ],
+            "block_id": 13,
+            "block_order": 13
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                1144,
+                906,
+                1617,
+                1144
+            ],
+            "block_id": 14,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9512209296226501,
+                "coordinate": [
+                    125.806396484375,
+                    32.00865173339844,
+                    623.2667236328125,
+                    76.60722351074219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824950098991394,
+                "coordinate": [
+                    0,
+                    89.96641540527344,
+                    743.0028076171875,
+                    242.66554260253906
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9359143972396851,
+                "coordinate": [
+                    30.65289306640625,
+                    255.07908630371094,
+                    422.2321472167969,
+                    450.6944580078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9637458920478821,
+                "coordinate": [
+                    30.142303466796875,
+                    456.55535888671875,
+                    457.3473815917969,
+                    652.4562377929688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.962472140789032,
+                "coordinate": [
+                    40.678955078125,
+                    658.408447265625,
+                    414.63885498046875,
+                    850.369384765625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.6405115127563477,
+                "coordinate": [
+                    479.48626708984375,
+                    259.2694091796875,
+                    744.1835327148438,
+                    831.9791259765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824665784835815,
+                "coordinate": [
+                    17.91693115234375,
+                    865.2100830078125,
+                    748.4544067382812,
+                    1045.6776123046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9604921340942383,
+                "coordinate": [
+                    15.657745361328125,
+                    1061.046630859375,
+                    753.82421875,
+                    1151.23583984375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9507579803466797,
+                "coordinate": [
+                    888.0958251953125,
+                    12.731582641601562,
+                    1425.9093017578125,
+                    59.567893981933594
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9459626078605652,
+                "coordinate": [
+                    1027.290283203125,
+                    94.94140625,
+                    1514.834228515625,
+                    140.3221435546875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9237160086631775,
+                "coordinate": [
+                    903.9273681640625,
+                    164.31387329101562,
+                    1259.0098876953125,
+                    207.13961791992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9878026843070984,
+                "coordinate": [
+                    896.7544555664062,
+                    223.8357391357422,
+                    1638.1865234375,
+                    503.83575439453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9506826400756836,
+                "coordinate": [
+                    1026.4149169921875,
+                    573.45361328125,
+                    1470.5103759765625,
+                    618.5283203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9860900640487671,
+                "coordinate": [
+                    896.692626953125,
+                    648.9157104492188,
+                    1623.146728515625,
+                    882.2824096679688
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5516793131828308,
+                "coordinate": [
+                    1144.30029296875,
+                    906.5574951171875,
+                    1617.09326171875,
+                    1144.5684814453125
+                ]
+            }
+        ]
+    }
+}

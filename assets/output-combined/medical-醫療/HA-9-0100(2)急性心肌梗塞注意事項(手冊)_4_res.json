@@ -1,0 +1,475 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 4,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                156,
+                72,
+                648,
+                347
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "4. 外科治療--冠狀動脈繞道手術：",
+            "block_bbox": [
+                57,
+                391,
+                615,
+                435
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "當冠狀動脈阻塞的嚴重情況，不適合以氣球擴張或支架放置來治療時，就需要外科介入來實施冠狀動脈繞道術，以解決病人心肌缺血的問題，及避免心肌梗塞所引起的猝死。",
+            "block_bbox": [
+                68,
+                444,
+                774,
+                718
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "5. 藥物治療：",
+            "block_bbox": [
+                59,
+                780,
+                282,
+                824
+            ],
+            "block_id": 3,
+            "block_order": 3
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                536,
+                659,
+                754,
+                818
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "藥物治療可以改善心臟功能，減少發作及症狀減輕，但不能讓狹窄血管還原。目前有多項藥物可用來增加氧氣之供應或減少氧氣之需求，例如硝酸鹽類、乙型交感神經阻斷劑、鈣離子阻斷劑、血管緊縮素轉換酶抑制劑、抗血小板藥物等。",
+            "block_bbox": [
+                68,
+                830,
+                779,
+                1150
+            ],
+            "block_id": 5,
+            "block_order": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "五、心導管執行之注意事項",
+            "block_bbox": [
+                875,
+                27,
+                1350,
+                76
+            ],
+            "block_id": 6,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 心導管檢查前：",
+            "block_bbox": [
+                914,
+                87,
+                1217,
+                132
+            ],
+            "block_id": 7,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1)生理學上評估：",
+            "block_bbox": [
+                934,
+                146,
+                1257,
+                192
+            ],
+            "block_id": 8,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "抽血、心電圖、",
+            "block_bbox": [
+                986,
+                207,
+                1254,
+                249
+            ],
+            "block_id": 9,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "X 光檢查。",
+            "block_bbox": [
+                1002,
+                264,
+                1190,
+                310
+            ],
+            "block_id": 10,
+            "block_order": 9
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                1350,
+                32,
+                1643,
+                353
+            ],
+            "block_id": 11,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2) 同意書：",
+            "block_bbox": [
+                940,
+                324,
+                1148,
+                370
+            ],
+            "block_id": 12,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "必須包括病人及家屬的同意、簽章。",
+            "block_bbox": [
+                990,
+                380,
+                1620,
+                429
+            ],
+            "block_id": 13,
+            "block_order": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3)皮膚準備：",
+            "block_bbox": [
+                940,
+                444,
+                1190,
+                491
+            ],
+            "block_id": 14,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "避免減少手術過程感染，故一般執行檢查時，會建議將手臂、大腿以上3/1及雙側鼠蹊部剃毛。",
+            "block_bbox": [
+                986,
+                501,
+                1630,
+                668
+            ],
+            "block_id": 15,
+            "block_order": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "(心導管檢查常見執行部位為手腕或鼠膝部)",
+            "block_bbox": [
+                992,
+                680,
+                1608,
+                788
+            ],
+            "block_id": 16,
+            "block_order": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "(4) 禁食：",
+            "block_bbox": [
+                926,
+                800,
+                1099,
+                845
+            ],
+            "block_id": 17,
+            "block_order": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "緊急檢查時不需禁食。隔日早上執行檢查，請於午夜12點後禁食(包含水、食物)。隔日下午執行檢查，可吃早餐（7AM前進食完畢），早餐後開始禁食（包含水、食物）。",
+            "block_bbox": [
+                996,
+                857,
+                1637,
+                1140
+            ],
+            "block_id": 18,
+            "block_order": 16
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9818206429481506,
+                "coordinate": [
+                    156.64663696289062,
+                    72.93455505371094,
+                    648.291015625,
+                    347.46087646484375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9340077042579651,
+                "coordinate": [
+                    57.909332275390625,
+                    391.1207275390625,
+                    615.0096435546875,
+                    435.433349609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9583039879798889,
+                "coordinate": [
+                    68.98974609375,
+                    444.30462646484375,
+                    774.9361572265625,
+                    718.0641479492188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.525665819644928,
+                "coordinate": [
+                    94.59539794921875,
+                    672.4487915039062,
+                    238.94171142578125,
+                    716.9454956054688
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9461758732795715,
+                "coordinate": [
+                    59.87371063232422,
+                    780.087646484375,
+                    282.7328796386719,
+                    824.258544921875
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9291983842849731,
+                "coordinate": [
+                    536.2796630859375,
+                    659.1910400390625,
+                    754.3841552734375,
+                    818.3121337890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838122725486755,
+                "coordinate": [
+                    68.72491455078125,
+                    830.2816162109375,
+                    779.2174682617188,
+                    1150.103759765625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561640620231628,
+                "coordinate": [
+                    875.96044921875,
+                    27.61956214904785,
+                    1350.275634765625,
+                    76.25543975830078
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6904871463775635,
+                "coordinate": [
+                    914.4732055664062,
+                    87.69511413574219,
+                    1217.43603515625,
+                    132.90904235839844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7113372683525085,
+                "coordinate": [
+                    934.27099609375,
+                    146.8480682373047,
+                    1257.295654296875,
+                    192.6108856201172
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7155443429946899,
+                "coordinate": [
+                    986.456298828125,
+                    207.25665283203125,
+                    1254.205810546875,
+                    249.476318359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8198969960212708,
+                "coordinate": [
+                    1002.0745849609375,
+                    264.16925048828125,
+                    1190.6168212890625,
+                    310.53070068359375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.921796977519989,
+                "coordinate": [
+                    1350.278564453125,
+                    32.722259521484375,
+                    1643.554931640625,
+                    353.4793701171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.880035936832428,
+                "coordinate": [
+                    940.472412109375,
+                    324.35382080078125,
+                    1148.28271484375,
+                    370.94610595703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9255156517028809,
+                "coordinate": [
+                    990.3541259765625,
+                    380.65216064453125,
+                    1620.7957763671875,
+                    429.54095458984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8302982449531555,
+                "coordinate": [
+                    940.6956787109375,
+                    444.9547119140625,
+                    1190.6971435546875,
+                    491.2373046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9403684139251709,
+                "coordinate": [
+                    986.9628295898438,
+                    501.6390380859375,
+                    1630.09326171875,
+                    668.9696044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8974505066871643,
+                "coordinate": [
+                    992.154052734375,
+                    680.4166259765625,
+                    1608.471435546875,
+                    788.2408447265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8847386837005615,
+                "coordinate": [
+                    926.5955810546875,
+                    800.935791015625,
+                    1099.3480224609375,
+                    845.513671875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782434701919556,
+                "coordinate": [
+                    996.302734375,
+                    857.9970703125,
+                    1637.787353515625,
+                    1140.7169189453125
+                ]
+            }
+        ]
+    }
+}

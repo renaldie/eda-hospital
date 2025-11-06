@@ -1,0 +1,317 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0030(1)_性侵害被害人出院護理-0611修.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "性侵害被害人出院護理指導",
+            "block_bbox": [
+                398,
+                130,
+                789,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 請留意月經週期是否正常，是否有懷孕徵兆，例如：噁心、嘔吐、月經延遲。",
+            "block_bbox": [
+                108,
+                197,
+                972,
+                227
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 請留意是否有感染徵象，例如：發燒、下腹痛、會陰部癢、會陰部灼熱、不正常分泌物等異常狀況。",
+            "block_bbox": [
+                106,
+                251,
+                1076,
+                335
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 本院有為您採驗性病及愛滋等相關檢驗，請依據預約回診時間回診，確認報告並進行後續處置。",
+            "block_bbox": [
+                106,
+                359,
+                1076,
+                444
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 如果您有沮喪、無助、害怕、焦慮、痛苦的感覺，可撥打「一一三婦幼保護專線」或親自與直轄市、縣（市）政府「家庭暴力及性侵害防治中心」聯繫，會有社工人員為您提供服務。",
+            "block_bbox": [
+                106,
+                466,
+                1077,
+                606
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 支援管道：",
+            "block_bbox": [
+                108,
+                629,
+                274,
+                658
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "（1）若有疑慮，請連繫防治中心社工詢問",
+            "block_bbox": [
+                118,
+                683,
+                571,
+                713
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>上班時間</td><td>07-5355920（高雄市家庭暴力及性侵害防治中心）</td></tr><tr><td>非上班時間</td><td>113（電話直播，告知需詢問之狀況）</td></tr></table>",
+            "block_bbox": [
+                177,
+                722,
+                920,
+                819
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2) 相關聯繫電話",
+            "block_bbox": [
+                119,
+                870,
+                331,
+                899
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>岡山偵查隊</td><td>07-6216406</td></tr><tr><td>婦幼警察隊</td><td>07-2162926</td></tr></table>",
+            "block_bbox": [
+                184,
+                903,
+                920,
+                1005
+            ],
+            "block_id": 9,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫院社工課敬上",
+            "block_bbox": [
+                894,
+                1053,
+                1079,
+                1078
+            ],
+            "block_id": 10,
+            "block_order": 9
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫院",
+            "block_bbox": [
+                111,
+                1588,
+                194,
+                1611
+            ],
+            "block_id": 11,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0030(1)",
+            "block_bbox": [
+                951,
+                1588,
+                1070,
+                1609
+            ],
+            "block_id": 12,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8633895516395569,
+                "coordinate": [
+                    398.6977233886719,
+                    130.072265625,
+                    789.695556640625,
+                    167.270751953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9562010169029236,
+                "coordinate": [
+                    108.42340087890625,
+                    197.58718872070312,
+                    972.3434448242188,
+                    227.38528442382812
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782128930091858,
+                "coordinate": [
+                    106.65631103515625,
+                    251.08383178710938,
+                    1076.21533203125,
+                    335.9169006347656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976040244102478,
+                "coordinate": [
+                    106.98760986328125,
+                    359.48065185546875,
+                    1076.21142578125,
+                    444.20867919921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9815585017204285,
+                "coordinate": [
+                    106.660400390625,
+                    466.95843505859375,
+                    1077.56396484375,
+                    606.4437866210938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8623395562171936,
+                "coordinate": [
+                    108.57225036621094,
+                    629.279052734375,
+                    274.9932861328125,
+                    658.936279296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9314243793487549,
+                "coordinate": [
+                    118.88722229003906,
+                    683.525146484375,
+                    571.5992431640625,
+                    713.02783203125
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9735327959060669,
+                "coordinate": [
+                    177.0650634765625,
+                    722.956298828125,
+                    920.0084228515625,
+                    819.64453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.646857738494873,
+                "coordinate": [
+                    119.92582702636719,
+                    870.73681640625,
+                    331.559326171875,
+                    899.225341796875
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.973292887210846,
+                "coordinate": [
+                    184.4664306640625,
+                    903.764404296875,
+                    920.8592529296875,
+                    1005.53369140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9429469704627991,
+                "coordinate": [
+                    894.2529296875,
+                    1053.88818359375,
+                    1079.775634765625,
+                    1078.4169921875
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.889337956905365,
+                "coordinate": [
+                    111.11338806152344,
+                    1588.044921875,
+                    194.97679138183594,
+                    1611.1005859375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.883738100528717,
+                "coordinate": [
+                    951.4283447265625,
+                    1588.383544921875,
+                    1070.1815185546875,
+                    1609.92041015625
+                ]
+            }
+        ]
+    }
+}

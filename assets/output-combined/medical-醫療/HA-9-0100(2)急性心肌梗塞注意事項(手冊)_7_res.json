@@ -1,0 +1,383 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 7,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "(7)若無特殊禁忌，返回病室後即可正常飲食。",
+            "block_bbox": [
+                49,
+                54,
+                769,
+                160
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "(8)檢查隔日早上，護理人員會去除敷料，並傷口消毒以紗布及防水膠膜覆蓋。若無不適隔日可去除紗布，並檢視傷口旁有無瘀青，並告知醫師，約二至三週皮膚瘀青情形會逐漸消退。",
+            "block_bbox": [
+                49,
+                177,
+                757,
+                475
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                363,
+                683,
+                744,
+                1059
+            ],
+            "block_id": 2,
+            "block_order": null
+        },
+        {
+            "block_label": "aside_text",
+            "block_content": "加護病房",
+            "block_bbox": [
+                907,
+                261,
+                951,
+                491
+            ],
+            "block_id": 3,
+            "block_order": null
+        },
+        {
+            "block_label": "vertical_text",
+            "block_content": "普通病房",
+            "block_bbox": [
+                899,
+                703,
+                943,
+                923
+            ],
+            "block_id": 4,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "六、心肺復健須知及注意事項",
+            "block_bbox": [
+                899,
+                57,
+                1418,
+                105
+            ],
+            "block_id": 5,
+            "block_order": 4
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "第一階段：加護病房、普通病房復健",
+            "block_bbox": [
+                961,
+                117,
+                1597,
+                167
+            ],
+            "block_id": 6,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 執行心導管後第一天：可練習深呼吸運動漸進床頭搖高坐立、在治療人員監督保護之下可坐立到床邊、執行肢體運動(非阻力)。",
+            "block_bbox": [
+                971,
+                187,
+                1627,
+                385
+            ],
+            "block_id": 7,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 執行心導管後第二天含以上：延續第一天的運動，另可在治療人員監督保護之下可下床站立、原地踏步、執行輕度肢體阻力運動。",
+            "block_bbox": [
+                970,
+                390,
+                1620,
+                589
+            ],
+            "block_id": 8,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 第一天：",
+            "block_bbox": [
+                974,
+                631,
+                1158,
+                672
+            ],
+            "block_id": 9,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "在無胸痛或不適症狀下，可慢速散步漸近至十分鐘，每天三次。",
+            "block_bbox": [
+                1000,
+                673,
+                1616,
+                762
+            ],
+            "block_id": 10,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 第二天：",
+            "block_bbox": [
+                976,
+                766,
+                1158,
+                805
+            ],
+            "block_id": 11,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "在無胸痛或不適症狀下，可上樓梯半層樓、下樓梯一層樓。",
+            "block_bbox": [
+                995,
+                806,
+                1616,
+                894
+            ],
+            "block_id": 12,
+            "block_order": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 第三天含以上：\n在無胸痛或不適症狀下，可上下樓梯一層樓。",
+            "block_bbox": [
+                974,
+                897,
+                1618,
+                1029
+            ],
+            "block_id": 13,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "此階段可自行坐起用餐、盥洗、換衣、閱讀等其他靜態活動。",
+            "block_bbox": [
+                895,
+                1050,
+                1636,
+                1139
+            ],
+            "block_id": 14,
+            "block_order": 13
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9685479998588562,
+                "coordinate": [
+                    49.5447998046875,
+                    54.90460205078125,
+                    769.18701171875,
+                    160.12173461914062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823108911514282,
+                "coordinate": [
+                    49.0567626953125,
+                    177.27313232421875,
+                    757.5949096679688,
+                    475.10357666015625
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9292231798171997,
+                "coordinate": [
+                    363.7082214355469,
+                    683.99560546875,
+                    744.768798828125,
+                    1059.584228515625
+                ]
+            },
+            {
+                "cls_id": 2,
+                "label": "aside_text",
+                "score": 0.7008158564567566,
+                "coordinate": [
+                    907.037353515625,
+                    261.98297119140625,
+                    951.4688720703125,
+                    491.42266845703125
+                ]
+            },
+            {
+                "cls_id": 23,
+                "label": "vertical_text",
+                "score": 0.7278517484664917,
+                "coordinate": [
+                    899.0555419921875,
+                    703.6947021484375,
+                    943.3812255859375,
+                    923.2974853515625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9111063480377197,
+                "coordinate": [
+                    899.097900390625,
+                    57.338653564453125,
+                    1418.69287109375,
+                    105.56025695800781
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8932611346244812,
+                "coordinate": [
+                    961.0769653320312,
+                    117.40081787109375,
+                    1597.445556640625,
+                    167.0465087890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9757295846939087,
+                "coordinate": [
+                    971.0938110351562,
+                    187.72332763671875,
+                    1627.6044921875,
+                    385.564208984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9765219688415527,
+                "coordinate": [
+                    970.6681518554688,
+                    390.545654296875,
+                    1620.612548828125,
+                    589.668701171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4915250241756439,
+                "coordinate": [
+                    974.05712890625,
+                    631.0545654296875,
+                    1158.756591796875,
+                    672.8338623046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8608623147010803,
+                "coordinate": [
+                    1000.7720947265625,
+                    673.7650146484375,
+                    1616.3392333984375,
+                    762.4871826171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5850443243980408,
+                "coordinate": [
+                    976.2780151367188,
+                    766.1815795898438,
+                    1158.711181640625,
+                    805.7761840820312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8609976768493652,
+                "coordinate": [
+                    995.0154418945312,
+                    806.2764892578125,
+                    1616.775146484375,
+                    894.0452880859375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5350559949874878,
+                "coordinate": [
+                    975.784423828125,
+                    896.958740234375,
+                    1270.599609375,
+                    936.91943359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9173303246498108,
+                "coordinate": [
+                    974.8865966796875,
+                    897.0283203125,
+                    1618.3616943359375,
+                    1029.559326171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.962765097618103,
+                "coordinate": [
+                    895.0037841796875,
+                    1050.5040283203125,
+                    1636.5721435546875,
+                    1139.0753173828125
+                ]
+            }
+        ]
+    }
+}

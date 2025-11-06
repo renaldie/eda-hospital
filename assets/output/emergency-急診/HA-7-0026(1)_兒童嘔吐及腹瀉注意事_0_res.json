@@ -1,0 +1,225 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0026(1)_兒童嘔吐及腹瀉注意事.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "兒童嘔吐及腹瀉注意事項",
+            "block_bbox": [
+                415,
+                130,
+                774,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "嘔吐：",
+            "block_bbox": [
+                107,
+                190,
+                171,
+                216
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "暫時禁食數小時。如口渴，可嘗試給少量水份潤喉，但避免喝大量水又引發第二波嘔吐。如持續嘔吐，應該找醫師診療，檢查體內有無脫水或電解質變化，必要時要給予輸液治療。",
+            "block_bbox": [
+                106,
+                225,
+                1077,
+                326
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "腹瀉：",
+            "block_bbox": [
+                108,
+                368,
+                171,
+                397
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "先禁食讓腸胃休息。此期間給小兒喝醫囑之「葡萄糖電解質溶液」，儘量不定時飲用，但要避免喝未稀釋運動飲料，因其太甜會使腹瀉更厲害。八小時後如腹瀉改善，以奶為主食的嬰兒可試給半奶(水份一樣但奶粉量減半)，大一點的病兒可停吃牛奶，開始吃些米湯、開水沖的米麥糊，或稀飯、土司等不油不甜的清淡食品。",
+            "block_bbox": [
+                106,
+                405,
+                1079,
+                543
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "一至三天如腹瀉未改善，不宜繼續吃沖淡之奶粉（任何奶粉都不該長期沖淡使用），而改用特殊配方奶粉（如含牛奶蛋白之去乳糖奶粉、含植物性蛋白之去乳糖奶粉），以減少對腸道之刺激，此時原來的奶要完全暫停，直至腹瀉好轉，再慢慢調整回來。",
+            "block_bbox": [
+                106,
+                549,
+                1078,
+                652
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人義大醫院 急診部關心您",
+            "block_bbox": [
+                693,
+                709,
+                1080,
+                734
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫院",
+            "block_bbox": [
+                110,
+                1588,
+                195,
+                1611
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0026(1)",
+            "block_bbox": [
+                951,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 8,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9069419503211975,
+                "coordinate": [
+                    415.9233703613281,
+                    130.67373657226562,
+                    774.38134765625,
+                    167.03256225585938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8797633647918701,
+                "coordinate": [
+                    107.66738891601562,
+                    190.3682403564453,
+                    171.08999633789062,
+                    216.6296844482422
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9738621711730957,
+                "coordinate": [
+                    106.49630737304688,
+                    225.512451171875,
+                    1077.9903564453125,
+                    326.51519775390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.707659125328064,
+                "coordinate": [
+                    108.69850158691406,
+                    368.9012451171875,
+                    171.5614776611328,
+                    397.001220703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838894605636597,
+                "coordinate": [
+                    106.39767456054688,
+                    405.11956787109375,
+                    1079.86279296875,
+                    543.3906860351562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.977187991142273,
+                "coordinate": [
+                    106.592529296875,
+                    549.6288452148438,
+                    1078.2410888671875,
+                    652.4652709960938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9326393604278564,
+                "coordinate": [
+                    693.1363525390625,
+                    709.2943725585938,
+                    1080.9478759765625,
+                    734.8619995117188
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8212646842002869,
+                "coordinate": [
+                    110.67658996582031,
+                    1588.25537109375,
+                    195.51881408691406,
+                    1611.273193359375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8336837291717529,
+                "coordinate": [
+                    951.0926513671875,
+                    1588.641357421875,
+                    1070.4996337890625,
+                    1610.04052734375
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0040(1)_消化性潰瘍注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "消化性溃疡注意事项",
+            "block_bbox": [
+                446,
+                130,
+                743,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 進食時要儘量放鬆，細嚼慢嚥，飯後略做休息再開始工作。",
+            "block_bbox": [
+                108,
+                200,
+                767,
+                230
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 三餐定时定量。",
+            "block_bbox": [
+                107,
+                247,
+                313,
+                274
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 避免煙、酒、可樂、咖啡鹼及刺激性的食物。",
+            "block_bbox": [
+                107,
+                292,
+                624,
+                321
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 生活规律，不要熬夜，心情保持愉快。",
+            "block_bbox": [
+                106,
+                339,
+                552,
+                367
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 定期門診追蹤控制。",
+            "block_bbox": [
+                107,
+                385,
+                361,
+                413
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "6. 有劇烈腹痛或疼痛部位轉移至右下腹、發高燒或持續解黑色大便等情形，應儘速回診。",
+            "block_bbox": [
+                106,
+                431,
+                1057,
+                460
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                842,
+                526,
+                1081,
+                553
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 8,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0040(1)",
+            "block_bbox": [
+                950,
+                1588,
+                1070,
+                1610
+            ],
+            "block_id": 9,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8425850868225098,
+                "coordinate": [
+                    446.7685546875,
+                    130.46234130859375,
+                    743.1805419921875,
+                    167.37542724609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9466432332992554,
+                "coordinate": [
+                    108.73324584960938,
+                    200.78787231445312,
+                    767.962158203125,
+                    230.44039916992188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9394143223762512,
+                "coordinate": [
+                    107.76945495605469,
+                    247.29074096679688,
+                    313.47357177734375,
+                    274.8843688964844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9455503821372986,
+                "coordinate": [
+                    107.42349243164062,
+                    292.9560852050781,
+                    624.9439697265625,
+                    321.3519592285156
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9445837140083313,
+                "coordinate": [
+                    106.99855041503906,
+                    339.34832763671875,
+                    552.696044921875,
+                    367.6888427734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9403020739555359,
+                "coordinate": [
+                    107.65243530273438,
+                    385.4596862792969,
+                    361.2084655761719,
+                    413.5692443847656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9413962960243225,
+                "coordinate": [
+                    106.52676391601562,
+                    431.0991516113281,
+                    1057.0146484375,
+                    460.6139831542969
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9441825747489929,
+                "coordinate": [
+                    842.96826171875,
+                    526.68017578125,
+                    1081.722900390625,
+                    553.2208251953125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.913142204284668,
+                "coordinate": [
+                    110.75252532958984,
+                    1587.858154296875,
+                    274.7184753417969,
+                    1611.406005859375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8080589175224304,
+                "coordinate": [
+                    950.99365234375,
+                    1588.424560546875,
+                    1070.720458984375,
+                    1610.142578125
+                ]
+            }
+        ]
+    }
+}

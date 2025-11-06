@@ -1,0 +1,225 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0035(1)_急性腎盂腎炎注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "急性肾盂肾炎注意事项",
+            "block_bbox": [
+                430,
+                130,
+                758,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 若無禁忌每天攝取水份2000~3000ml以上。",
+            "block_bbox": [
+                108,
+                201,
+                584,
+                229
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 注意會陰部清潔，每1~2小時排尿一次，勿憋尿。",
+            "block_bbox": [
+                107,
+                246,
+                660,
+                275
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 遵守服藥的指示，急性期應臥床休息，勿進食刺激性食物及煙酒。",
+            "block_bbox": [
+                107,
+                293,
+                840,
+                321
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 急性期過後仍應繼續門診追蹤檢查，勿自行停藥，以免復發。",
+            "block_bbox": [
+                106,
+                339,
+                792,
+                367
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 高燒畏寒、出現劇烈側腰痛，應儘速返診。",
+            "block_bbox": [
+                107,
+                385,
+                601,
+                413
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                833,
+                480,
+                1081,
+                506
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0035(1)",
+            "block_bbox": [
+                940,
+                1588,
+                1061,
+                1610
+            ],
+            "block_id": 8,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9369312524795532,
+                "coordinate": [
+                    430.4259033203125,
+                    130.67935180664062,
+                    758.5240478515625,
+                    167.53952026367188
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9410801529884338,
+                "coordinate": [
+                    108.69158935546875,
+                    201.1663818359375,
+                    584.0985717773438,
+                    229.82080078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9423921704292297,
+                "coordinate": [
+                    107.170166015625,
+                    246.897216796875,
+                    660.4150390625,
+                    275.805908203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.941642165184021,
+                "coordinate": [
+                    107.51153564453125,
+                    293.0791015625,
+                    840.2369995117188,
+                    321.9310302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9390870332717896,
+                "coordinate": [
+                    106.68115234375,
+                    339.2742919921875,
+                    792.951171875,
+                    367.81695556640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9388061761856079,
+                "coordinate": [
+                    107.04368591308594,
+                    385.3211669921875,
+                    601.487060546875,
+                    413.79998779296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9306010603904724,
+                "coordinate": [
+                    833.31689453125,
+                    480.80078125,
+                    1081.73974609375,
+                    506.6539306640625
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8955860733985901,
+                "coordinate": [
+                    110.64491271972656,
+                    1587.89306640625,
+                    274.86669921875,
+                    1611.44580078125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7451371550559998,
+                "coordinate": [
+                    940.34326171875,
+                    1588.6470947265625,
+                    1061.25830078125,
+                    1610.4691162109375
+                ]
+            }
+        ]
+    }
+}

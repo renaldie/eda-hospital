@@ -1,0 +1,225 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0004(1)_三角巾使用注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "三角巾使用注意事项",
+            "block_bbox": [
+                448,
+                130,
+                742,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 三角巾需清潔乾淨。",
+            "block_bbox": [
+                109,
+                200,
+                360,
+                229
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 使用時肘關節需保持彎曲向上小於90度，手腕、前臂不可下垂。",
+            "block_bbox": [
+                107,
+                246,
+                815,
+                276
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 包紮肢體時，儘可能露出肢體末端，以便隨時觀察局部血液循環情形。",
+            "block_bbox": [
+                107,
+                293,
+                888,
+                321
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 依醫囑指示可於睡眠時暫時拿下休息。",
+            "block_bbox": [
+                106,
+                339,
+                553,
+                367
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 若手異常腫脹、手麻或感覺異常，需回診檢查。",
+            "block_bbox": [
+                107,
+                385,
+                649,
+                413
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                833,
+                480,
+                1081,
+                506
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0004(1)",
+            "block_bbox": [
+                940,
+                1588,
+                1061,
+                1610
+            ],
+            "block_id": 8,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9249787330627441,
+                "coordinate": [
+                    448.2619934082031,
+                    130.64529418945312,
+                    742.748046875,
+                    167.08676147460938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9404815435409546,
+                "coordinate": [
+                    109.34248352050781,
+                    200.89112854003906,
+                    360.73748779296875,
+                    229.79026794433594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434300065040588,
+                "coordinate": [
+                    107.0357666015625,
+                    246.87765502929688,
+                    815.9339599609375,
+                    276.3964538574219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9423308968544006,
+                "coordinate": [
+                    107.5313720703125,
+                    293.07293701171875,
+                    888.0478515625,
+                    321.95501708984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9421474933624268,
+                "coordinate": [
+                    106.84814453125,
+                    339.32977294921875,
+                    553.455810546875,
+                    367.60870361328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9432170391082764,
+                "coordinate": [
+                    107.10577392578125,
+                    385.48638916015625,
+                    649.33251953125,
+                    413.93927001953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9278802275657654,
+                "coordinate": [
+                    833.430419921875,
+                    480.79205322265625,
+                    1081.626708984375,
+                    506.64776611328125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8880462050437927,
+                "coordinate": [
+                    110.64076232910156,
+                    1587.892333984375,
+                    274.88818359375,
+                    1611.488037109375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7385962605476379,
+                "coordinate": [
+                    940.34228515625,
+                    1588.5771484375,
+                    1061.1856689453125,
+                    1610.4736328125
+                ]
+            }
+        ]
+    }
+}

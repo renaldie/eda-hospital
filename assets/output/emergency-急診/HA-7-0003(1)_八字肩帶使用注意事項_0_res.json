@@ -1,0 +1,225 @@
+{
+    "input_path": "./assets/emergency-急診/HA-7-0003(1)_八字肩帶使用注意事項.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "八字肩带使用注意事项",
+            "block_bbox": [
+                430,
+                130,
+                758,
+                167
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 大多數的鎖骨骨折都可以以字肩帶固定即可得到很好的治療效果，只有少數的鎖骨骨折需要以開刀的方式來進行，可在骨科門診由骨科醫師決定。",
+            "block_bbox": [
+                108,
+                200,
+                1080,
+                277
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 八字肩帶須穿著4-6星期甚至三個月的時間，通常在使用的前2星期可合併使用手臂吊帶來固定患側手臂，以減輕疼痛。",
+            "block_bbox": [
+                106,
+                292,
+                1080,
+                368
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 前1-2星期最好擦澡勿洗澡，擦澡时八字肩带不脱下。若非得洗澡不可，請務必維持正確姿勢，小心取下八字肩帶。洗好澡後，儘快穿上（手插腰、挺胸，家人在背後幫忙，調整雙肩部海綿，將兩條帶子左右平均拉緊）。若不舒適，請儘速返診處理。",
+            "block_bbox": [
+                106,
+                385,
+                1080,
+                507
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 把八字肩帶穿在一薄棉衣服外面，不可穿在厚衣服外面；睡覺時應平躺勿側躺。",
+            "block_bbox": [
+                106,
+                522,
+                984,
+                552
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 疼痛通常持續1~2星期，可服用醫師開立的止痛劑，並定期至骨科門診複診。",
+            "block_bbox": [
+                107,
+                568,
+                947,
+                598
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 關心您",
+            "block_bbox": [
+                833,
+                665,
+                1080,
+                690
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人",
+            "block_bbox": [
+                110,
+                1587,
+                274,
+                1611
+            ],
+            "block_id": 7,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "HA-7-0003(1)",
+            "block_bbox": [
+                920,
+                1588,
+                1040,
+                1609
+            ],
+            "block_id": 8,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9500581622123718,
+                "coordinate": [
+                    430.57373046875,
+                    130.9140625,
+                    758.693603515625,
+                    167.44461059570312
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9777346253395081,
+                "coordinate": [
+                    108.2921142578125,
+                    200.70230102539062,
+                    1080.1005859375,
+                    277.3448181152344
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9751357436180115,
+                "coordinate": [
+                    106.7314453125,
+                    292.7752685546875,
+                    1080.6553955078125,
+                    368.7200927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812333583831787,
+                "coordinate": [
+                    106.7767333984375,
+                    385.1435546875,
+                    1080.7459716796875,
+                    507.2935791015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.947809636592865,
+                "coordinate": [
+                    106.895263671875,
+                    522.890869140625,
+                    984.1640625,
+                    552.397216796875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9442142248153687,
+                "coordinate": [
+                    107.0833740234375,
+                    568.8751220703125,
+                    947.779052734375,
+                    598.4385986328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9445360898971558,
+                "coordinate": [
+                    833.4241943359375,
+                    665.4679565429688,
+                    1080.6416015625,
+                    690.3079223632812
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8881396055221558,
+                "coordinate": [
+                    110.74838256835938,
+                    1587.953369140625,
+                    274.6014099121094,
+                    1611.268798828125
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.747414767742157,
+                "coordinate": [
+                    920.3326416015625,
+                    1588.7926025390625,
+                    1040.33447265625,
+                    1609.9715576171875
+                ]
+            }
+        ]
+    }
+}

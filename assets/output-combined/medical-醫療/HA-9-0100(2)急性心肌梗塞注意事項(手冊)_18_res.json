@@ -1,0 +1,439 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 18,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "text",
+            "block_content": "此資料僅供參考，關於病情實際狀況，請與醫師討論若有任何疑問，請洽",
+            "block_bbox": [
+                86,
+                68,
+                736,
+                161
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫院\n地址：高雄市燕巢區角宿里義大路1號\n電話：07-6150011",
+            "block_bbox": [
+                95,
+                171,
+                240,
+                209
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                95,
+                208,
+                646,
+                243
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                97,
+                242,
+                384,
+                277
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大癌治療醫院\n地址：高雄市燕巢區角宿里義大路21號\n電話：07-6150022",
+            "block_bbox": [
+                100,
+                307,
+                346,
+                343
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                100,
+                341,
+                663,
+                376
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                102,
+                375,
+                388,
+                411
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大大昌醫院\n地址：高雄市三民區大昌一路305號\n電話：07-5599123",
+            "block_bbox": [
+                106,
+                443,
+                313,
+                478
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                106,
+                475,
+                615,
+                511
+            ],
+            "block_id": 8,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                108,
+                510,
+                389,
+                547
+            ],
+            "block_id": 9,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "我們將竭誠為您服務！\n義大醫療財團法人關心您的健康！",
+            "block_bbox": [
+                111,
+                606,
+                699,
+                706
+            ],
+            "block_id": 10,
+            "block_order": 11
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                61,
+                736,
+                751,
+                957
+            ],
+            "block_id": 11,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "本著作權非經著作權人同意不得轉刊、翻印或轉售",
+            "block_bbox": [
+                156,
+                1008,
+                665,
+                1048
+            ],
+            "block_id": 12,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "著作權人：義大醫療財團法人",
+            "block_bbox": [
+                253,
+                1045,
+                565,
+                1079
+            ],
+            "block_id": 13,
+            "block_order": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "表單編號：HA-9-0100(2)",
+            "block_bbox": [
+                272,
+                1079,
+                546,
+                1113
+            ],
+            "block_id": 14,
+            "block_order": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大醫療財團法人 21X14.8cm 2025.02印製 2024.10修訂",
+            "block_bbox": [
+                85,
+                1110,
+                741,
+                1157
+            ],
+            "block_id": 15,
+            "block_order": 15
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.49543654918670654,
+                "coordinate": [
+                    87.09259033203125,
+                    68.63150024414062,
+                    736.1334838867188,
+                    114.953857421875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5849028825759888,
+                "coordinate": [
+                    86.75143432617188,
+                    68.92662048339844,
+                    736.74462890625,
+                    161.87535095214844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5011266469955444,
+                "coordinate": [
+                    88.131103515625,
+                    117.94275665283203,
+                    675.3517456054688,
+                    161.8292236328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9081497192382812,
+                "coordinate": [
+                    95.59632110595703,
+                    171.4508819580078,
+                    240.9569091796875,
+                    209.21315002441406
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9320862889289856,
+                "coordinate": [
+                    95.78546142578125,
+                    208.62789916992188,
+                    646.1490478515625,
+                    243.88662719726562
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9212233424186707,
+                "coordinate": [
+                    97.72979736328125,
+                    242.4410400390625,
+                    384.338623046875,
+                    277.400390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9230433702468872,
+                "coordinate": [
+                    100.48506927490234,
+                    307.591552734375,
+                    346.2954406738281,
+                    343.0794677734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9306800365447998,
+                "coordinate": [
+                    100.44668579101562,
+                    341.1478271484375,
+                    663.82958984375,
+                    376.19873046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9122679233551025,
+                "coordinate": [
+                    102.39071655273438,
+                    375.7562561035156,
+                    388.2768859863281,
+                    411.7626647949219
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9313288331031799,
+                "coordinate": [
+                    106.66937255859375,
+                    443.51116943359375,
+                    313.30584716796875,
+                    478.62451171875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9380875825881958,
+                "coordinate": [
+                    106.50920104980469,
+                    475.7342224121094,
+                    615.1944580078125,
+                    511.2427062988281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9282628893852234,
+                "coordinate": [
+                    108.29859924316406,
+                    510.8996276855469,
+                    389.7183837890625,
+                    547.580322265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.45699313282966614,
+                "coordinate": [
+                    205.92654418945312,
+                    605.2498779296875,
+                    599.849365234375,
+                    649.3580322265625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4544467031955719,
+                "coordinate": [
+                    111.57745361328125,
+                    606.48193359375,
+                    699.7587280273438,
+                    706.604248046875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6383281350135803,
+                "coordinate": [
+                    112.27786254882812,
+                    652.32177734375,
+                    698.775634765625,
+                    705.607177734375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8957583904266357,
+                "coordinate": [
+                    61.646240234375,
+                    736.9375,
+                    751.0245361328125,
+                    957.325439453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9502137899398804,
+                "coordinate": [
+                    156.07423400878906,
+                    1008.3868408203125,
+                    665.3319091796875,
+                    1048.9632568359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9494207501411438,
+                "coordinate": [
+                    253.63262939453125,
+                    1045.6363525390625,
+                    565.4901733398438,
+                    1079.4757080078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9408148527145386,
+                "coordinate": [
+                    272.209228515625,
+                    1079.751220703125,
+                    546.382080078125,
+                    1113.144287109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8817905187606812,
+                "coordinate": [
+                    85.27218627929688,
+                    1110.920654296875,
+                    741.2733154296875,
+                    1157.70849609375
+                ]
+            }
+        ]
+    }
+}

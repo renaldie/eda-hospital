@@ -1,0 +1,418 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0108(1)眼科散瞳檢查衛教.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "doc_title",
+            "block_content": "眼科散瞳檢查衛教",
+            "block_bbox": [
+                357,
+                73,
+                864,
+                141
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "一、散瞳（瞳孔放大）定義：",
+            "block_bbox": [
+                41,
+                165,
+                548,
+                213
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "點散瞳藥水，使眼睛睫狀肌麻痺，將瞳孔放大，對於白內障、眼底（玻璃體、視網膜黃斑部及視神經）檢查及兒童視力檢查能更加詳細。",
+            "block_bbox": [
+                109,
+                227,
+                1140,
+                339
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "二、點藥過程說明：",
+            "block_bbox": [
+                36,
+                392,
+                391,
+                442
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td>成人</td><td>點藥一次即可，等待瞳孔放大時間約30分鐘，但依個人狀況不同，少數人需點2-3次才能達散瞳效果。</td></tr><tr><td>兒童</td><td>16歲以下兒童，因睫狀肌收縮能力較強，為了有較好的散瞳效果，需每10分鐘點一次，共點3次。</td></tr></table>",
+            "block_bbox": [
+                20,
+                447,
+                1150,
+                675
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "三、散瞳後注意事項：",
+            "block_bbox": [
+                23,
+                723,
+                422,
+                772
+            ],
+            "block_id": 5,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "1、瞳孔放大後會有暫時性視力模糊、閱讀困難、怕光的現象，所以當日不要開車或騎車，以免危險。",
+            "block_bbox": [
+                55,
+                788,
+                1150,
+                892
+            ],
+            "block_id": 6,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "2、一般約4～6小時後可恢復散瞳前的視力，少數患者可能會6-12小時才能恢復，走路或上下樓梯請小心，避免跌倒",
+            "block_bbox": [
+                49,
+                905,
+                1156,
+                1008
+            ],
+            "block_id": 7,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "3、可自備遮陽工具如：太陽眼鏡、帽子、陽傘，以降低畏光的不適感。",
+            "block_bbox": [
+                53,
+                1017,
+                1148,
+                1068
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "四、防跌口诀",
+            "block_bbox": [
+                22,
+                1137,
+                266,
+                1181
+            ],
+            "block_id": 9,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 善用辅具不跌倒",
+            "block_bbox": [
+                43,
+                1195,
+                337,
+                1245
+            ],
+            "block_id": 10,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 改變姿勢要注意",
+            "block_bbox": [
+                39,
+                1255,
+                334,
+                1305
+            ],
+            "block_id": 11,
+            "block_order": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 家人陪伴不跌倒",
+            "block_bbox": [
+                36,
+                1314,
+                333,
+                1363
+            ],
+            "block_id": 12,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 需要協助我就到",
+            "block_bbox": [
+                34,
+                1375,
+                332,
+                1424
+            ],
+            "block_id": 13,
+            "block_order": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "5. 醫護合作不跌倒",
+            "block_bbox": [
+                33,
+                1434,
+                332,
+                1484
+            ],
+            "block_id": 14,
+            "block_order": 14
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"2\">聯絡資訊</td></tr><tr><td colspan=\"2\">義大醫院 眼科門診</td></tr><tr><td>地址:高雄市燕巢區角宿里義大路1號</td><td>電話:07-6150011 分機:5888</td></tr></table>",
+            "block_bbox": [
+                0,
+                1515,
+                1177,
+                1646
+            ],
+            "block_id": 15,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "美士酸液时间法：21×29.7cm 2023.05 印制",
+            "block_bbox": [
+                0,
+                1666,
+                425,
+                1684
+            ],
+            "block_id": 16,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8567751049995422,
+                "coordinate": [
+                    357.51129150390625,
+                    73.63764953613281,
+                    864.7142944335938,
+                    141.47520446777344
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9116165637969971,
+                "coordinate": [
+                    41.65692138671875,
+                    165.45870971679688,
+                    548.0252685546875,
+                    213.42111206054688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8709003329277039,
+                "coordinate": [
+                    109.24566650390625,
+                    227.57171630859375,
+                    1140.1181640625,
+                    339.90740966796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.938572883605957,
+                "coordinate": [
+                    36.527587890625,
+                    392.14373779296875,
+                    391.304443359375,
+                    442.44830322265625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9833595752716064,
+                "coordinate": [
+                    20.65460205078125,
+                    447.28076171875,
+                    1150.196044921875,
+                    675.5968017578125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533007144927979,
+                "coordinate": [
+                    23.456283569335938,
+                    723.1209716796875,
+                    422.620849609375,
+                    772.2967529296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9748522043228149,
+                "coordinate": [
+                    55.95965576171875,
+                    788.9188232421875,
+                    1150.496337890625,
+                    892.2481689453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9710637331008911,
+                "coordinate": [
+                    49.6832275390625,
+                    905.3828125,
+                    1156.4154052734375,
+                    1008.9300537109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.947986900806427,
+                "coordinate": [
+                    53.57135009765625,
+                    1017.8194580078125,
+                    1148.84619140625,
+                    1068.0513916015625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9452793002128601,
+                "coordinate": [
+                    22.094810485839844,
+                    1137.7408447265625,
+                    266.6576843261719,
+                    1181.8597412109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.927924394607544,
+                "coordinate": [
+                    43.9354248046875,
+                    1195.6192626953125,
+                    337.6192321777344,
+                    1245.6988525390625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9278122186660767,
+                "coordinate": [
+                    39.43733215332031,
+                    1255.6373291015625,
+                    334.4776611328125,
+                    1305.3199462890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9300317168235779,
+                "coordinate": [
+                    36.74971008300781,
+                    1314.94091796875,
+                    333.6605224609375,
+                    1363.044921875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9143143892288208,
+                "coordinate": [
+                    34.213958740234375,
+                    1375.962158203125,
+                    332.0120849609375,
+                    1424.365478515625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9124274253845215,
+                "coordinate": [
+                    33.426971435546875,
+                    1434.8140869140625,
+                    332.7024841308594,
+                    1484.7623291015625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9170390963554382,
+                "coordinate": [
+                    0.2359619140625,
+                    1515.0931396484375,
+                    1177.8870849609375,
+                    1646.0189208984375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5161847472190857,
+                "coordinate": [
+                    0.6233978271484375,
+                    1666.23779296875,
+                    425.41217041015625,
+                    1684
+                ]
+            }
+        ]
+    }
+}

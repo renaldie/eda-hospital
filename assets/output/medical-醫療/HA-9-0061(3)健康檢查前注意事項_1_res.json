@@ -1,0 +1,639 @@
+{
+    "input_path": "./assets/medical-醫療/HA-9-0061(3)健康檢查前注意事項.pdf",
+    "page_index": 1,
+    "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+                10,
+                12,
+                296,
+                66
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "須注射顯影劑之電腦斷層檢查",
+            "block_bbox": [
+                130,
+                164,
+                474,
+                196
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 若您本身有糖尿病，檢查項目包含冠狀動脈血管攝影(含顯影劑)、腹部或頭部電腦斷層（含顯影劑），檢查前2天及檢查後2天須停止服用糖尿病藥物（metformin），如伏糖錠、美爾胰錠、高糖優美膜衣錠、愛妥蜜錠等，請與您的醫師討論是否可停藥，以免影響檢查。",
+            "block_bbox": [
+                67,
+                241,
+                800,
+                431
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                826,
+                263,
+                953,
+                391
+            ],
+            "block_id": 3,
+            "block_order": null
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                979,
+                262,
+                1106,
+                391
+            ],
+            "block_id": 4,
+            "block_order": null
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "冠狀動脈 CT",
+            "block_bbox": [
+                822,
+                401,
+                959,
+                430
+            ],
+            "block_id": 5,
+            "block_order": null
+        },
+        {
+            "block_label": "vision_footnote",
+            "block_content": "核磁造影",
+            "block_bbox": [
+                991,
+                401,
+                1089,
+                429
+            ],
+            "block_id": 6,
+            "block_order": null
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 可下載「義大醫療顯影劑藥清楚」APP，參閱顯影劑相關注意事項。",
+            "block_bbox": [
+                68,
+                441,
+                825,
+                472
+            ],
+            "block_id": 7,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "溫馨提醒",
+            "block_bbox": [
+                170,
+                545,
+                280,
+                578
+            ],
+            "block_id": 8,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 如有加選麻醉「無痛」檢查，請勿擦拭有色指甲油(含光療指甲、水晶指甲)，當天勿配帶耳環、項鍊、戒指及隱形眼鏡，勿穿連身內衣或連身褲襪，貴重物品請勿攜帶。",
+            "block_bbox": [
+                69,
+                617,
+                1111,
+                689
+            ],
+            "block_id": 9,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 為方便女性顧客檢查，可穿著無鋼圈運動型內衣受檢。",
+            "block_bbox": [
+                70,
+                697,
+                689,
+                728
+            ],
+            "block_id": 10,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "3. 月經期間請勿做糞便、尿液和抹片檢查，可於檢查結束後 7 天內補送至健診中心。若有懷孕的可能，亦請延期或勿照 X 光。",
+            "block_bbox": [
+                69,
+                737,
+                1107,
+                808
+            ],
+            "block_id": 11,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 建議 30 歲以上「有性行為」的女性，每年均應接受國健署子宮頸抹片檢查。檢查項目中若有婦科超音波，必須視情況等待漲尿後再受檢。",
+            "block_bbox": [
+                68,
+                817,
+                1119,
+                889
+            ],
+            "block_id": 12,
+            "block_order": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "貴賓專屬優惠",
+            "block_bbox": [
+                148,
+                939,
+                311,
+                972
+            ],
+            "block_id": 13,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 收費停車場位於義大醫院急診旁，若當天有停車者可洽健診中心櫃檯人員索取停車優免卷，再交由收費人員可免停車費。",
+            "block_bbox": [
+                70,
+                1000,
+                1104,
+                1071
+            ],
+            "block_id": 14,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 本中心感謝既有貴賓的支持與愛護，特推出「回檢貴賓尊享優惠」。如攜帶本中心所提供之「健檢服」，可擇一贈送抽血檢查項目。本活動內容請於健檢當日洽詢櫃台服務人員。",
+            "block_bbox": [
+                68,
+                1080,
+                1118,
+                1153
+            ],
+            "block_id": 15,
+            "block_order": 11
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "其他",
+            "block_bbox": [
+                196,
+                1205,
+                255,
+                1239
+            ],
+            "block_id": 16,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "1. 若需變更檢查日期或欲加選檢查項目請提早 3 天來電告知，以利變更預約作業，縮短等候時間",
+            "block_bbox": [
+                68,
+                1267,
+                1098,
+                1299
+            ],
+            "block_id": 17,
+            "block_order": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "2. 繳費方式：現金或信用卡(只適用於 VISA 卡、Master 卡、JCB 卡)。美國運通卡不適用。",
+            "block_bbox": [
+                67,
+                1308,
+                1041,
+                1339
+            ],
+            "block_id": 18,
+            "block_order": 14
+        },
+        {
+            "block_label": "text",
+            "block_content": "☑ 健診中心諮詢電話：(07)615-0011 轉 5705、5707、5713、5712、5688\n☑ 健檢服務時間：",
+            "block_bbox": [
+                56,
+                1364,
+                954,
+                1396
+            ],
+            "block_id": 19,
+            "block_order": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                55,
+                1405,
+                273,
+                1436
+            ],
+            "block_id": 20,
+            "block_order": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "週一至週五：08:00～17:00",
+            "block_bbox": [
+                91,
+                1445,
+                417,
+                1476
+            ],
+            "block_id": 21,
+            "block_order": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "週六：08:00～12:00",
+            "block_bbox": [
+                92,
+                1485,
+                341,
+                1516
+            ],
+            "block_id": 22,
+            "block_order": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "☑ 來院交通路線簡示圖：",
+            "block_bbox": [
+                55,
+                1525,
+                351,
+                1556
+            ],
+            "block_id": 23,
+            "block_order": 19
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                669,
+                1397,
+                1105,
+                1657
+            ],
+            "block_id": 24,
+            "block_order": null
+        },
+        {
+            "block_label": "footer",
+            "block_content": "義大醫療財團法人 21×29.7cm 2024.07 印製",
+            "block_bbox": [
+                69,
+                1597,
+                474,
+                1622
+            ],
+            "block_id": 25,
+            "block_order": null
+        },
+        {
+            "block_label": "number",
+            "block_content": "2",
+            "block_bbox": [
+                582,
+                1597,
+                598,
+                1619
+            ],
+            "block_id": 26,
+            "block_order": null
+        }
+    ],
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.9465376734733582,
+                "coordinate": [
+                    10.459075927734375,
+                    12.523141860961914,
+                    296.0593566894531,
+                    66.27166748046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564952850341797,
+                "coordinate": [
+                    130.82138061523438,
+                    164.83316040039062,
+                    474.8608703613281,
+                    196.9310302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9830895662307739,
+                "coordinate": [
+                    67.40737915039062,
+                    241.83265686035156,
+                    800.2569580078125,
+                    431.48779296875
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.968254804611206,
+                "coordinate": [
+                    826.1353759765625,
+                    263.2043151855469,
+                    953.561279296875,
+                    391.3681945800781
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9731795191764832,
+                "coordinate": [
+                    979.3342895507812,
+                    262.454345703125,
+                    1106.613525390625,
+                    391.28375244140625
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9289464950561523,
+                "coordinate": [
+                    822.79833984375,
+                    401.5765075683594,
+                    959.0267333984375,
+                    430.2068176269531
+                ]
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9190416932106018,
+                "coordinate": [
+                    991.1650390625,
+                    401.5630187988281,
+                    1089.765625,
+                    429.9602966308594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9463170766830444,
+                "coordinate": [
+                    68.0865478515625,
+                    441.25732421875,
+                    825.16064453125,
+                    472.885498046875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.946123480796814,
+                "coordinate": [
+                    170.15426635742188,
+                    545.1272583007812,
+                    280.2468566894531,
+                    578.6509399414062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787117838859558,
+                "coordinate": [
+                    69.89630126953125,
+                    617.529296875,
+                    1111.646484375,
+                    689.3685302734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9555569291114807,
+                "coordinate": [
+                    70.33038330078125,
+                    697.9464111328125,
+                    689.6565551757812,
+                    728.9229736328125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9775561690330505,
+                "coordinate": [
+                    69.83856201171875,
+                    737.5427856445312,
+                    1107.269775390625,
+                    808.3930053710938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9760825037956238,
+                "coordinate": [
+                    68.70068359375,
+                    817.2330932617188,
+                    1119.19189453125,
+                    889.8521118164062
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9441075325012207,
+                "coordinate": [
+                    148.82717895507812,
+                    939.0856323242188,
+                    311.0694885253906,
+                    972.5997924804688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979013204574585,
+                "coordinate": [
+                    70.071044921875,
+                    1000.655517578125,
+                    1104.4327392578125,
+                    1071.047119140625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733337759971619,
+                "coordinate": [
+                    68.78314208984375,
+                    1080.31201171875,
+                    1118.170166015625,
+                    1153.64453125
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9215086102485657,
+                "coordinate": [
+                    196.72125244140625,
+                    1205.5743408203125,
+                    255.30801391601562,
+                    1239.2200927734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8835026621818542,
+                "coordinate": [
+                    68.35302734375,
+                    1267.3712158203125,
+                    1098.967041015625,
+                    1299.2056884765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9030253291130066,
+                "coordinate": [
+                    67.5440673828125,
+                    1308.052490234375,
+                    1041.7513427734375,
+                    1339.465087890625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6968886256217957,
+                "coordinate": [
+                    56.7913818359375,
+                    1364.819091796875,
+                    954.9745483398438,
+                    1396.8681640625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8850768804550171,
+                "coordinate": [
+                    55.42375183105469,
+                    1405.373291015625,
+                    273.7799072265625,
+                    1436.434814453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9301133751869202,
+                "coordinate": [
+                    91.90660095214844,
+                    1445.704833984375,
+                    417.9517822265625,
+                    1476.611083984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.896454393863678,
+                "coordinate": [
+                    92.60726165771484,
+                    1485.523681640625,
+                    341.2131042480469,
+                    1516.080810546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.941258430480957,
+                "coordinate": [
+                    55.67578125,
+                    1525.5386962890625,
+                    351.0184631347656,
+                    1556.8343505859375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9760021567344666,
+                "coordinate": [
+                    669.796142578125,
+                    1397.803955078125,
+                    1105.8502197265625,
+                    1657.962646484375
+                ]
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8268359303474426,
+                "coordinate": [
+                    69.39608764648438,
+                    1597.33154296875,
+                    474.9671936035156,
+                    1622.79443359375
+                ]
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8294730186462402,
+                "coordinate": [
+                    582.1546020507812,
+                    1597.482421875,
+                    598.6983032226562,
+                    1619.29150390625
+                ]
+            }
+        ]
+    }
+}

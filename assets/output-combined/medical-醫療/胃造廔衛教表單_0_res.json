@@ -1,0 +1,280 @@
+{
+    "input_path": "./assets/input/medical-醫療/胃造廔衛教表單.pdf",
+    "page_index": 0,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                148,
+                0,
+                634,
+                73
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "doc_title",
+            "block_content": "經皮內視鏡胃造廬\n術後之照護注意事項",
+            "block_bbox": [
+                113,
+                100,
+                667,
+                247
+            ],
+            "block_id": 1,
+            "block_order": 1
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "一、名詞解釋",
+            "block_bbox": [
+                0,
+                344,
+                195,
+                378
+            ],
+            "block_id": 2,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "病人可能因某疾病發生吞嚥困難而需要管灌飲食，胃造壞為一個替代鼻胃管的方式，此為在胃及腹壁上做一造口，置入灌食管。",
+            "block_bbox": [
+                6,
+                402,
+                802,
+                542
+            ],
+            "block_id": 3,
+            "block_order": 3
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "二、通用對象",
+            "block_bbox": [
+                4,
+                673,
+                194,
+                702
+            ],
+            "block_id": 4,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "1.腦中風患者。",
+            "block_bbox": [
+                72,
+                723,
+                278,
+                754
+            ],
+            "block_id": 5,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "2.頭頸部癌或食道癌治療後吞嚥困難。",
+            "block_bbox": [
+                74,
+                774,
+                563,
+                807
+            ],
+            "block_id": 6,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "3.腦部病變或神經肌肉系統疾病而需長期置放鼻胃管者。",
+            "block_bbox": [
+                76,
+                821,
+                792,
+                860
+            ],
+            "block_id": 7,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "4. 無法放置鼻胃管之患者。",
+            "block_bbox": [
+                78,
+                881,
+                422,
+                913
+            ],
+            "block_id": 8,
+            "block_order": 8
+        },
+        {
+            "block_label": "text",
+            "block_content": "義大緊瘡財團法 14.8x21cm 2024.01 印製 2023.11 修訂 HA-9-0051(2)",
+            "block_bbox": [
+                39,
+                1163,
+                453,
+                1190
+            ],
+            "block_id": 9,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "",
+            "block_bbox": [
+                511,
+                1157,
+                786,
+                1183
+            ],
+            "block_id": 10,
+            "block_order": 10
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6564778685569763,
+                "coordinate": [
+                    148.71755981445312,
+                    0,
+                    634.7698974609375,
+                    73.87512969970703
+                ]
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.6366471648216248,
+                "coordinate": [
+                    113.64285278320312,
+                    100.75105285644531,
+                    667.8665771484375,
+                    247.2549285888672
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.895283043384552,
+                "coordinate": [
+                    0.040771484375,
+                    344.289306640625,
+                    195.1738739013672,
+                    378.8619384765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9683512449264526,
+                "coordinate": [
+                    6.99591064453125,
+                    402.12384033203125,
+                    802.16650390625,
+                    542.7225341796875
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9099410176277161,
+                "coordinate": [
+                    4.043067932128906,
+                    673.1864013671875,
+                    194.48028564453125,
+                    702.8145751953125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9335381984710693,
+                "coordinate": [
+                    72.93396759033203,
+                    723.9420776367188,
+                    278.8577880859375,
+                    754.8071899414062
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9349867701530457,
+                "coordinate": [
+                    74.05828857421875,
+                    774.5126953125,
+                    563.999755859375,
+                    807.404052734375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9294176697731018,
+                "coordinate": [
+                    76.59991455078125,
+                    821.3758544921875,
+                    792.210693359375,
+                    860.5501708984375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9302029013633728,
+                "coordinate": [
+                    78.80418395996094,
+                    881.1754150390625,
+                    422.1385498046875,
+                    913.58349609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.587848961353302,
+                "coordinate": [
+                    39.32487487792969,
+                    1163.034912109375,
+                    453.41387939453125,
+                    1190
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6811792254447937,
+                "coordinate": [
+                    511.2754821777344,
+                    1157.476318359375,
+                    786.8126220703125,
+                    1183.892822265625
+                ]
+            }
+        ]
+    }
+}

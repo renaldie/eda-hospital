@@ -1,0 +1,107 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 13,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"3\">~飲食建議表~</td></tr><tr><td>類別</td><td>可食</td><td>忌食</td></tr><tr><td>魚蛋肉類</td><td>家畜:牛肉(瘦)、羊肉(瘦)、豬大里肌、後腿瘦豬肉、前腿瘦豬肉、豬大排等。家禽:去皮家禽,如雞胸肉、雞腿、鵝肉、鴨肉等。水產:土魠、旗魚、吳郭魚、鰱魚、虱目魚、鯉魚、紅目鰱、白帶魚、烏賊、螃蟹、蟳、蝦、干貝、牡蠣、海參等。蛋類:雞蛋、鴨蛋等。</td><td>家畜:肥肉、五花肉、蹄膀、豬皮、豬腳、牛腩等。家禽:鴨皮、雞皮、雞鴨翅等。水產:魚卵、包餡魚丸、魚餃、蟹黃、蝦卵或罐頭食品等。加工食品:肉燥、肉醬、豬肉乾、肉鬆、肉脯、中式火腿、香腸、培根、熱狗、肉丸、甜不辣等。速食品:炸雞、漢堡、肉魚丸等。</td></tr></table>",
+            "block_bbox": [
+                0,
+                30,
+                780,
+                1113
+            ],
+            "block_id": 0,
+            "block_order": null
+        },
+        {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"3\">~飲食建議表~</td></tr><tr><td>類別</td><td>可食</td><td>忌食</td></tr><tr><td>水果類</td><td>新鮮水果及自製果汁</td><td>乾果類(蜜餞)及水果罐頭等。</td></tr><tr><td>調味品</td><td>蔥、薑、蒜、白糖、白醋、五香、八角、胡椒、咖喱粉等。(刺激性食品少食用)</td><td>沙拉醬、芝麻醬、花生醬、辣椒醬、沙茶醬、豆瓣醬、甜麵醬、味精、蒜鹽、番茄醬、烏醋等。</td></tr><tr><td>其他</td><td>太白粉、淡茶。</td><td>奶精、油炸粉、炸蠶豆、爆玉米花、洋芋片、椰子粉、花生粉、牛奶糖、巧克力等。人蔘飲、雞精、海苔醬、速食湯等。</td></tr></table>",
+            "block_bbox": [
+                828,
+                36,
+                1631,
+                1170
+            ],
+            "block_id": 1,
+            "block_order": null
+        },
+        {
+            "block_label": "image",
+            "block_content": "",
+            "block_bbox": [
+                822,
+                883,
+                1309,
+                1169
+            ],
+            "block_id": 2,
+            "block_order": null
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4856994152069092,
+                "coordinate": [
+                    217.32293701171875,
+                    28.712541580200195,
+                    515.1461181640625,
+                    76.16590881347656
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9600809216499329,
+                "coordinate": [
+                    0,
+                    30.19329833984375,
+                    780.7893676757812,
+                    1113.68212890625
+                ]
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9444077014923096,
+                "coordinate": [
+                    828.38525390625,
+                    36.15130615234375,
+                    1631.9912109375,
+                    1170.97802734375
+                ]
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.733146071434021,
+                "coordinate": [
+                    822.2607421875,
+                    883.1207885742188,
+                    1309.57763671875,
+                    1169.073974609375
+                ]
+            }
+        ]
+    }
+}

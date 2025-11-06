@@ -1,0 +1,658 @@
+{
+    "input_path": "./assets/input/medical-醫療/HA-9-0100(2)急性心肌梗塞注意事項(手冊).pdf",
+    "page_index": 10,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_layout_detection": true,
+        "use_chart_recognition": true,
+        "format_block_content": false
+    },
+    "parsing_res_list": [
+        {
+            "block_label": "paragraph_title",
+            "block_content": "2. 降血脂藥物：",
+            "block_bbox": [
+                43,
+                37,
+                322,
+                88
+            ],
+            "block_id": 0,
+            "block_order": 1
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1) 常用藥品：",
+            "block_bbox": [
+                79,
+                94,
+                342,
+                148
+            ],
+            "block_id": 1,
+            "block_order": 2
+        },
+        {
+            "block_label": "text",
+            "block_content": "Atorvastatin、Rosuvastatin、",
+            "block_bbox": [
+                147,
+                156,
+                615,
+                213
+            ],
+            "block_id": 2,
+            "block_order": 3
+        },
+        {
+            "block_label": "text",
+            "block_content": "Atorvastatin/Ezetimibe",
+            "block_bbox": [
+                152,
+                216,
+                542,
+                269
+            ],
+            "block_id": 3,
+            "block_order": 4
+        },
+        {
+            "block_label": "text",
+            "block_content": "Alirocumab(PCSK9抑制針劑)",
+            "block_bbox": [
+                153,
+                272,
+                632,
+                325
+            ],
+            "block_id": 4,
+            "block_order": 5
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2) 用途：降低膽固醇。",
+            "block_bbox": [
+                89,
+                328,
+                496,
+                382
+            ],
+            "block_id": 5,
+            "block_order": 6
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3) 須同時配合飲食控制及適當運動。",
+            "block_bbox": [
+                89,
+                387,
+                723,
+                440
+            ],
+            "block_id": 6,
+            "block_order": 7
+        },
+        {
+            "block_label": "text",
+            "block_content": "(4)副作用：胃肠道不通，肌肉疼痛或無力，肝功能指數上升。",
+            "block_bbox": [
+                92,
+                445,
+                769,
+                554
+            ],
+            "block_id": 7,
+            "block_order": 8
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "3. 乙型受體阻斷劑",
+            "block_bbox": [
+                64,
+                562,
+                379,
+                613
+            ],
+            "block_id": 8,
+            "block_order": 9
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1) 常用藥品：\nBisoprolol、Carvedilol",
+            "block_bbox": [
+                102,
+                618,
+                524,
+                720
+            ],
+            "block_id": 9,
+            "block_order": 10
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2)用途：减缓心跳速率，减少心臟負擔。",
+            "block_bbox": [
+                99,
+                723,
+                798,
+                777
+            ],
+            "block_id": 10,
+            "block_order": 11
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3) 服藥期間須定期測量血壓及心跳。",
+            "block_bbox": [
+                98,
+                780,
+                726,
+                833
+            ],
+            "block_id": 11,
+            "block_order": 12
+        },
+        {
+            "block_label": "text",
+            "block_content": "(4)副作用：頭暈、頭痛、手腳冰冷、心搏徐緩。",
+            "block_bbox": [
+                100,
+                836,
+                774,
+                943
+            ],
+            "block_id": 12,
+            "block_order": 13
+        },
+        {
+            "block_label": "text",
+            "block_content": "(5)服藥後若突然改變姿勢會感覺頭暈，可以放慢動作以減少頭暈狀況。",
+            "block_bbox": [
+                100,
+                947,
+                765,
+                1059
+            ],
+            "block_id": 13,
+            "block_order": 14
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "4. 血管張力素轉化酶抑制劑/血管張力素受體阻斷劑：",
+            "block_bbox": [
+                892,
+                50,
+                1611,
+                157
+            ],
+            "block_id": 14,
+            "block_order": 15
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1) 常用藥品：\nCaptopril、Enalapril、Valsartan、\nOlmesartan、Irbesartan",
+            "block_bbox": [
+                921,
+                162,
+                1558,
+                318
+            ],
+            "block_id": 15,
+            "block_order": 16
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2)用途：使血管擴張，降低血管阻力。",
+            "block_bbox": [
+                921,
+                323,
+                1605,
+                375
+            ],
+            "block_id": 16,
+            "block_order": 17
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3) 服藥期間須定期測量血壓及心跳。",
+            "block_bbox": [
+                920,
+                379,
+                1568,
+                430
+            ],
+            "block_id": 17,
+            "block_order": 18
+        },
+        {
+            "block_label": "text",
+            "block_content": "(4)副作用：乾咳、頭暈、頭痛。",
+            "block_bbox": [
+                920,
+                434,
+                1492,
+                485
+            ],
+            "block_id": 18,
+            "block_order": 19
+        },
+        {
+            "block_label": "text",
+            "block_content": "(5)服藥後若突然改變姿勢會感覺頭暈，可以放慢動作以減少頭暈狀況。",
+            "block_bbox": [
+                920,
+                487,
+                1603,
+                592
+            ],
+            "block_id": 19,
+            "block_order": 20
+        },
+        {
+            "block_label": "paragraph_title",
+            "block_content": "5. 第2型鈉-葡萄糖轉運蛋白抑制劑",
+            "block_bbox": [
+                885,
+                597,
+                1473,
+                647
+            ],
+            "block_id": 20,
+            "block_order": 21
+        },
+        {
+            "block_label": "text",
+            "block_content": "(SGLT2抑制劑):",
+            "block_bbox": [
+                919,
+                651,
+                1224,
+                701
+            ],
+            "block_id": 21,
+            "block_order": 22
+        },
+        {
+            "block_label": "text",
+            "block_content": "(1) 常用藥品：Dapagliflozin、Empagliflozin",
+            "block_bbox": [
+                915,
+                704,
+                1645,
+                758
+            ],
+            "block_id": 22,
+            "block_order": 23
+        },
+        {
+            "block_label": "text",
+            "block_content": "(2)用途：糖尿病共病控制，心衰竭用藥。",
+            "block_bbox": [
+                915,
+                759,
+                1646,
+                811
+            ],
+            "block_id": 23,
+            "block_order": 24
+        },
+        {
+            "block_label": "text",
+            "block_content": "(3) 注意补充水分避免脱水。",
+            "block_bbox": [
+                918,
+                814,
+                1413,
+                864
+            ],
+            "block_id": 24,
+            "block_order": 25
+        },
+        {
+            "block_label": "text",
+            "block_content": "(4) 副作用：泌尿道感染風險。",
+            "block_bbox": [
+                918,
+                866,
+                1449,
+                919
+            ],
+            "block_id": 25,
+            "block_order": 26
+        }
+    ],
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": true,
+            "use_doc_unwarping": true
+        },
+        "angle": 0
+    },
+    "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9208287596702576,
+                "coordinate": [
+                    43.4761962890625,
+                    37.36261749267578,
+                    322.0997009277344,
+                    88.83325958251953
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5933466553688049,
+                "coordinate": [
+                    79.72897338867188,
+                    94.15937805175781,
+                    342.4887390136719,
+                    148.9158935546875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8145074248313904,
+                "coordinate": [
+                    147.6010284423828,
+                    156.9307861328125,
+                    615.1210327148438,
+                    213.18988037109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7341743111610413,
+                "coordinate": [
+                    152.76585388183594,
+                    216.62716674804688,
+                    542.966552734375,
+                    269.2964172363281
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6784855127334595,
+                "coordinate": [
+                    153.205078125,
+                    272.1415100097656,
+                    632.7670288085938,
+                    325.1402282714844
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9200209975242615,
+                "coordinate": [
+                    89.76132202148438,
+                    328.7763671875,
+                    496.7394104003906,
+                    382.14453125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9300551414489746,
+                "coordinate": [
+                    89.50946044921875,
+                    387.0010986328125,
+                    723.1651611328125,
+                    440.69580078125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9568926692008972,
+                "coordinate": [
+                    92.90597534179688,
+                    445.04364013671875,
+                    769.6817626953125,
+                    554.3661499023438
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.921332597732544,
+                "coordinate": [
+                    64.84394836425781,
+                    562.2125854492188,
+                    379.0513916015625,
+                    613.1203002929688
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9112820029258728,
+                "coordinate": [
+                    102.135498046875,
+                    618.70166015625,
+                    524.7163696289062,
+                    720.8712158203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9121934771537781,
+                "coordinate": [
+                    99.82577514648438,
+                    723.5423583984375,
+                    798.1541748046875,
+                    777.524658203125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9236462712287903,
+                "coordinate": [
+                    98.88589477539062,
+                    780.8299560546875,
+                    726.593994140625,
+                    833.4541015625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9559128284454346,
+                "coordinate": [
+                    100.05184936523438,
+                    836.9107666015625,
+                    774.417724609375,
+                    943.5311279296875
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9521092176437378,
+                "coordinate": [
+                    100.24142456054688,
+                    947.6656494140625,
+                    765.4263916015625,
+                    1059.5972900390625
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.942230224609375,
+                "coordinate": [
+                    892.2962646484375,
+                    50.86659240722656,
+                    1611.4703369140625,
+                    157.29920959472656
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.474388986825943,
+                "coordinate": [
+                    923.17138671875,
+                    160.48068237304688,
+                    1178.16015625,
+                    212.61822509765625
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6376330256462097,
+                "coordinate": [
+                    921.3648681640625,
+                    162.18655395507812,
+                    1558.7801513671875,
+                    318.9114685058594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4963706135749817,
+                "coordinate": [
+                    985.8646850585938,
+                    216.8955078125,
+                    1532.7646484375,
+                    269.04376220703125
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5247383713722229,
+                "coordinate": [
+                    984.726318359375,
+                    272.32855224609375,
+                    1379.5361328125,
+                    319.570068359375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9230626821517944,
+                "coordinate": [
+                    921.311279296875,
+                    323.7247009277344,
+                    1605.129638671875,
+                    375.9012145996094
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9254662990570068,
+                "coordinate": [
+                    920.9656982421875,
+                    379.2334899902344,
+                    1568.1370849609375,
+                    430.9085388183594
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.919526219367981,
+                "coordinate": [
+                    920.660400390625,
+                    434.77392578125,
+                    1492.385009765625,
+                    485.2490234375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9504072666168213,
+                "coordinate": [
+                    920.354736328125,
+                    487.9813537597656,
+                    1603.213623046875,
+                    592.0491943359375
+                ]
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8681053519248962,
+                "coordinate": [
+                    885.6013793945312,
+                    597.3194580078125,
+                    1473.767333984375,
+                    647.4378662109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5999853610992432,
+                "coordinate": [
+                    919.915771484375,
+                    651.4639282226562,
+                    1224.4443359375,
+                    701.1537475585938
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8959757685661316,
+                "coordinate": [
+                    915.278564453125,
+                    704.6529541015625,
+                    1645.544677734375,
+                    758.1370849609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9212748408317566,
+                "coordinate": [
+                    915.9744873046875,
+                    759.453857421875,
+                    1646.5845947265625,
+                    811.652099609375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9222636818885803,
+                "coordinate": [
+                    918.14599609375,
+                    814.19140625,
+                    1413.693603515625,
+                    864.8675537109375
+                ]
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9202859401702881,
+                "coordinate": [
+                    918.238037109375,
+                    866.969482421875,
+                    1449.779052734375,
+                    919.790283203125
+                ]
+            }
+        ]
+    }
+}
