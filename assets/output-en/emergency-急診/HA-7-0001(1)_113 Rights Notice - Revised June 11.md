@@ -1,33 +1,33 @@
-## 家庭暴力被害人權益須知
+## Rights and Information for Victims of Domestic Violence
 
-當你遭受家庭暴力，心裡感到害怕、無助、難過，不知該怎麼辦？你可以撥家庭暴力防治保護專線113的24小時免付費電話，家庭暴力及性侵害防治中心有受過專業訓練的工作人員提供您必要的協助及諮詢，並對您個人資料及求助內容予以保密。
+When you are subjected to domestic violence, you may feel scared, helpless, and sad, not knowing what to do. You can call the 24-hour free hotline for domestic violence prevention and protection at 113. The Domestic Violence and Sexual Assault Prevention Center has professionally trained staff who can provide you with necessary assistance and consultation, and they will keep your personal information and the content of your求助 confidential.
 
 1.
 
 
-<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>高雄市家庭暴力及性侵害防治中心</td><td style='text-align: center;'>07-5355920</td></tr><tr><td style='text-align: center;'>全國婦幼保護專線</td><td style='text-align: center;'>113</td></tr><tr><td style='text-align: center;'>男性關懷專線</td><td style='text-align: center;'>0800-013-999</td></tr><tr><td style='text-align: center;'>福利諮詢專線</td><td style='text-align: center;'>1957</td></tr><tr><td style='text-align: center;'>外來人士在臺生活諮詢專線</td><td style='text-align: center;'>0800-024-111</td></tr></table>
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Kaohsiung City Domestic Violence and Sexual Assault Prevention Center</td><td style='text-align: center;'>07-5355920</td></tr><tr><td style='text-align: center;'>National Women and Children Protection Hotline</td><td style='text-align: center;'>113</td></tr><tr><td style='text-align: center;'>Male Support Hotline</td><td style='text-align: center;'>0800-013-999</td></tr><tr><td style='text-align: center;'>Welfare Consultation Hotline</td><td style='text-align: center;'>1957</td></tr><tr><td style='text-align: center;'>Foreign Residents' Life Consultation Hotline</td><td style='text-align: center;'>0800-024-111</td></tr></table>
 
-### 2. 各社福中心可提供之協助
-
-
-<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>狀況</td><td style='text-align: center;'>可提供之協助</td></tr><tr><td style='text-align: center;'>若有安全顧慮，也無親友資源</td><td style='text-align: center;'>可協助安排緊急庇護場所。</td></tr><tr><td style='text-align: center;'>無力負擔診療費</td><td style='text-align: center;'>請醫療院所協助掛帳。</td></tr><tr><td style='text-align: center;'>經濟困難者</td><td style='text-align: center;'>提出法律訴訟費補助申請、緊急生活扶助。</td></tr><tr><td style='text-align: center;'>需要就業維持生計者</td><td style='text-align: center;'>轉介就業服務站，提供職業訓練或就業輔導。</td></tr></table>
-
-3.遭受家庭暴力行為，可直接向各地派出所報案，如果發生問題，可以由家防中心轉介至高雄市各地派出所或警察分局，協助完成報案手續。
-
-### 4. 保護令申請程序：
+### 2. Assistance Provided by Social Welfare Centers
 
 
-<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>一</td><td style='text-align: center;'>緊急保護令</td><td style='text-align: center;'>無須經審理程序，法院受理申請後，除有正當事由外，將會於四小時內核發緊急性暫時保護令。</td></tr><tr><td style='text-align: center;'>二</td><td style='text-align: center;'>暫時保護令</td><td style='text-align: center;'>法院得不經審理程序或於審理終結前，核發一般性暫時保護令。</td></tr><tr><td style='text-align: center;'>三</td><td style='text-align: center;'>通常保護令</td><td style='text-align: center;'>法院經開庭審理後核發。</td></tr></table>
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Situation</td><td style='text-align: center;'>Assistance Provided</td></tr><tr><td style='text-align: center;'>If there are safety concerns and no family or friend resources</td><td style='text-align: center;'>Can assist in arranging emergency shelter.</td></tr><tr><td style='text-align: center;'>Unable to afford medical expenses</td><td style='text-align: center;'>Request the medical institution to assist with payment on account.</td></tr><tr><td style='text-align: center;'>Economically disadvantaged individuals</td><td style='text-align: center;'>Apply for legal litigation fee assistance and emergency living support.</td></tr><tr><td style='text-align: center;'>Need employment to sustain livelihood</td><td style='text-align: center;'>Referral to employment service centers for vocational training or job counseling.</td></tr></table>
 
- $ ^{*} $ 通常保護令之有效期限為二年以下，自核發時起生效。
+3. If you are subjected to domestic violence, you can directly report the incident to local police stations. If any issues arise, the domestic violence prevention center can refer you to police stations or police bureaus in Kaohsiung City to assist with the reporting procedures.
 
-### 5. 醫療院所可提供之協助
+### 4. Protection Order Application Process:
 
 
-<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>驗傷診療</td><td style='text-align: center;'>醫院不得無故拒絕診療、驗傷，可視需要請醫院的社工人員或護理人員陪伴您，並且尊重您的隱私及協助維護您的安全。</td></tr><tr><td style='text-align: center;'>開立診斷書</td><td style='text-align: center;'>作為提起法律訴訟的相關證據之一，即使還未決定是否提起時，建議還是可以先請醫師開具後放著備用，因為將來到派出所報案時，警察製作筆錄時會將其作為證物。</td></tr></table>
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>One</td><td style='text-align: center;'>Emergency Protection Order</td><td style='text-align: center;'>No trial procedures are required. After the court accepts the application, it will issue an emergency temporary protection order within four hours, unless there are valid reasons to the contrary.</td></tr><tr><td style='text-align: center;'>Two</td><td style='text-align: center;'>Interim Protection Order</td><td style='text-align: center;'>The court may issue a general interim protection order without trial procedures or before the trial concludes.</td></tr><tr><td style='text-align: center;'>Three</td><td style='text-align: center;'>Ordinary Protection Order</td><td style='text-align: center;'>Issued by the court after a trial.</td></tr></table>
 
- $ ^{*} $ 若擔心診斷書帶回家被加害人知道會帶來危險，建議先找親友協助收藏。
+ $ ^{*} $ The validity period of an ordinary protection order is up to two years from the date of issuance.
 
-*當您對自己權益仍不清楚，可以洽詢本院社工課（電話：6150988）
+### 5. Assistance Provided by Medical Institutions
 
-義大醫療財團法人關心您！
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>Injury Assessment and Medical Treatment</td><td style='text-align: center;'>Hospitals may not refuse treatment or injury assessment without just cause. You may request the hospital's social worker or nurse to accompany you, and they will respect your privacy and assist in maintaining your safety.</td></tr><tr><td style='text-align: center;'>Issuing a Medical Certificate</td><td style='text-align: center;'>This can serve as one of the pieces of evidence for legal proceedings. Even if you have not yet decided whether to proceed with legal action, it is advisable to have the doctor issue the certificate and keep it on file, as it will be used as evidence when you report the incident to the police station and they take a statement.</td></tr></table>
+
+ $ ^{*} $ If you are worried that the medical certificate might be discovered by the perpetrator if taken home, it is recommended to have a family member or friend help you store it securely.
+
+*If you are still unclear about your rights, you may contact the social work department of this hospital (Phone: 6150988)
+
+Yida Medical Foundation Cares for You!

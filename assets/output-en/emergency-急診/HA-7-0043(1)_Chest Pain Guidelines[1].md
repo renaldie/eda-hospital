@@ -1,13 +1,13 @@
-## 胸痛须知
+## Important Information About Chest Pain
 
-1. 胸痛是很多心肺血管疾病及胸壁骨骼神经肌肉病變的病兆之一，有可能有嚴重病況不能掉以輕心。
+1. Chest pain is one of the symptoms of many heart and lung vascular diseases, as well as thoracic wall skeletal and nerve muscle disorders. It should not be taken lightly as it may indicate serious conditions.
 
-2. 如果胸痛嚴重或時間持久沒有緩解，或胸痛同時伴有呼吸喘、冒冷汗、暈厥等身體不適的現象，請迅速就醫診治。
+2. If chest pain is severe or persists without relief, or if it is accompanied by symptoms such as shortness of breath, cold sweats, or fainting, please seek medical treatment immediately.
 
-3. 慢性病病患的藥物應按指示服用，不可無故自行停藥，尤其心臟病病患更應注意。
+3. Patients with chronic diseases should take their medications as instructed and should not discontinue them without a doctor's guidance, especially heart disease patients who need to be particularly cautious.
 
-4. 胸痛紧急就醫可以到急診室尋求協助。
+4. For urgent care due to chest pain, you can seek assistance at the emergency room.
 
-5. 胸痛病患於急診離院後，仍須依醫師指示於近日內至相關科別門診追蹤，以發掘潛在性疾病。
+5. After discharge from the emergency room, chest pain patients should still follow their physician's instructions to visit the relevant outpatient departments for follow-up within the near future in order to detect potential underlying diseases.
 
-義大醫療財團法人關心您
+Yi Da Healthcare Foundation cares for you

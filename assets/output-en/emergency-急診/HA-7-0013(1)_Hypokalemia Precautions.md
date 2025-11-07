@@ -1,11 +1,11 @@
-## 低血鉀注意事项
+## Low Blood Potassium Precautions
 
-1. 適用對象：血鉀過低患者
+1. Applicable to: Patients with low blood potassium
 
-2. 多攝取含鉀高的食物，如香蕉、柳丁、橘子、芭樂、硬柿、哈蜜瓜、蕃茄、深綠色蔬菜、雞精、肉湯。
+2. Consume more potassium-rich foods, such as bananas, tangerines, oranges, persimmons, honeydew melons, tomatoes, dark green vegetables, chicken essence, and meat broth.
 
-3. 若持續有腹瀉、嘔吐問題，或就醫的症狀未改善、肌肉乏力加劇時需返急診。
+3. If diarrhea or vomiting persists, or if symptoms do not improve after visiting a doctor, or if muscle weakness worsens, seek emergency care immediately.
 
-4. 低血鉀症之原因須至内分泌或腎臟科門診求診，以安排進一步診斷及治療。
+4. To determine the cause of low blood potassium, consult an endocrinology or nephrology outpatient clinic for further diagnosis and treatment.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you

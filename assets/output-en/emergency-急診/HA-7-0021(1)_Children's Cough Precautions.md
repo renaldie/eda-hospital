@@ -1,15 +1,15 @@
-## 兒童咳嗽注意事项
+## Precautions for Children's Coughing
 
-1. 喉嚨癢時多含溫開水緩慢吞嚥，以避免咳嗽。
+1. When the throat itches, sip warm water slowly to avoid coughing.
 
-2. 避免吃冰、甜食或飲料，暫勿食柑橘類水果(橘子、柳丁、葡萄柚、檸檬)。
+2. Avoid cold, sweet foods or drinks, and temporarily avoid citrus fruits (oranges, tangerines, grapefruits, lemons).
 
-3. 避免冷空氣刺激，必要時帶口罩、圍巾：避免二手煙及灰塵刺激。
+3. Avoid cold air stimulation; if necessary, wear a mask and scarf: avoid secondhand smoke and dust irritation.
 
-4. 按醫囑服藥，門診追蹤治療。如果有高燒、咳嗽等、有或無腹瀉，且有特別出國旅行史，或症狀就醫後仍無法有效緩解或持續惡化情形，請再儘速就醫。
+4. Take medication as prescribed by the doctor and follow up for outpatient treatment. If there is a high fever, cough, with or without diarrhea, a special travel history abroad, or if symptoms do not improve or worsen after medical treatment, seek medical attention as soon as possible.
 
-5. 持續高燒、呼吸困難、多量黃痰、嚴重乾咳、咳血、發紺等情形，請儘速就醫。
+5. Persistent high fever, difficulty breathing, large amounts of yellow phlegm, severe dry cough, coughing up blood, cyanosis, etc., please seek medical attention immediately.
 
-6. 咳嗽期間，應戴口罩，以免傳染他人。
+6. During the coughing period, wear a mask to prevent spreading to others.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you.

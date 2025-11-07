@@ -1,11 +1,11 @@
-## 呼吸困难病患及家属應注意事項
+## Precautions for Patients with Difficulty Breathing and Their Families
 
-1. 呼吸困难是许多心肺及呼吸道疾病的徵兆之一，若有呼吸困难的症状，自己及家属应多留意，并密切注意其变化，不诊原来有没有心肺疾病都不能掉以轻心。
+1. Difficulty breathing is one of the symptoms of many heart, lung, and respiratory diseases. If you or your family members experience symptoms of difficulty breathing, you should pay close attention and monitor any changes. Do not take it lightly, regardless of whether you have a history of heart or lung diseases.
 
-2. 慢性病患者應按醫師指示規則用藥，若病情有變化時，應於近日內至相關科別門診進一步追蹤檢查，或立即就醫。
+2. Patients with chronic diseases should take their medications as instructed by their physicians. If there are any changes in their condition, they should visit the relevant outpatient department for further follow-up examinations within a few days, or seek immediate medical attention.
 
-3. 呼吸困难、急促、發紺時，請先讓病患採坐姿，禁止餵食，且勿隨意下床活動。可依醫師指示給予病患氧氣或急用之藥物來緩解症狀，並立即就醫。
+3. When experiencing difficulty breathing, rapid breathing, or cyanosis, first let the patient sit upright. Do not feed them, and avoid allowing them to move around随意. Administer oxygen or emergency medication to the patient as instructed by the physician to alleviate symptoms, and seek immediate medical attention.
 
-4. 呼吸困难患者於本院診治離院後，若出現高燒不退、胸痛、冒冷汗、發紺、無法平躺安睡、下肢水腫等症状，請直接到急診室尋求協助。
+4. After discharge from Yi Da Hospital, if patients with difficulty breathing experience persistent high fever, chest pain, cold sweats, cyanosis, inability to lie flat and sleep, or lower limb edema, please go directly to the emergency room for assistance.
 
-義大醫療財團法人義大醫院 急診部關心您
+Yi Da Hospital Emergency Department cares for you.

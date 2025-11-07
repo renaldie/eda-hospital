@@ -1,50 +1,39 @@
-## 電腦斷層定位流程
+## CT Positioning Process
 
-電腦斷層定位機可以掃描出人體的三維解剖構造，提供放射治療所需的影像，同時在電腦斷層室也會製作固定身體的模具，輔助之後放射治療時每日的姿勢固定。進行電腦斷層定位前請移除身上金屬物，有需
-
-要注射顯影劑的病患請在注射前禁食四小時，定位前護理師會先幫您打靜脈留置針，打好針後請在等候區稍候。
-
-
+CT positioning machines can scan the three-dimensional anatomical structure of the human body, providing images required for radiotherapy. At the same time, in the CT positioning room, molds to fix the body will be made to assist in daily posture fixation during subsequent radiotherapy. Before undergoing CT positioning, please remove any metal objects on your body. Patients who require contrast agent injection should fast for four hours before the injection. Before positioning, the nurse will first help you insert an IV catheter. After the catheter is inserted, please wait in the waiting area for a while.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_700_295_1011_517.jpg" alt="Image" width="26%" /></div>
 
-
 <div style="text-align: center;"><img src="imgs/img_in_image_box_91_599_588_869.jpg" alt="Image" width="41%" /></div>
 
+After entering the CT positioning room, the radiologist will guide you to cooperate with the CT positioning. If you experience any physical discomfort (such as pain, coughing, or sputum production), please immediately inform the radiologist.
 
-進入電腦斷層定位室後放射師會引導你配合執行電腦斷層定位，如有身體不適（如疼痛、咳嗽、咳痰）請立即告訴放射師。
-
-根據治療部位會有不同的治療姿勢，且每次治療姿勢都相同，所以當放射師幫您擺出姿勢有不舒服的地方，請立即告知放射師協助調整姿勢。
+Depending on the treatment area, different treatment postures will be required, and the posture for each treatment will be the same. Therefore, if you feel uncomfortable when the radiologist helps you into position, please immediately inform the radiologist to assist in adjusting the posture.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_725_818_1003_1152.jpg" alt="Image" width="23%" /></div>
 
-
 <div style="text-align: center;"><img src="imgs/img_in_image_box_94_1254_411_1588.jpg" alt="Image" width="26%" /></div>
 
-
-製作固定模具時，戴上去會有濕熱感且有一定的緊度，因為相當程度的緊度才能輔助您固定每次治療時的位置（範例圖為頭部固定模具，視情況會依不同部位而製作不同的模具）。等固定模具冷卻後，掃電腦斷層影像前護理師會來注射顯影劑，顯影劑本身就是溫的，所以注射到體內後有溫熱感是正常的現象。定位結束後，如果身體沒有不舒服的感覺就可以找護理師拔針(拔針處就是在剛剛打針的地方)，若沒有其他需要禁食的檢查，可以多喝水有助於體內顯影劑的排除，之後的治療時間會再電話通知。
+When making the fixation mold, you may feel a warm and moist sensation with a certain degree of tightness. This level of tightness is necessary to help fix your position during each treatment. (The example image shows a head fixation mold; different molds will be made depending on the treatment area.) After the fixation mold cools down, before the CT scan, the nurse will inject the contrast agent. The contrast agent itself is warm, so it is normal to feel a warm sensation after injection. After positioning is completed, if you do not feel any discomfort, you can ask the nurse to remove the IV catheter (the removal site is where the needle was inserted). If there are no other fasting requirements for examinations, drinking more water can help expel the contrast agent from your body. The subsequent treatment time will be notified by phone.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_714_137_1071_439.jpg" alt="Image" width="29%" /></div>
 
+## Notes
 
-## 注意事项
+The radiologist will draw black lines and markings on your body, which are used for positioning and posture correction before radiotherapy, not the treatment position. Please be careful when bathing! You can rinse with clean water, but do not use soap to scrub or wipe vigorously. If the black line markings fade, do not redraw them yourself. Wait until the treatment time and let the radiologist handle it.
 
-放射師會在身上劃黑線與記號，是之後放射治療前放射師用來擺位與校正姿勢用而非治療位置，洗澡時要注意！可以用清水沖洗,請勿用肥皂搓洗或用力擦拭。若黑線標記消失請勿自己補畫，等到治療時在交由放射師處理。
-
-<div style="text-align: center;">義大醫療財團法人 關心您的健康</div>
-
+<div style="text-align: center;">Yi Da Medical Foundation Cares for Your Health</div>
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_360_840_842_1246.jpg" alt="Image" width="40%" /></div>
 
+Consultation Service Phone Numbers:
 
-諮詢服務電話：
+Yi Da Hospital (07) 615-0011
 
-義大醫院(07)615-0011
+Yi Da Cancer Treatment Hospital (07) 615-0022, extensions 6813, 6787
 
-義大癌治療醫院(07)615-0022 分機 6813、6787
+Yi Da Da Chang Hospital (07) 559-9123
 
-義大大昌醫院(07)559-9123
+Revision Date: March 2017
 
-制修訂年月：2017年3月制訂
-
-表單編號：HA-12-0008(1)
+Form Number: HA-12-0008(1)

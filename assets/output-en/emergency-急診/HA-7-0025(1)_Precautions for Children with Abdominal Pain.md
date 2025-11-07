@@ -1,9 +1,9 @@
-## 兒童腹痛注意事項
+## Precautions for Children's Abdominal Pain
 
-1. 以下情形的腹痛應盡速就醫：突然出現劇烈腹痛、當按壓腹部時孩子哭鬧得更厲害時；小兒的生殖器側面出現腫塊；出現持續性腹痛並按壓時右下腹疼痛加劇有；持續噁心嘔吐、腹肌緊張，甚至腹肌像硬板一樣；出現噁心、嘔吐和便血。
+1. Seek immediate medical attention if the child experiences sudden severe abdominal pain, cries more intensely when the abdomen is pressed, swelling on the side of the genital area, persistent abdominal pain that worsens in the lower right abdomen when pressed, continuous nausea and vomiting with tense abdominal muscles, even to the point where the abdominal muscles feel as hard as a board, or if nausea, vomiting, and bloody stools occur.
 
-2. 按醫生指示定時服藥；少量多餐採溫和飲食（勿刺激、油炸性食物）。
+2. Take medication as prescribed by the doctor; consume small, frequent meals with a mild diet (avoiding spicy or fried foods).
 
-3. 若有嘔吐或劇烈腹痛之情形，應暫時不要吃東西及喝水，直到症狀改善，醫生允許下才可吃清淡飲食。
+3. If vomiting or severe abdominal pain occurs, temporarily avoid eating or drinking until symptoms improve and a doctor permits the consumption of bland food.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

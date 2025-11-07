@@ -1,13 +1,13 @@
-## ☐腔外傷注意事項
+## ☐ Oral Trauma Precautions
 
-1. 每次進食後以溫鹽水或漱口水漱口，保持口腔乾淨。
+1. After each meal, rinse your mouth with warm salt water or mouthwash to keep your mouth clean.
 
-2. 口腔縫合傷口，原則上不需拆線，但若10天後線頭仍在或有異物感，請掛口腔外科門診處理。
+2. For oral surgical wounds, stitches generally do not require removal. However, if the suture thread is still present or you feel a foreign body sensation 10 days later, please consult the oral and maxillofacial surgery outpatient clinic for treatment.
 
-3. 請視個人情況使用流質或軟質食物(如果汁、牛奶、稀飯)，禁食用粗糙、刺激或燙熱食物。
+3. Please consume liquid or soft foods (e.g., juice, milk, porridge) based on your individual condition. Avoid rough, spicy, or hot foods.
 
-4. 如傷口出現感染徵候，如發紅、腫脹、疼痛、有分泌物、發燒等發炎症狀，或異常疼痛、高燒畏寒時，請儘速返診。
+4. If the wound shows signs of infection, such as redness, swelling, pain, discharge, fever, or if you experience abnormal pain, high fever, or chills, please return for a visit as soon as possible.
 
-5. 請按時回門診追蹤。
+5. Please return for follow-up visits on time.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation cares for you.

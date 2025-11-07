@@ -1,21 +1,21 @@
-## 外科傷口縫合後之注意事項
+## Post-Surgical Wound Care Instructions
 
-1. 受傷後8～12小時傷口會繼續腫脹，可將受傷部位抬高並冰敷。
+1. Swelling at the wound site may continue for 8-12 hours after injury. Elevate the injured area and apply ice packs.
 
-（1）取適量冰塊於冰袋中，加水三分之一。
+(1) Place an appropriate amount of ice cubes in the ice bag and add water to one-third of the bag's capacity.
 
-（2）倒置冰袋檢查是否有漏水，用乾毛巾包裹冰袋，冰敷患部。
+(2) Invert the ice bag to check for leaks. Wrap the ice bag with a dry towel and apply it to the affected area.
 
-（3）每天冰敷四次，每次15~20分鐘休息。
+(3) Apply ice four times daily, each session lasting 15-20 minutes with rest intervals in between.
 
-2. 保持傷口敷料清潔乾燥，傷口不可碰到水，若傷口敷料滲濕應即刻更換紗布並換藥，如淋浴時請在受傷肢體使用保護袋覆蓋保護，直到醫囑可以碰到水。
+2. Keep the wound dressing clean and dry. Avoid contact with water. If the dressing becomes damp, replace the gauze and medication immediately. When showering, use a protective bag to cover the injured limb until the physician permits water contact.
 
-3. 如裂傷在關節處，應減少活動，以防傷口裂開。
+3. If the wound is located on a joint, reduce movement to prevent the wound from reopening.
 
-4. 臉部、頭部換藥可使用醫師開立的藥膏，並應按時依處方服用藥物。
+4. For facial or head wounds, use the prescribed ointment provided by the physician and take medication as directed by the prescription.
 
-5. 傷口縫合二天後，可掛外科門診複診，並由醫師視傷口情形決定拆線日期。
+5. Two days after wound suturing, visit the outpatient surgery clinic for a follow-up. The physician will determine the suture removal date based on the wound's condition.
 
-6. 如傷口出現感染徵候如發紅、腫脹、疼痛、有分泌物、發燒等發炎症狀，或異常疼痛、高燒畏寒、患肢腫脹以致麻木、蒼白血液循環不良、流出膿液等情形，需儘速返診。
+6. If the wound shows signs of infection such as redness, swelling, pain, discharge, fever, or abnormal pain, high fever, chills, swelling leading to numbness, pallor, poor blood circulation, or pus discharge, seek medical attention immediately.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

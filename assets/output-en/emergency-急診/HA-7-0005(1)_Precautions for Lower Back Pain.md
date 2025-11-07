@@ -1,19 +1,19 @@
-## 下背痛之注意事项
+## Precautions for Lower Back Pain
 
-1. 盡量平躺於床上，讓腰部多休息和鬆弛。
+1. Try to lie flat on the bed to allow your lower back to rest and relax.
 
-2. 急性腰痛期間，不要自己下床，最好請人幫忙，只限於必要時才下床（如上廁所）。
+2. During acute lower back pain, avoid getting out of bed on your own. It's best to have someone help you, and only get up when absolutely necessary (e.g., to use the restroom).
 
-3. 平躺時，您可以將枕頭置於雙膝下；側睡時，可將枕頭置於雙膝間。
+3. When lying on your back, place a pillow under your knees; when lying on your side, place the pillow between your knees.
 
-4. 按摩或熱敷腰部（37度接近體溫），會使您感覺舒服，但須注意避免燙傷（但若為外傷引起之下背痛，前2天禁熱敷可採冰敷）。
+4. Massaging or applying a warm compress (37°C, close to body temperature) to the lower back can provide comfort, but be careful to avoid burns. However, if the lower back pain is caused by an injury, avoid heat compresses for the first two days and use ice instead.
 
-5. 避免舉起或拉動過重的東西。
+5. Avoid lifting or pulling heavy objects.
 
-6. 不要用腰力举重，若欲拾起地上的东西，则应保持背部挺直屈膝、蹲下拾取。
+6. Avoid using your lower back strength to lift heavy objects. If you need to pick up something from the floor, keep your back straight, bend your knees, and squat down to lift it.
 
-7. 須定期至門診追蹤檢查。
+7. Regular follow-up outpatient visits are necessary.
 
-8. 如有高燒、下肢漸進癱瘓、尿失禁、背痛合併冒冷汗、休克等情形，請儘速返診。
+8. If you experience high fever, progressive paralysis of the lower limbs, urinary incontinence, lower back pain accompanied by cold sweats, or shock, please return for immediate medical attention.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

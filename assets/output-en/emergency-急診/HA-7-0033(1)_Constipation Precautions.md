@@ -1,15 +1,15 @@
-## 便秘注意事项
+## Precautions for Constipation
 
-1. 均衡饮食,多摄取蔬果，避免辛辣食物、酒精、咖啡，若無限制每天最少喝八大杯水。
+1. Maintain a balanced diet, consume more fruits and vegetables, avoid spicy foods, alcohol, and coffee. If there are no restrictions, drink at least eight large glasses of water daily.
 
-2. 增加日常的活動和運動。
+2. Increase daily activities and exercise.
 
-3. 定時如廁,每天早餐後15-20分鐘是最好的如廁時間,有便意時不要忍住如廁時間應充足，上廁所時不要過分用力。
+3. Establish a regular toilet routine. The best time for bowel movements is 15-20 minutes after breakfast. Do not hold back when feeling the urge to defecate. Ensure sufficient time for bowel movements and avoid excessive straining while using the toilet.
 
-4. 除了醫師的吩附外，絕不可自行亂用瀉藥或灌腸劑，請回門診追蹤。
+4. Do not self-medicate with laxatives or enemas without a doctor's instructions. Please return for follow-up visits.
 
-5. 腹部按摩（顺時鍾方向），可促進腸蠕動。
+5. Abdominal massage (clockwise direction) can promote intestinal peristalsis.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation cares for you.
 
-6. 若有劇烈腹痛、嘔吐、發高燒，請儘速回診。
+6. If you experience severe abdominal pain, vomiting, or high fever, please seek medical attention immediately.

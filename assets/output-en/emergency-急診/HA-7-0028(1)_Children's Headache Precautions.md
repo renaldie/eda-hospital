@@ -1,9 +1,9 @@
-## 兒童頭痛注意事項
+## Precautions for Children's Headaches
 
-1. 返家後多臥床休息，可抬高床頭，保持充足睡眠，並依醫師指示服藥。
+1. After returning home, rest in bed frequently, elevate the head of the bed, ensure adequate sleep, and take medication as prescribed by the doctor.
 
-2. 嘗試減輕生活壓力，放鬆心情。
+2. Try to reduce stress and relax.
 
-3. 有以下情況發生時需返診：視覺模糊或有複視現象、一側肢體軟弱無力、痲痺或有刺痛之感、頸部僵硬、持續嘔吐、意識不清。頭痛病因很多，建議回門診進一步追蹤。
+3. Return for a follow-up visit if any of the following occur: blurred vision or double vision, weakness or numbness on one side of the body, tingling sensations, stiff neck, persistent vomiting, or altered consciousness. There are many possible causes of headaches; it is recommended to return for further follow-up at the outpatient clinic.
 
-義大醫療財團法人義大醫院 急診部關心您
+Yi Da Hospital Emergency Department cares for you.

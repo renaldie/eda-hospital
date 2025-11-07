@@ -1,13 +1,13 @@
-## 氣喘注意事項
+## Asthma Precautions
 
-1. 為預防發作，請隨身攜帶藥物以備不時之需，並配合醫師指示用藥。
+1. To prevent attacks, please carry medication at all times in case of emergencies, and take medication according to your physician's instructions.
 
-2. 避免與過敏原接觸，如：香菸、煙霧、花粉、冷空氣、灰塵、塵螨或寵物等。
+2. Avoid contact with allergens such as: cigarette smoke, smoke, pollen, cold air, dust, dust mites, or pets.
 
-3. 天氣溫差大時戴口罩及圍巾；感冒流行季節，避免出入公共場所；適當運動、均衡溫和飲食。
+3. Wear a mask and scarf when there is a large temperature difference; during flu season, avoid going to public places; exercise appropriately, and maintain a balanced and moderate diet.
 
-4. 急性氯喘發作時，請先依醫師指示給予病患氧氣或支氣管擴張劑；症狀緩解時，請先讓病患採坐姿，暫勿餵食，且勿隨意下床活動。
+4. During an acute asthma attack, first provide the patient with oxygen or bronchodilators according to the physician's instructions; when symptoms subside, first let the patient sit upright, do not feed them temporarily, and avoid moving around arbitrarily.
 
-5. 出现急性喘鸣音、呼吸急促、發紺或吸入性噴劑無法有效解除症狀時，或高燒、寒顫、咳嗽且多量黃痰時，應儘速返診。
+5. If acute wheezing, rapid breathing, cyanosis, or inhalers fail to effectively relieve symptoms, or if there is high fever, chills, coughing with a large amount of yellow phlegm, please return for a visit as soon as possible.
 
-義大醫療財團法人關心您
+Yi Da Healthcare Foundation cares for you

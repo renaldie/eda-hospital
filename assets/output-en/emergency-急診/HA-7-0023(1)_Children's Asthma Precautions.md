@@ -1,9 +1,9 @@
-## 兒童氣喘注意事項
+## Precautions for Childhood Asthma
 
-1. 為預防發作，請配合醫囑服藥，避免與過敏原接觸。
+1. To prevent attacks, please take medication as prescribed by your doctor and avoid contact with allergens.
 
-2. 天氣溫差大時戴口罩及圍巾；感冒流行季節，避免出入公共場所；適當運動、均衡飲食及溫和飲食：隨身攜帶藥物以備不時之需。避免任何引起氣喘的誘因如香菸、煙霧、花粉、冷空氣、灰塵、塵蹣等。
+2. When there is a large temperature difference, wear a mask and scarf; during flu season, avoid public places; appropriate exercise, balanced diet, and moderate diet: carry medication at all times in case of emergencies. Avoid any triggers that may cause asthma, such as smoke, fog, pollen, cold air, dust, mites, etc.
 
-3. 若有持續高燒、咳嗽有多量黃痰、呼吸困难、吸入性噴劑無法有效解除症狀時，應儘速返診。
+3. If there is persistent high fever, cough with a large amount of yellow phlegm, difficulty breathing, or inhalation spray fails to effectively relieve symptoms, seek medical attention promptly.
 
-義大醫療財團法人義大醫院 急診部關心您
+Yi Da Medical Corporation Yi Da Hospital Emergency Department cares for you.

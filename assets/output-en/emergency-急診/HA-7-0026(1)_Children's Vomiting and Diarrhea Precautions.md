@@ -1,13 +1,13 @@
-## 兒童嘔吐及腹瀉注意事項
+## Precautions for Children with Vomiting and Diarrhea
 
-嘔吐：
+**Vomiting:**
 
-暫時禁食數小時。如口渴，可嘗試給少量水份潤喉，但避免喝大量水又引發第二波嘔吐。如持續嘔吐，應該找醫師診療，檢查體內有無脫水或電解質變化，必要時要給予輸液治療。
+Temporarily fast for several hours. If thirsty, try giving small amounts of water to soothe the throat, but avoid drinking large amounts of water which may trigger another round of vomiting. If vomiting persists, consult a physician for examination to check for dehydration or electrolyte imbalances, and intravenous fluid therapy may be necessary if required.
 
-腹瀉：
+**Diarrhea:**
 
-先禁食讓腸胃休息。此期間給小兒喝醫囑之「葡萄糖電解質溶液」，儘量不定時飲用，但要避免喝未稀釋運動飲料，因其太甜會使腹瀉更厲害。八小時後如腹瀉改善，以奶為主食的嬰兒可試給半奶(水份一樣但奶粉量減半)，大一點的病兒可停吃牛奶，開始吃些米湯、開水沖的米麥糊，或稀飯、土司等不油不甜的清淡食品。
+Initially, fast to allow the gastrointestinal tract to rest. During this period, give the child the prescribed "glucose-electrolyte solution" as directed by the doctor. Try to consume it at irregular intervals, but avoid undiluted sports drinks as their high sweetness may worsen diarrhea. After eight hours, if diarrhea improves, infants who primarily consume milk can be given half-strength milk (same water content but with half the amount of formula), while older children can stop consuming milk and begin eating bland foods such as rice water, rice flour porridge made with boiled water, or plain rice porridge and toast.
 
-一至三天如腹瀉未改善，不宜繼續吃沖淡之奶粉（任何奶粉都不該長期沖淡使用），而改用特殊配方奶粉（如含牛奶蛋白之去乳糖奶粉、含植物性蛋白之去乳糖奶粉），以減少對腸道之刺激，此時原來的奶要完全暫停，直至腹瀉好轉，再慢慢調整回來。
+If diarrhea does not improve within one to three days, do not continue using diluted milk (any milk should not be diluted for long-term use). Instead, switch to special formula milk (such as lactose-free formula with dairy-based proteins or lactose-free formula with plant-based proteins) to reduce intestinal stimulation. At this time, the original milk should be completely paused until diarrhea improves, then gradually reintroduce it.
 
-義大醫療財團法人義大醫院 急診部關心您
+Yi Da Medical Foundation Yi Da Hospital Emergency Department Cares for You

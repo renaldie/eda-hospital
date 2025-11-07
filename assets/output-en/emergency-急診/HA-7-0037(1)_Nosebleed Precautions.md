@@ -1,13 +1,13 @@
-## 流鼻血注意事项
+## Nosebleed Precautions
 
-1. 避免長期處於冷氣房內或挖鼻孔，防止鼻黏膜乾燥破皮，導致流鼻血或感染情形。
+1. Avoid prolonged exposure to air-conditioned rooms or picking the nose, to prevent nasal mucosa from becoming dry and cracked, which may lead to nosebleeds or infections.
 
-2. 流鼻血時以止血為優先處理原則。請先讓病患採坐姿，必要時可塞入衛生紙條於鼻孔內，但若仍無法止血，可於鼻樑處加壓或冰敷（創傷病患，不可隨意塞住鼻孔，以防呼吸道血液嗆入窒息）。
+2. When experiencing a nosebleed, the priority is to stop the bleeding. First, have the patient sit upright. If necessary, insert a piece of tissue into the nostril. However, if bleeding cannot be controlled, apply pressure to the bridge of the nose or use an ice pack. (For trauma patients, do not block the nostrils arbitrarily to prevent aspiration of blood into the respiratory tract.)
 
-3. 高血壓病患若測量出高於平時的血壓數值，可服用醫師指示之急用降血壓藥，並保持休息狀態，避免過度用力行為及走動，以半坐臥為原則，並予以止血。
+3. If a hypertension patient measures a blood pressure higher than usual, take emergency blood pressure medication as directed by the physician, remain in a resting state, avoid excessive physical exertion or movement, and maintain a semi-reclining position while applying measures to stop the bleeding.
 
-4. 請配合急診醫師建議用藥，及相關藥物服用注意事項；就醫後鼻內置入之填塞紗布棉條，請勿隨意移除，並醫醫師指示返院追蹤檢查。
+4. Follow the emergency physician's recommendations regarding medication and related medication precautions. Do not remove the gauze or cotton strips placed inside the nose after medical treatment, and return to the hospital for follow-up examinations as instructed by the physician.
 
-5. 若平時有服用抗血栓藥物（心臟開刀或梗塞型中風病患）、阿斯匹靈、或本身為凝血異常病患（血友病、肝硬化或肝癌、造血功能異常者）、或頭頸部癌症病患（如鼻咽癌），如遇無法止血情形，請即速就醫檢查。
+5. If you regularly take anticoagulant medications (such as patients who have undergone heart surgery or suffer from cerebral infarction), aspirin, or have coagulation disorders (such as hemophilia, liver cirrhosis, liver cancer, or hematological abnormalities), or are a patient with head and neck cancer (such as nasopharyngeal cancer), seek immediate medical examination if bleeding cannot be controlled.
 
-義大醫療財團法人關心您
+Yi Da Medical Foundation Cares for You

@@ -1,13 +1,13 @@
-## 上呼吸道感染注意事项
+## Upper Respiratory Tract Infection Precautions
 
-1. 常合併間歇性發燒持續3~5天，此為正常過程，請按醫囑服藥，應多喝溫開水；若耳溫超過38℃且無畏寒時可使用冰枕，超過38.5℃時可泡溫水澡。
+1. Fever may occur intermittently for 3~5 days, which is a normal process. Please take medication as prescribed by your doctor and drink plenty of warm water. If the ear temperature exceeds 38℃ without chills, use an ice pillow. If it exceeds 38.5℃, take a warm bath.
 
-2. 咳嗽厲害時可多喝溫開水，避免冰、甜飲料及柑橘水果；若有痰時，可利用腹部肌肉及配合深呼吸以利痰的咳出；外出時可戴口罩，以避免冷空氣刺激。
+2. When coughing severely, drink more warm water and avoid cold, sweet drinks and citrus fruits. If there is phlegm, use abdominal muscles and combine with deep breathing to help expel phlegm. When going out, wear a mask to avoid cold air stimulation.
 
-3. 需有充份的休息，多攝取蔬菜水果。
+3. Ensure sufficient rest and consume more vegetables and fruits.
 
-4. 發燒時請保持鎮靜，必要時可電話詢問是否需再掛急診就醫；並且定期門診追蹤（急診專線：615-0995）。
+4. When feverish, remain calm. If necessary, call to inquire whether another emergency room visit is required. Regular outpatient follow-ups are also needed (Emergency Room Hotline: 615-0995).
 
-5. 若有高燒不退、頭痛頸部僵硬、呼吸困难、多量黃痰、無法吞嚥口水等情形，請回急診就醫。
+5. If experiencing persistent high fever, headache with stiff neck, difficulty breathing, large amounts of yellow phlegm, or inability to swallow saliva, please return to the emergency room for treatment.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

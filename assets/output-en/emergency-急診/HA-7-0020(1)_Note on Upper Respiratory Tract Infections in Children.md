@@ -1,13 +1,13 @@
-## 兒童上呼吸道感染注意事项
+## Upper Respiratory Tract Infection in Children: Precautions
 
-1. 常合併間歇性發燒持續3-5天，此為正常過程，請按醫囑服藥，應多喝溫開水；若體溫超過38℃且無畏寒時可使用冰枕，體溫超過38.5℃可使用退燒藥。
+1. Fever may occur intermittently for 3-5 days, which is a normal process. Please take medication as prescribed by the doctor and drink plenty of warm water. If the body temperature exceeds 38℃ without chills, an ice pillow can be used. If the body temperature exceeds 38.5℃, fever-reducing medication can be used.
 
-2. 咳嗽厲害時可多喝溫開水，避免冰、甜飲料及柑橘水果；外出時可戴口罩，以避免冷空氣刺激。
+2. When coughing severely, drink more warm water and avoid cold, sweet drinks and citrus fruits. When going outdoors, wear a mask to avoid cold air stimulation.
 
-3. 須充分休息，多攝取蔬菜水果。
+3. Adequate rest is required, and consume more vegetables and fruits.
 
-4. 發燒時請保持鎮靜，注意孩童精神活力，必要時可電話詢問是否需要掛急診就醫；並且定期門診追蹤。
+4. When fever occurs, remain calm and pay attention to the child's mental vitality. If necessary, call to inquire whether an emergency room visit is needed. Regular outpatient follow-ups are also required.
 
-5. 若持續高燒數天、精神活動力差、多量黃痰、意識嗜睡、無法進食等情形，請儘速返診。
+5. If there are symptoms such as persistent high fever for several days, poor mental activity, large amounts of yellow phlegm, drowsiness, or inability to eat, please return for a follow-up as soon as possible.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you.

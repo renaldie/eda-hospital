@@ -1,15 +1,15 @@
-## 泌尿道感染注意事项
+## Precautions for Urinary Tract Infections
 
-1. 多喝開水，若無禁忌，每天至少喝2000ml的水。
+1. Drink plenty of water, if there are no contraindications, drink at least 2000ml of water daily.
 
-2. 勿憋尿、保持會陰部的清潔。女性於小便後，衛生紙由前往後擦拭；婦女於行房後立即小便，多喝開水，月經期間勤換衛生棉。
+2. Do not hold urine, keep the perineal area clean. After urination, women should wipe from front to back with toilet paper; women should urinate immediately after intercourse, drink more water, and frequently change sanitary pads during menstruation.
 
-3. 多吃含維他命C的食物，例如：橘子、柳橙、蕃茄及木瓜。
+3. Eat more foods rich in Vitamin C, such as oranges, tangerines, tomatoes, and papayas.
 
-4. 採淋浴，勿穿太緊身的合成纖維內褲、褲襪及束褲。
+4. Take showers, avoid wearing tight synthetic fiber underwear, socks, and girdles.
 
-5. 高燒畏寒、出現側腰痛，應儘速返診。
+5. If high fever, chills, or flank pain occur, return to the clinic as soon as possible.
 
-6. 血尿是膀胱炎常见之症状，應回門診治療。
+6. Hematuria is a common symptom of cystitis and should be treated at the outpatient clinic.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you.

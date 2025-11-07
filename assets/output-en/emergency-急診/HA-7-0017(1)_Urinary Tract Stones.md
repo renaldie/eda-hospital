@@ -1,15 +1,15 @@
-## 尿路結石
+## Urinary Tract Stones
 
-1. 突然發作的尖銳而嚴重的痛，自腰部延伸至四周，男性向下至睪丸、女性至膀胱。
+1. Sudden onset of sharp and severe pain radiating from the waist to the surrounding areas, downward to the testicles in males and to the bladder in females.
 
-2. 當疼痛嚴重時，會出現噁心、嘔吐、蒼白、冒冷汗，可能會出現頻尿或解尿困難。
+2. When the pain is severe, nausea, vomiting, pallor, cold sweat may occur, and there may be frequent urination or difficulty in urination.
 
-3. 依指示每日至少攝取3000～4000C.C液體（約8大杯），可增加尿量、降低尿中溶質濃度並減少尿液鬱積。
+3. Drink at least 3000～4000 CC of liquid daily (about 8 large cups) as instructed, which can increase urine output, lower the concentration of solutes in urine, and reduce urine stasis.
 
-4. 每2小時解尿1次，切勿憋尿，可避免尿液鬱積。
+4. Urinate once every 2 hours, do not hold urine, to avoid urine stasis.
 
-5. 定期門診追蹤，以確定是否排出結石。
+5. Regular outpatient follow-up to determine whether the stone has passed.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation cares for you
 
-6. 如果有厲害腰痛、發高燒、腹痛位置改變，請儘速返診。
+6. If there is severe back pain, high fever, or change in the location of abdominal pain, please return for a prompt visit.

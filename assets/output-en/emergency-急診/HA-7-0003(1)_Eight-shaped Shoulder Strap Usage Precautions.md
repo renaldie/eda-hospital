@@ -1,13 +1,13 @@
-## 八 字肩带使用注意事项
+## Usage Precautions for the Figure-Eight Shoulder Brace
 
-1. 大多數的鎖骨骨折都可以以字肩帶固定即可得到很好的治療效果，只有少數的鎖骨骨折需要以開刀的方式來進行，可在骨科門診由骨科醫師決定。
+1. Most clavicle fractures can be effectively treated with a figure-eight shoulder brace alone, while only a few cases require surgical intervention. The orthopedic physician will determine the appropriate course of action during an outpatient clinic visit.
 
-2. 八字肩帶須穿著4-6星期甚至三個月的時間，通常在使用的前2星期可合併使用手臂吊帶來固定患側手臂，以減輕疼痛。
+2. The figure-eight shoulder brace should be worn for 4-6 weeks, or even up to three months. During the first 2 weeks, it is recommended to use an arm sling in conjunction with the brace to immobilize the affected arm and reduce pain.
 
-3. 前1-2星期最好擦澡勿洗澡，擦澡时八字肩带不脱下。若非得洗澡不可，請務必維持正確姿勢，小心取下八字肩帶。洗好澡後，儘快穿上（手插腰、挺胸，家人在背後幫忙，調整雙肩部海綿，將兩條帶子左右平均拉緊）。若不舒適，請儘速返診處理。
+3. For the first 1-2 weeks, it is advisable to take a shower rather than a bath. When showering, do not remove the figure-eight shoulder brace. If bathing is unavoidable, maintain proper posture and carefully remove the brace. After bathing, put it back on as soon as possible (with hands on the hips, chest upright, and family members assisting from behind to adjust the sponge pads on both shoulders and evenly tighten the two straps). If discomfort occurs, seek medical attention promptly.
 
-4. 把八字肩帶穿在一薄棉衣服外面，不可穿在厚衣服外面；睡覺時應平躺勿側躺。
+4. Wear the figure-eight shoulder brace over a thin cotton shirt, not over thick clothing. When sleeping, lie flat on your back and avoid sleeping on your side.
 
-5. 疼痛通常持續1~2星期，可服用醫師開立的止痛劑，並定期至骨科門診複診。
+5. Pain typically lasts for 1-2 weeks and can be managed with prescribed pain medication. Regular follow-up visits to the orthopedic outpatient clinic are necessary.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

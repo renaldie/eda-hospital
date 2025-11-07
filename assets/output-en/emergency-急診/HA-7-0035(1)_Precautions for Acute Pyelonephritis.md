@@ -1,13 +1,13 @@
-## 急性肾盂肾炎注意事项
+## Precautions for Acute Pyelonephritis
 
-1. 若無禁忌每天攝取水份2000~3000ml以上。
+1. If there are no contraindications, consume more than 2000–3000 ml of water daily.
 
-2. 注意會陰部清潔，每1~2小時排尿一次，勿憋尿。
+2. Maintain cleanliness of the perineal area, urinate every 1–2 hours, and avoid holding urine.
 
-3. 遵守服藥的指示，急性期應臥床休息，勿進食刺激性食物及煙酒。
+3. Follow medication instructions, rest in bed during the acute phase, and avoid spicy foods, alcohol, and tobacco.
 
-4. 急性期過後仍應繼續門診追蹤檢查，勿自行停藥，以免復發。
+4. Continue outpatient follow-up examinations after the acute phase; do not discontinue medication on your own to prevent recurrence.
 
-5. 高燒畏寒、出現劇烈側腰痛，應儘速返診。
+5. If high fever, chills, or severe flank pain occur, seek medical attention promptly.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

@@ -1,13 +1,13 @@
-## 自我點眼藥須知
+## Self-Administering Eye Drops Guidelines
 
-1. 點眼藥前後需將雙手洗乾淨。
+1. Wash hands thoroughly before and after applying eye drops.
 
-2. 如患眼分泌物多，先以棉籤清潔眼和睫毛（由内侧眼角向外侧眼角方向）。
+2. If the affected eye has excessive secretions, first clean the eye and eyelashes with a cotton swab (from the inner corner of the eye to the outer corner).
 
-3. 頭上仰以左手食指置於下眼瞼，往下拉露出下結膜囊，右手持眼藥以左手背為支點，滴入眼藥水一滴就足夠，如不確定是否滴入眼內，可再滴一次；藥膏則由內角向外擠一小條藥膏在下結膜囊內，然後旋轉瓶身使藥膏斷離，注意瓶口勿碰觸睫毛或眼瞼，以免污染。
+3. Tilt your head back, use the left index finger to hold the lower eyelid downward, exposing the lower conjunctival sac. Hold the eye drop with the right hand, using the back of the left hand as a pivot. Apply one drop of eye solution is sufficient. If unsure whether the drop has entered the eye, apply another drop. For ointment, squeeze a small strip of ointment from the inner corner to the outer corner of the lower conjunctival sac. Then rotate the bottle to separate the ointment. Be careful not to let the bottle tip touch the eyelashes or eyelids to avoid contamination.
 
-4. 點眼藥後輕閉眼5～10秒，以便藥物平均散佈於眼球，同時輕壓眼內皆約5~10秒封閉淚點，防藥水經鼻淚管流到鼻咽粘膜而感不適，並防體內吸收。
+4. After applying eye drops, gently close your eyes for 5-10 seconds to allow the medication to spread evenly across the eyeball. At the same time, gently press the inner corner of the eye for about 5-10 seconds to close the tear duct, preventing the eye solution from flowing through the nasal tear duct to the nasal mucosa, which may cause discomfort and prevent absorption into the body.
 
-5. 如眼藥水及眼藥膏同時點，則先點眼藥水隔5分鐘後再點眼藥膏。
+5. If using both eye drops and eye ointment, apply the eye drops first, wait 5 minutes, and then apply the eye ointment.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

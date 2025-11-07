@@ -1,63 +1,62 @@
-# 門診全身麻醉術後注意事項
+# Post-Operative Care Instructions for Outpatient General Anesthesia
 
-## 项目简介
+## Project Introduction
 
-全身麻醉是一種利用藥物，讓手術檢查過程進入類似睡覺、無意識的狀態，對整個手術或檢查過程都不會有印象。
+General anesthesia is a method that uses medication to put the patient into a state similar to sleep, without consciousness, so that they will have no memory of the entire surgical or examination process.
 
-## 過程說明
+## Process Explanation
 
-讓病患在手術(檢查)中達到不痛，且沒有知覺的一種麻醉方式。手術(檢查)後至麻醉恢復室觀察，待穩定後才返家。
+A type of anesthesia that makes the patient pain-free and without sensation during surgery (examination). After surgery (examination), the patient is observed in the anesthesia recovery room until stable, then they return home.
 
-## 返家注意事项
+## Return Home Precautions
 
-☐活動：手術或檢查麻醉鎮靜後24小時內，勿自行開車或騎或坐乘機(腳)踏車，勿作重要性的決定，勿從事危險性工作，盡量在家休息，若非得出門請由健康成人陪伴。
+☐ Activity: Within 24 hours after surgery or examination anesthesia/sedation, do not drive or ride a bicycle or motorcycle, do not make important decisions, do not engage in dangerous work, and rest at home as much as possible. If you must go out, please be accompanied by a healthy adult.
 
-☐飲食：返家後若無噁心嘔吐狀況，可先喝水或流質飲食，若無噁心嘔吐現象再正常飲食。
+☐ Diet: After returning home, if there is no nausea or vomiting, you may first drink water or consume liquid food. If there is no nausea or vomiting, you may resume normal diet.
 
-□疼痛：會出現手術部位疼痛屬正常現象，可服用醫師所開立之止痛藥。
+☐ Pain: Pain at the surgical site is a normal occurrence and you may take the pain medication prescribed by your doctor.
 
-☐噁心嘔吐：手術或檢查後會有輕微的噁心嘔吐。
+☐ Nausea/Vomiting: Mild nausea or vomiting may occur after surgery or examination.
 
-## 若有下列徵象，請馬上就醫：
+## If you experience any of the following symptoms, please seek medical attention immediately:
 
-(1)手術部位大量出血。
+(1) Heavy bleeding from the surgical site.
 
-(2) 發冷或發燒 (體溫超過  $ 38^{\circ}C $ )。
+(2) Chills or fever (body temperature exceeding $ 38^{\circ}C $).
 
-(3)胸痛：尖锐刺痛或呼吸困难。
+(3) Chest pain: sharp stabbing pain or difficulty breathing.
 
-(4)持續性噁心、嘔吐。
+(4) Persistent nausea or vomiting.
 
-(5)疼痛無法緩解。
+(5) Pain that cannot be relieved.
 
-※婦科病人特殊事項提醒：☐紗布 塊取出時間 月 日 點。
+※ Special reminders for gynecology patients: ☐ Gauze Pad Removal Time: Month Day Time.
 
-若無特殊症狀請於預約時間至本院看診。
+If there are no special symptoms, please visit our hospital for a follow-up appointment at the scheduled time.
 
-參考資料：
+References:
 
-1. 台灣麻醉醫學會(2018) 輕中度鎮靜麻醉指引 https://tassedation.blogspot.com/p/blog-page.html。
+1. Taiwan Society of Anesthesiology (2018) Guidelines for Light to Moderate Sedation Anesthesia https://tassedation.blogspot.com/p/blog-page.html.
 
-2. 丁曉嫻（2019）· ERAS 術後噁心嘔吐之預防與處置·台灣醫學，23（2），223-232。
+2. Ding, Xiao-Xian (2019) · Prevention and Management of Post-Operative Nausea and Vomiting in ERAS · Taiwan Medicine, 23(2), 223-232.
 
-3. 陳威宏（2019）· ERAS 術後多模式疼痛治療。台灣醫學，23(2)，212–222。
+3. Chen, Wei-Hong (2019) · Multimodal Pain Management for Post-Operative Pain in ERAS · Taiwan Medicine, 23(2), 212–222.
 
-有任何疑問，聯絡電話：
+For any questions, please contact:
 
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">Contact Information</td></tr><tr><td style='text-align: center;'>Yi Da Hospital
+Address:
+No. 1 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City
+Phone: 07-6150011 extension 2556</td><td style='text-align: center;'>Yi Da Cancer Treatment Hospital
+Address:
+No. 21 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City
+Phone: 07-6150022 extension 6250</td><td style='text-align: center;'>Yi Da Dachang Hospital
+Address:
+No. 305 Dachang 1st Road, Sanmin District, Kaohsiung City
+Phone: 07-5599123 □ 5th floor extension: 7339
+□ 7th floor extension: 7377
+□ 8th floor extension: 7498</td></tr></table>
 
-<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院
-地址:
-高雄市燕巢區角宿里義大路1號
-電話:07-6150011分機2556</td><td style='text-align: center;'>義大癌治療醫院
-地址:
-高雄市燕巢區角宿里義大路21號
-電話:07-6150022分機6250</td><td style='text-align: center;'>義大大昌醫院
-地址:
-高雄市三民區大昌一路305號
-電話:07-5599123 □ 5樓分機:7339
-□ 7樓分機:7377
-□ 8樓分機:7498</td></tr></table>
+Yi Da Healthcare Foundation 21X29.7cm Printed in March 2025
 
-義大醫療財團法人 21X29.7cm 2025.03印製
-
-2024.02修訂 HA-4-0005(7)
+Revised in February 2024 HA-4-0005(7)

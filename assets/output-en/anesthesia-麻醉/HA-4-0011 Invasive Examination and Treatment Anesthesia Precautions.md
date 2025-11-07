@@ -1,18 +1,17 @@
-## 侵入性檢查與治療麻醉衛教單
+## Pre-Anesthesia Information Sheet for Invasive Examinations and Treatments
 
-侵入性檢查與治療麻醉，需要完成的流程如下：
+The process for invasive examination and treatment anesthesia is as follows:
 
-1. 已完成麻醉评估者，請於檢查報到當日，提早30分鐘，我們為您做檢查前準備；如未完成麻醉評估者，於報到時間提早1小時報到，並到三樓麻醉評估門診完成評估。
+1. If the anesthesia assessment has been completed, please arrive 30 minutes earlier on the day of the examination for pre-examination preparation. If the anesthesia assessment has not been completed, please arrive one hour earlier than the scheduled check-in time and complete the assessment at the third-floor Anesthesia Evaluation Clinic.
 
-2. 檢查當日禁食(空腹)正餐或油脂的食物，至少8個小時；簡單餐點、乳品6小時；母乳4小時；清流質白開水、清茶，大於2小時即可。如有降血糖用藥物當日請勿服用；高血壓用藥如果是上午檢查者，請於檢查當日早上6點前用，下午檢查請於檢查當日早上9點前服用。
+2. On the day of the examination, fast (remain empty-stomached) for at least 8 hours before the examination, avoiding solid food or oily meals; for light meals or dairy products, fast for 6 hours; for breast milk, fast for 4 hours; for clear fluids (plain water, clear tea), fasting for more than 2 hours is sufficient. Do not take hypoglycemic medications on the day of the examination. For hypertension medications, if the examination is in the morning, take them before 6:00 AM on the day of the examination; if the examination is in the afternoon, take them before 9:00 AM on the day of the examination.
 
-3. 如有活動式假牙、指甲油或隱形眼鏡請先移除。
+3. If you have removable dentures, nail polish, or contact lenses, please remove them first.
 
-4. 檢查治療當天須有一位家屬陪同，本人勿自行開車回家，確保安全。無家屬陪同考慮用藥後安全性，將無法配合執行檢查治療麻醉，請見諒！
+4. On the day of the examination, please have one family member accompany you. The patient should not drive home alone to ensure safety. If there is no family member to accompany you, the examination and treatment anesthesia cannot be performed due to safety concerns after medication. We appreciate your understanding.
 
-5. 門診病人，麻醉費於檢查前繳交；住院病人則一律出院時繳交。
+5. For outpatient patients, the anesthesia fee is paid before the examination; for inpatient patients, the fee is paid upon discharge.
 
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="2">Contact Information</td></tr><tr><td style='text-align: center;'>Yi Da Hospital</td><td style='text-align: center;'>Yi Da Cancer Hospital</td></tr><tr><td style='text-align: center;'>Address: No. 1 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City Contact Number: (07) 6150011 #2560 Service Hours: Monday to Friday 08:00~18:00 Sunday 12:00~17:00</td><td style='text-align: center;'>Address: No. 21 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City Contact Number: (07) 6150011 #6263 Service Hours: Monday to Friday 08:00~17:00 Sunday 12:00~17:00</td></tr></table>
 
-<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="2">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院</td><td style='text-align: center;'>義大癌治療醫院</td></tr><tr><td style='text-align: center;'>地址：高雄市燕巢區角宿里義大路1號連絡電話：(07)6150011#2560服務時間：週一至週五08:00~18:00週日12:00~17:00</td><td style='text-align: center;'>地址：高雄市燕巢區角宿里義大路21號連絡電話：(07)6150011#6263服務時間：週一至週五08:00~17:00週日12:00~17:00</td></tr></table>
-
-西元 ___ 年 ___ 月 ___ 日
+Year ___ Month ___ Day ___

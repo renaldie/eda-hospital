@@ -1,19 +1,19 @@
-## 兒童急性腸胃炎注意事項
+## Precautions for Acute Gastroenteritis in Children
 
-1. 急性期應減少或暫停進食，禁食期間口渴可沾水潤唇。
+1. During the acute phase, reduce or temporarily stop eating. If thirsty during fasting, moisten lips with water.
 
-2. 無持續腹瀉可暫停止瀉劑。
+2. If there is no persistent diarrhea, temporarily discontinue laxatives.
 
-3. 避免脱水，注意水与電解質補充，可飲用加水稀釋對半的運動飲料。
+3. Avoid dehydration and pay attention to water and electrolyte replenishment. Sports drinks diluted with equal parts water can be consumed.
 
-4. 盡量不要喝牛奶及豆類製品、油膩食物、刺激性食物。
+4. Avoid drinking milk and dairy products, oily foods, and spicy foods.
 
-5. 症狀改善後可嘗試給予白開水，若無不適可逐漸予少量清淡飲食（如：稀飯、米湯、白土司、果汁）。
+5. After symptoms improve, try giving plain water. If no discomfort, gradually introduce small amounts of bland food (e.g., rice porridge, congee, white bread, juice).
 
-6. 若嘔吐的情形再發生，則須休息幾小時後再進食。
+6. If vomiting recurs, rest for a few hours before resuming eating.
 
-7. 預防方法：勤加洗手、注意烹飪環境、重視飲食衛生。
+7. Prevention methods: frequent handwashing, attention to cooking environment, and emphasis on food hygiene.
 
-8. 輕微腹瀉可以在家繼續休養，若持續嘔吐、持續水瀉、脫水休克、持續腹痛、嬰兒持續哭鬧不安、疼痛部位轉移至右下腹、食慾不振，或意識不清、嗜睡、活動差、或幾乎無法進食等情形，請儘速返診。
+8. Mild diarrhea can be managed at home with rest. However, seek medical attention immediately if there is persistent vomiting, continuous watery diarrhea, dehydration shock, persistent abdominal pain, infants showing continuous restlessness or crying, pain shifting to the lower right abdomen, loss of appetite, or symptoms such as confusion, lethargy, poor activity, or near inability to eat.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you.

@@ -1,11 +1,11 @@
-## 胸部挫傷注意事項
+## Precautions for Chest Contusions
 
-1. 胸部創傷在排除血氣胸或肋骨斷裂情形後，仍可能有潛在的肺部挫傷情形發生，應密切注意病人呼吸情形。
+1. After ruling out pneumothorax or rib fractures, chest trauma may still result in potential pulmonary contusions. Close monitoring of the patient's breathing condition is necessary.
 
-2. 若頸部有明顯的瘀腫、呼吸困难、呼吸急促、冒冷汗、臉色蒼白、發紺胸痛劇烈或背痛不適情形，應立即告知醫護人員。
+2. If there is obvious bruising on the neck, difficulty breathing, rapid breathing, cold sweat, pallor, cyanosis, severe chest pain, or discomfort in the back, medical staff should be informed immediately.
 
-3. 返家後依醫師指示服用藥物，充分休息，禁止從事用力之工作，並依預約門診科別時間返診。
+3. After returning home, take medication as prescribed by the physician, rest adequately, avoid strenuous work, and return for follow-up appointments according to the scheduled outpatient department time.
 
-4. 在家中若有咳血、呼吸困难、呼吸急促等嚴重不適症狀，應採坐姿並禁止餵食及下床活動，可來電詢問或返診就醫（急診專線：615-0995）。
+4. If severe symptoms such as hemoptysis or difficulty breathing occur at home, sit upright, avoid feeding and getting out of bed, and contact for consultation or return for medical treatment (Emergency hotline: 615-0995).
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

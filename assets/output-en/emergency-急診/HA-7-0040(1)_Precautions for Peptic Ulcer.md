@@ -1,15 +1,15 @@
-## 消化性溃疡注意事项
+## Precautions for Peptic Ulcer
 
-1. 進食時要儘量放鬆，細嚼慢嚥，飯後略做休息再開始工作。
+1. Try to relax while eating, chew slowly and thoroughly, and rest briefly after meals before resuming work.
 
-2. 三餐定时定量。
+2. Maintain regular meal times with appropriate portion sizes.
 
-3. 避免煙、酒、可樂、咖啡鹼及刺激性的食物。
+3. Avoid smoking, alcohol, cola, caffeine, and spicy or irritating foods.
 
-4. 生活规律，不要熬夜，心情保持愉快。
+4. Maintain a regular lifestyle, avoid staying up late, and keep a pleasant mood.
 
-5. 定期門診追蹤控制。
+5. Regular outpatient follow-ups for monitoring and control.
 
-6. 有劇烈腹痛或疼痛部位轉移至右下腹、發高燒或持續解黑色大便等情形，應儘速回診。
+6. If experiencing severe abdominal pain, pain shifting to the lower right abdomen, high fever, or persistent passage of black stools, seek medical attention promptly.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

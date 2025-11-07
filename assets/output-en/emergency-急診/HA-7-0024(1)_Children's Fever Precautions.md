@@ -1,15 +1,15 @@
-## 兒童發燒注意事項
+## Precautions for Children with Fever
 
-1. 多臥床休息、多補充水份及果汁、葡萄糖水或葡萄糖電解質溶液。
+1. Rest in bed more, increase fluid intake and juice, glucose water or glucose electrolyte solution.
 
-2. 不要穿太多的衣服或蓋太厚的棉被，若衣服濕時請馬上更換。
+2. Avoid wearing too many clothes or covering with thick blankets. If clothes become wet, change them immediately.
 
-3. 保持室内正常温度，依醫師指示規律的服藥。
+3. Maintain a normal indoor temperature, take medication regularly as prescribed by the doctor.
 
-4. 每4小時量一次體溫；耳溫39度以上，無畏寒時可使用冰枕或洗溫水澡（水温30－34度）以降低體溫，無畏寒時可使用冰枕；耳溫38度以上可按照醫囑咐給予口服退燒藥；耳溫38.5度以上可按照醫師囑咐予肛門栓，栓劑使用須間隔4-6小時（栓劑應冷藏在冰箱，以免溶解）
+4. Measure body temperature every 4 hours; if ear temperature is above 39°C without chills, use an ice pillow or take a lukewarm bath (water temperature 30-34°C) to reduce body temperature. If ear temperature is above 38°C, take oral fever-reducing medication as instructed by the doctor. If ear temperature is above 38.5°C, use rectal suppositories as instructed by the doctor. Suppositories should be used with an interval of 4-6 hours (suppositories should be refrigerated in the refrigerator to prevent melting).
 
-5. 發燒時請保持鎮靜，觀察孩童精神活力，必要時可電話詢問是否需再掛急診就醫；門診追縱。
+5. Stay calm when a child has a fever, observe the child's mental state and energy levels. If necessary, contact the hospital by phone to inquire if another emergency visit is needed; follow-up outpatient care.
 
-6. 若有高燒不退、頭痛頸部僵硬、呼吸困难、多量黃痰、食慾不振、嗜睡、活動差、幾乎無法進食等情形，請儘速返診。
+6. If there are symptoms such as persistent high fever, headache and stiff neck, difficulty breathing, large amounts of yellow phlegm, poor appetite, drowsiness, poor activity, or almost unable to eat, please return for a follow-up visit as soon as possible.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

@@ -1,17 +1,17 @@
-## 肝硬化注意事项
+## Liver Cirrhosis Precautions
 
-1. 請依指示採高醣飲食、高蛋白飲食（例如：魚、肉、蛋、奶）；但若有肝昏迷現象，應限制蛋白質。
+1. Follow a high-carbohydrate and high-protein diet (e.g., fish, meat, eggs, dairy); however, protein intake should be restricted if hepatic encephalopathy occurs.
 
-2. 併食道靜脈曲張者，避免粗糙、堅硬、過燙的食物，宜細嚼慢嚥。
+2. For patients with esophageal varices, avoid rough, hard, or excessively hot foods, and chew slowly and thoroughly.
 
-3. 合併有腹水、水腫者採低鹽飲食，限制水份。
+3. Patients with ascites or edema should follow a low-salt diet and limit fluid intake.
 
-4. 少量多餐、规律生活、充份休息，避免激烈運動，戒煙戒酒。
+4. Eat small, frequent meals, maintain a regular lifestyle, get adequate rest, avoid strenuous exercise, and abstain from smoking and alcohol.
 
-5. 預防感染、注意有無出血徵兆（皮膚瘀血、牙齦出血、解黑色大便），並定期返院門診追蹤。
+5. Prevent infections, monitor for signs of bleeding (e.g., skin bruising, gum bleeding, black stools), and attend regular outpatient follow-ups.
 
-6. 避免用力解便，多吃蔬菜水果，预防便秘。
+6. Avoid straining during bowel movements, consume more vegetables and fruits, and prevent constipation.
 
-7. 有大量吐血、血便、深度黄疸、昏迷、腹痛並發燒等情形，應儘速回診。
+7. Seek immediate medical attention if experiencing massive hematemesis, melena, severe jaundice, coma, or abdominal pain with fever.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

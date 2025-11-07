@@ -1,19 +1,19 @@
-## 坐骨神经痛注意事项
+## Precautions for Sciatica
 
-1. 儘量避免提重物、激烈的腰部運動、以及彎腰。
+1. Avoid lifting heavy objects, intense lower back exercises, and bending over.
 
-2. 平時坐姿、站姿要端正，避免穿高跟的鞋子。
+2. Maintain proper sitting and standing posture, avoid wearing high heels.
 
-3. 疼痛時應儘量臥床休息。
+3. When in pain, rest in bed as much as possible.
 
-4. 平時不可睡彈簧床或海綿床，應睡硬板床。
+4. Do not sleep on spring or sponge beds; sleep on a firm board bed.
 
-5. 多吃蔬果，以避免便秘。
+5. Eat more fruits and vegetables to prevent constipation.
 
-6. 平時可穿上束腹或背架以保護腰部。
+6. Wear a corset or back brace to protect the lower back.
 
-7. 回骨科或神經外科門診就診。
+7. Visit the orthopedic or neurosurgery outpatient clinic.
 
-8. 若有漸進式癱瘓、尿失禁或無法排尿、劇烈腹痛，請回急診就醫。
+8. If there is progressive paralysis, urinary incontinence, inability to urinate, or severe abdominal pain, seek emergency care.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

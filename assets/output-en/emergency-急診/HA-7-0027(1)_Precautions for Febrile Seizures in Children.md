@@ -1,11 +1,11 @@
-## 兒童熱痙攣的注意事項
+## Precautions for Febrile Seizures in Children
 
-### 1. 熱痙攣發生的原因：
+### 1. Causes of Febrile Seizures:
 
-小兒發燒的同時，全身或局部的肢體產生抽搐現象，且常伴隨暫時性失去知覺，謂之熱痙攣。通常發生在剛發燒的廿四小時內、大多只發作一次、數分鐘就會停止、短時間內會醒過來、且接著無任何麻痺或神智不清現象，所幸五歲以後就少有熱痙攣之發生。
+When a child has a fever and experiences convulsions in the entire body or in a local limb, often accompanied by temporary loss of consciousness, it is called a febrile seizure. It usually occurs within the first 24 hours of a fever, typically only occurs once, stops within a few minutes, and the child wakes up shortly afterward, without any subsequent paralysis or confusion. Fortunately, febrile seizures rarely occur after the age of five.
 
-### 2. 有熱痙攣時如何處理？
+### 2. How to Handle Febrile Seizures:
 
-由於單純性的突發熱痙攣罕有立即的危險，亦無神經上的後遺症，所以要保持冷靜，先將病兒平躺於安全不會滑下的床上或地面，測量體溫並以肛門栓劑先退燒、有嘔吐要將頭轉向側面並將嘔吐物排乾淨、保持氣道暢通、若無明顯咬傷舌頭，不需置入任何物體於口腔中來防止舌頭咬傷，因置入物可能導致兒童窒息或引發嘔吐。注意呼吸及心跳是否正常，如抽搐在數分鐘後仍持續，必須立即送醫。對已醒過來的病兒，必須密切觀察有無意識不清、嘔吐不止、劇烈頭痛、頸部僵硬疼痛、持續高燒不退、手腳有麻痺跡象。
+Since simple, sudden febrile seizures rarely pose immediate danger and do not result in neurological complications, it is important to stay calm. First, lay the child flat on a safe, non-slip surface such as a bed or the floor. Measure the body temperature and use a rectal suppository to reduce fever. If the child is vomiting, turn their head to the side to clear the vomit and ensure airway patency. If there is no obvious tongue biting, do not place any objects in the child's mouth to prevent tongue biting, as inserted objects may cause choking or vomiting. Monitor the child's breathing and heartbeat. If the seizure continues for several minutes, seek immediate medical attention. For children who have regained consciousness, closely observe for signs of confusion, persistent vomiting, severe headache, stiff or painful neck, unrelenting high fever, or any signs of paralysis in the hands or feet.
 
-義大醫療財團法人義大醫院 急診部關心您
+E-DA Hospital Emergency Department cares for you

@@ -1,55 +1,49 @@
-# 認識
+# Understanding
 
-## 病人静脈自控式减痛
+## Patient-Controlled Intravenous Analgesia
 
-## I ntravenous Patient Controlled Analgesia
+## Intravenous Patient Controlled Analgesia
 
-遠離疼痛
+Away from Pain
 
-减痛加分
+Pain Relief Plus
 
-～麻醉團隊～
+～Anesthesia Team～
 
-讓您減痛好放心
+Let You Feel Pain Relief with Peace of Mind
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_54_812_489_1072.jpg" alt="Image" width="25%" /></div>
 
+## What is Intravenous Patient-Controlled Analgesia
 
-## 什麼是靜脈自控式減痛
+Analgesic drugs are stored in an infusion pump. The dosage is set according to the patient's pain condition. When you feel pain, you can press the control button to receive analgesic drugs through intravenous administration, achieving pain relief.
 
-將止痛藥物儲存於輸液幫浦中，依照病人疼痛狀態設定給藥劑量，當您感覺到疼痛時，可自行按壓控制鈕由靜脈給予止痛藥物，達到減痛的效果。
-
-這是一台先進的給藥機器，當您感到疼痛時可自行按壓給藥鈕，機器會注射止痛藥物，大約5分鐘快速達到緩解疼痛效果。
+This is an advanced medication delivery machine. When you feel pain, you can press the medication button yourself, and the machine will inject analgesic drugs, providing rapid pain relief within about 5 minutes.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_599_521_1049_830.jpg" alt="Image" width="26%" /></div>
 
+## Applicable Scope of Patient-Controlled Analgesia
 
-## 病人自控式减痛適用範圍
+Post-surgical wound pain, other fractures and trauma, cancer pain, etc.
 
-手術後造成之傷口疼痛、其他骨折創傷、癌症疼痛等。
+## Common Side Effects
 
-## 常見副作用
+As the drugs used are opioid analgesics, possible uncomfortable symptoms may include: nausea, vomiting, bloating, dizziness, skin itching, difficulty urinating, drowsiness, etc. If you experience any of the above, please inform the nursing staff in the ward to contact the pain nurse for handling.
 
-因使用的藥物為鴉片類止痛劑，可能產生的不適症狀包括：噁心、嘔吐、腹脹、頭暈、皮膚搔癢、排尿困難、易睏嗜睡等。如有上述情形請告知病房護理人員連絡疼痛護理師處理。
+## How to Use Patient-Controlled Analgesia
 
-## 如何才能使用病患自控式减痛
+Currently, the National Health Insurance does not cover patient-controlled analgesia, so it must be paid out-of-pocket, and refunds or transfers to others are not allowed. If you need it, please inform the pre-anesthesia assessment clinic or the ward nurse of your intention to use it.
 
-目前健保對於自控式減痛不给付，須自費使用，且無法申請退費或供他人使用。如您有需要可向麻醉前評估門診或病房護理師告知使用意願。
+Yi Da Hospital: 07-6150011 ext. 257059  
+Address: No. 1 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City  
 
-義 大 醫 院：07-6150011 分機 257059  
+Yi Da Cancer Treatment Hospital: 07-6150022 ext. 257776  
+Address: No. 21 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City  
 
-地址：高雄市燕巢區角宿里義大路1號  
+Yi Da Dachang Hospital: 07-5599123 ext. 257530  
+Address: No. 305 Dachang 1st Road, Sanmin District, Kaohsiung City  
 
-義大癌治療醫院：07-6150022 分機 257776  
+Reproduction, reprinting, or resale without the consent of the copyright holder is prohibited.
 
-地址：高雄市燕巢區角宿里義大路21號  
-
-義大大昌醫院：07-5599123 分機 257530  
-
-地址：高雄市三民區大昌一路305號
-
-本著作權人非經著作權人同意不得轉載翻印或轉售
-
-著作權人：義大醫療財團法人
-
-義大醫療財團法人 21x29.7cm 2020.07 新設 HA-4-0010(1)
+Copyright Holder: Yi Da Medical Foundation  
+Yi Da Medical Foundation 21x29.7cm 2020.07 Newly Established HA-4-0010(1)

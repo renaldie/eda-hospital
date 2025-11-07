@@ -1,19 +1,19 @@
-## 急性肠胃炎注意事项
+## Precautions for Acute Gastroenteritis
 
-1. 急性期應減少或暫停進食，禁食期間口渴可沾水潤唇或含冰塊。
+1. During the acute phase, reduce or suspend eating. If thirsty during fasting, moisten lips with water or hold ice cubes in the mouth.
 
-2. 若使用止瀉劑，於無持續腹瀉時可暫停止瀉劑。
+2. If anti-diarrheal medication is used, it can be temporarily discontinued when there is no ongoing diarrhea.
 
-3. 避免脱水，注意水與電解質補充，可飲用加水稀釋對半的運動飲料。
+3. Avoid dehydration and pay attention to water and electrolyte replenishment. Diluted sports drinks (half water) can be consumed.
 
-4. 盡量不要喝牛奶及豆類製品、油膩食物、刺激性食物。
+4. Try to avoid milk and soy products, oily foods, and spicy foods.
 
-5. 症狀改善後可嘗試給予白開水，若無不適可逐漸予少量清淡飲食(如：稀飯、米湯、白吐司、果汁)。
+5. After symptoms improve, attempt to give plain water. If no discomfort occurs, gradually introduce small amounts of bland food (e.g., congee, rice water, white toast, juice).
 
-6. 若嘔吐的情形再發生，則須休息幾小時後再進食。
+6. If vomiting recurs, rest for several hours before eating again.
 
-7. 預防方法：勤加洗手、注意烹飪環境、重視飲食衛生。
+7. Prevention methods: frequent handwashing, attention to cooking environment, and emphasis on food hygiene.
 
-8. 輕微腹瀉可以在家繼續休養，若持續嘔吐、持續腹瀉、脫水休克、疼痛部位轉移至右下腹，高燒等情形，請儘速返診。
+8. Mild diarrhea can be managed at home. However, seek immediate medical attention if persistent vomiting, ongoing diarrhea, dehydration shock, pain shifting to the lower right abdomen, or high fever occurs.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

@@ -1,7 +1,7 @@
-## 幼兒哮吼症注意事項
+## Precautions for Pediatric Croup
 
-小孩如果突然聲音沙啞，咳嗽像狗吠，吸氣性的喘鳴聲和呼吸困難，這可能是好發在一歲到三歲幼兒的哮吼症發作。因為幼兒的支氣管較窄發炎時容易被黏液阻塞，壓縮氣流經過發炎的聲帶所發出的聲音。
+If a child suddenly develops hoarseness, a cough resembling a dog's bark, inspiratory stridor, and difficulty breathing, this may indicate an episode of croup, which commonly affects children aged one to three years. Due to the narrower bronchi in young children, inflammation can easily lead to mucus blockage, and the compressed airflow passing over inflamed vocal cords produces the characteristic sounds.
 
-哮吼症大多在冬天的夜晚，有些幼兒突然於晚上發作，睡不好，狗吠的咳嗽聲，聲音沙啞，吸氣性的喘鳴。治療上除了藥物以外，充足的水份補充，並給予冷潮濕空氣吸入，如利用家中浴室或蒸臉器瀰漫的蒸氣，每次吸入蒸氣約十五分鐘，可以讓幼兒呼吸道自然擴張，有助於症状的解除。如果幼兒呼吸困难的現象沒改善需馬上送急診治療。
+Croup often occurs during winter nights, with some children suddenly experiencing episodes at night, leading to poor sleep, a dog-like cough, hoarseness, and inspiratory stridor. In addition to medication, treatment involves adequate hydration and inhalation of cold, moist air. This can be achieved by using steam from a home bathroom or a steam inhaler, with each session lasting approximately fifteen minutes. This helps naturally expand the child's airway, aiding in symptom relief. If the child's breathing difficulties do not improve, immediate emergency care is necessary.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

@@ -1,13 +1,13 @@
-## 三 角巾使用注意事项
+## Precautions for Using a Triangular Bandage
 
-1. 三角巾需清潔乾淨。
+1. The triangular bandage must be kept clean.
 
-2. 使用時肘關節需保持彎曲向上小於90度，手腕、前臂不可下垂。
+2. When using it, the elbow joint must be kept bent upward at less than 90 degrees, and the wrist and forearm should not hang down.
 
-3. 包紮肢體時，儘可能露出肢體末端，以便隨時觀察局部血液循環情形。
+3. When wrapping a limb, try to expose the end of the limb to allow for continuous observation of local blood circulation.
 
-4. 依醫囑指示可於睡眠時暫時拿下休息。
+4. According to medical instructions, it can be temporarily removed during sleep for rest.
 
-5. 若手異常腫脹、手麻或感覺異常，需回診檢查。
+5. If there is abnormal swelling, numbness, or unusual sensations in the hand, a follow-up examination is required.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

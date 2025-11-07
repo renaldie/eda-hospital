@@ -1,57 +1,49 @@
-認識
+Understanding
 
-# 硬脊膜外自控式减痛
+# Epidural Patient Controlled Analgesia
 
-Epidural Patient Controlled Analgesia
+Away from Pain
 
-遠離疼痛
+## Pain Relief Plus
 
-## 减痛加分
+～Anesthesia Team～
 
-～麻醉團隊～
+Let You Feel Pain Relief with Confidence
 
-讓您減痛好放心
+## What is Epidural Patient Controlled Analgesia
 
-## 什麼是硬脊膜外自控式減痛
-
-由麻醉醫師在病人背部的硬脊膜外腔暫時放置一條導管，再將機器接在導管上，由機器控制持續給予止痛藥物，使麻醉止痛藥物經導管進入硬脊膜外腔，局部阻斷傳導疼痛訊號的神經，而達到減痛效果，當病人感到疼痛時，可再自行按壓控制鈕以補充藥物。
+An anesthesiologist temporarily places a catheter into the epidural space in the patient's back, then connects a machine to the catheter. The machine controls the continuous administration of analgesic medication, allowing the medication to enter the epidural space through the catheter. This locally blocks the nerves that transmit pain signals, achieving pain relief. When the patient feels pain, they can press the control button to supplement medication.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_678_421_997_601.jpg" alt="Image" width="18%" /></div>
 
-
-這是一台先進的給藥機器，當您感到疼痛時可自行按壓給藥鈕，機器會注射止痛藥物，大約 10-15 分鐘即能快速達到緩解疼痛效果。
+This is an advanced medication delivery machine. When you feel pain, you can press the medication button yourself, and the machine will inject analgesic medication, providing rapid pain relief within approximately 10-15 minutes.
 
 <div style="text-align: center;"><img src="imgs/img_in_image_box_601_791_1007_1082.jpg" alt="Image" width="24%" /></div>
 
+## Applicable Scope of Epidural Patient Controlled Analgesia
 
-## 硬脊膜外自控式减痛適用範圍
+Severe postoperative wound pain from thoracic and abdominal surgeries, pain relief during childbirth, and cancer pain.
 
-胸、腹腔重度手術後造成之傷口疼痛、減痛分娩、癌症疼痛等。
+## Common Side Effects
 
-## 常見副作用
+Possible side effects include: nausea, vomiting, bloating, dizziness, skin itching, difficulty urinating, and drowsiness. Due to the presence of local anesthetics, some patients may experience numbness or weakness in their limbs. This condition is not permanent and will return to normal after the medication is metabolized.
 
-可能產生的副作用包括：噁心、嘔吐、腹脹、頭暈、皮膚搔癢、排尿困難、易睏嗜睡等。因含有局部麻醉劑，部份病人可能產生肢體麻木或無力情形，此情況非永久性，可在藥效代謝後恢復正常。
+If you experience any of the above, please inform the nursing staff in the ward to contact the pain management nurse for handling.
 
-如有上述情形請告知病房護理人員連絡疼痛護理師處理。
+## How to Use Patient Controlled Analgesia
 
-## 如何才能使用病患自控式减痛
+Currently, the National Health Insurance does not cover patient-controlled analgesia, so it must be paid for out-of-pocket, and refunds are not available. If you need this service, please inform the pre-anesthesia assessment clinic or the nursing staff in the ward about your intention to use it.
 
-目前健保對於自控式減痛不给付，須自費使用，且無法申請退費，如您有需要可向麻醉前評估門診或病房護理師告知使用意願。
+Yi Da Hospital: 07-6150011 ext. 257059  
+Address: No. 1 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City
 
-義大醫院：07-6150011 分機 257059
+Yi Da Cancer Treatment Hospital: 07-6150022 ext. 257776  
+Address: No. 21 Yida Road, Jiaoshu Village, Yanchao District, Kaohsiung City
 
-地址：高雄市燕巢區角宿里義大路1號
+Yi Da Dachang Hospital: 07-5599123 ext. 257530  
+Address: No. 305 Dachang 1st Road, Sanmin District, Kaohsiung City
 
-義大癌治療醫院：07-6150022 分機 257776
+Reproduction, reprinting, or resale without the consent of the copyright holder is prohibited.
 
-地址：高雄市燕巢區角宿里義大路21號
-
-義大大昌醫院：07-5599123 分機 257530
-
-地址：高雄市三民區大昌一路305號
-
-本著作權人非經著作權人同意不得轉載翻印或轉售
-
-著作權人：義大醫療財團法人
-
-義大醫療財團法人 21×29.7cm 2020.07 新設 HA-4-0009(1)
+Copyright Holder: Yi Da Medical Foundation  
+Yi Da Medical Foundation 21×29.7cm 2020.07 Newly Established HA-4-0009(1)

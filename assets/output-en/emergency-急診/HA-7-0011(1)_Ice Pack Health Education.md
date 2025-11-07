@@ -1,11 +1,11 @@
-## 冰敷衛教
+## Ice Pack Guidelines
 
-1. 外傷或發炎傷口，應聽從醫護人員指示使用。
+1. For traumatic or inflamed wounds, use as directed by medical staff.
 
-2. 取適量冰塊於冰袋中，加水三分之一。
+2. Place an appropriate amount of ice cubes into the ice bag and add water to one-third full.
 
-3. 倒置冰袋检查是否有漏水，用乾毛巾包裹冰袋，冰敷患部。
+3. Invert the ice bag to check for leaks, wrap the ice bag with a dry towel, and apply to the affected area.
 
-4. 每天冰敷四次，每次 15~20 分鐘休息。
+4. Apply four times daily, each session lasting 15-20 minutes, followed by a rest period.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation cares for you

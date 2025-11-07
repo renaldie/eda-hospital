@@ -1,11 +1,11 @@
-## 抽搐注意事项
+## Seizure Precautions
 
-1. 抽搐發作時，讓病人平躺頭側一邊，預防嘔吐物阻塞呼吸道，若牙關緊閉，舌頭咬傷出血時，勿強行撬開牙齒。
+1. When a seizure occurs, lay the patient flat on their back with their head turned to one side to prevent vomit from blocking the airway. If the patient's teeth are clenched and bleeding occurs from biting the tongue, do not forcibly pry open their mouth.
 
-2. 勿強力約束病患肢體或嘗試阻止其抽動，引導病患坐下或躺下，防止頭部碰撞，遠離危險，以預防骨折或其他損傷。
+2. Do not restrain the patient's limbs or attempt to stop their convulsions. Guide the patient to sit or lie down to prevent head injuries, and move them away from potential dangers to avoid fractures or other injuries.
 
-3. 觀察並記錄發作時間、症狀、發作時病人在做些什麼、發作持續時間，以利醫師判斷及治療；並立即送醫。
+3. Observe and record the time of onset, symptoms, activities the patient was engaged in during the seizure, and the duration of the seizure. This information will help the physician make a diagnosis and provide treatment; seek immediate medical attention.
 
-4. 有抽搐病史者需按醫生指示服藥，並避免感染發燒、強烈聲光等額外的刺激，不喝酒，保持均衡的飲食及充分的睡眠，定期門診追蹤控制。
+4. Patients with a history of seizures should take medication as prescribed by their doctor. Avoid infections, fever, and additional stimuli such as intense light or sound. Do not consume alcohol, maintain a balanced diet, and ensure adequate sleep. Attend regular outpatient follow-ups for monitoring and control.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation Cares for You

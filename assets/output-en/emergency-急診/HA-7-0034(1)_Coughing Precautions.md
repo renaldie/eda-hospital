@@ -1,21 +1,21 @@
-## 咳嗽注意事项
+## Coughing Precautions
 
-1. 喉嚨癢時多含溫開水緩慢吞嚥，以避免咳嗽。
+1. When your throat itches, hold warm water in your mouth and swallow slowly to avoid coughing.
 
-2. 避免吃冰、甜食物或飲料，暫勿食柑橘類水果（橘子、柳丁、葡萄柚、檸檬）。
+2. Avoid eating cold, sweet foods or drinks, and temporarily avoid citrus fruits (oranges, tangerines, grapefruits, lemons).
 
-3. 避免冷空氣刺激，必要時戴口罩、圍巾；避免抽煙及灰塵刺激。
+3. Avoid cold air stimulation; wear a mask and scarf if necessary. Avoid smoking and dust irritation.
 
-4. 有痰需深呼吸把痰咳出（手按壓腹部或臥床時雙手抱膝姿勢）。
+4. If you have phlegm, take deep breaths to cough it out (press your hand on your abdomen or lie down with both hands hugging your knees).
 
-5. 咳嗽糖浆服用後半小時內暫勿喝水及吃東西。
+5. After taking cough syrup, do not drink water or eat anything for half an hour.
 
-6. 咳嗽期間，應戴口罩，以免散佈他人。
+6. During coughing, wear a mask to prevent spreading to others.
 
-7. 按醫師指示服藥，門診追蹤治療。
+7. Take medication according to the doctor's instructions and undergo outpatient follow-up treatment.
 
-8. 高燒不退、哮喘、有多量黃痰、嚴重乾咳、咳血、發紺等情形，應儘速回診。
+8. If you have persistent high fever, asthma, a large amount of yellow phlegm, severe dry cough, hemoptysis, or cyanosis, please return for a follow-up as soon as possible.
 
-9. 若高燒、咳嗽、或腹瀉，且有出國旅行、密切接觸疑似SARS病人，就可能感染嚴重急性呼吸道症候群，如在就醫後仍無法有效緩解或有惡化之情形，請儘速返院治療。
+9. If you have fever, cough, or diarrhea, and have traveled abroad or had close contact with a suspected SARS patient, you may be infected with severe acute respiratory syndrome (SARS). If symptoms are not effectively relieved or worsen after medical treatment, please return to the hospital for treatment as soon as possible.
 
-義大醫療財團法人 關心您
+Yi Da Healthcare Foundation cares for you.

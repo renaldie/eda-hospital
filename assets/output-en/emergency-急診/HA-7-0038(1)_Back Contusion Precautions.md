@@ -1,21 +1,21 @@
-# 背部挫傷注意事項
+# Precautions for Back Contusions
 
-1. 盡量平躺，多休息。
+1. Lie flat as much as possible and rest more.
 
-2. 避免彎腰舉重物。
+2. Avoid bending over to lift heavy objects.
 
-3. 活動時可以手扶持疼痛部位，減輕疼痛。
+3. When moving, you can support the painful area with your hands to relieve pain.
 
-4. 受傷前2天可冰敷，有消腫及止痛作用。
+4. For the first two days after injury, apply ice packs, which can help reduce swelling and relieve pain.
 
-（1）取适量冰塊於冰袋中，加水三分之一
+(1) Put an appropriate amount of ice cubes into the ice bag and add water to one-third full.
 
-（2）倒置冰袋檢查是否有漏水，用乾毛巾包裹冰袋，冰敷患部。
+(2) Invert the ice bag to check for leaks, wrap the ice bag with a dry towel, and apply it to the affected area.
 
-（3）每天冰敷四次，每次15~20分鐘休息。
+(3) Apply ice four times a day, each session lasting 15~20 minutes with rest in between.
 
-5. 依醫囑服用藥物，定期返門診追蹤檢查。
+5. Take medication as prescribed by the doctor and return for regular follow-up examinations.
 
-6. 如有解血尿、背痛合併冒冷汗情形，請盡速返急診就醫。
+6. If there is hematuria, back pain combined with cold sweats, please seek emergency care immediately.
 
-義大醫療財團法人關心您
+Yi Da Medical Foundation cares for you.

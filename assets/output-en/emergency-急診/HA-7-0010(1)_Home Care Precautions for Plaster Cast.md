@@ -1,33 +1,33 @@
-## 石膏的返家照顧注意事項
+## Post-Discharge Care Instructions for Casts
 
-1. 石膏的目的：固定骨頭，維持骨折骨頭的正常功能位置，使骨頭自行生成修復。
+1. Purpose of the cast: Stabilize the bone, maintain the normal functional position of the fractured bone, allowing the bone to regenerate and repair itself.
 
-2. 上石膏後肢體的護理：
+2. Care of the limb with the cast:
 
-(1)保持上石膏肢體的手指和腳趾清潔，並塗擦乳液，輕輕按摩以預防乾裂。
+(1) Keep the fingers and toes of the limb with the cast clean, apply moisturizer, and gently massage to prevent dryness.
 
-(2)石膏上不可插入尖銳物品，以避免引起皮膚受損，且教導小孩不可將玩具、食物、牙刷、釦子等物品放入石膏內。
+(2) Do not insert sharp objects into the cast to avoid skin damage. Teach children not to put toys, food, toothbrushes, or buttons into the cast.
 
-(3)避免石膏與硬物撞擊，會引起變形或裂開。
+(3) Avoid collisions between the cast and hard objects, which may cause deformation or cracking.
 
-(4)保持石膏清潔乾燥。
+(4) Keep the cast clean and dry.
 
-(5)將打石膏的肢體抬比心臟稍高的位置以促進血液回流，以減輕腫脹疼痛
+(5) Elevate the limb with the cast slightly above the heart level to promote blood circulation and reduce swelling and pain.
 
-(6)施行肌肉收缩運動，每次持續15～20分鐘，每日3次。例：握拳。
+(6) Perform muscle contraction exercises, each session lasting 15-20 minutes, three times daily. Example: Making a fist.
 
-(7)每日應於床上或椅子上練習將石膏的肢體做〔抬起放下〕的運動。
+(7) Daily practice lifting and lowering the limb with the cast while lying on the bed or sitting on a chair.
 
-3. 上石膏後肢體在何種情況下應返門診追蹤
+3. When to return for follow-up after the cast is applied
 
-4. 上石膏肢體末稍指（趾）頭有脹痛蒼白、發紫、冰冷或麻木時。
+4. If there is swelling, pallor, cyanosis, coldness, or numbness in the distal fingers (toes) of the limb with the cast.
 
-5. 石膏斷裂或粉碎時。
+5. If the cast is fractured or fragmented.
 
-6. 感覺石膏太鬆或太緊時。
+6. If the cast feels too loose or too tight.
 
-7. 感覺石膏內某處皮膚有特別刺痛、不舒服的感覺。
+7. If there is a particular pricking sensation or discomfort in a certain area of the skin inside the cast.
 
-8. 勿吃刺激性食物及暴饮暴食。
+8. Avoid consuming spicy foods or overeating.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You

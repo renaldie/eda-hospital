@@ -1,17 +1,17 @@
-## 扭傷或肌肉拉傷注意事項
+## Precautions for Sprains or Muscle Strains
 
-1. 多休息，避免进一步活動，減少再次傷害。
+1. Rest more, avoid further activity, and reduce the risk of re-injury.
 
-2. 一般在受傷後2~3天最疼痛，此時可在受傷處冰敷，持續此步驟24~48小時。
+2. Generally, the most painful period occurs 2~3 days after injury. At this time, apply ice to the injured area, and continue this step for 24~48 hours.
 
-（1）取滴量冰塊於冰袋中，加水三分之一
+（1）Place a small amount of ice cubes in the ice bag and add one-third water
 
-（2）倒置冰袋检查是否有漏水，用乾毛巾包裹冰袋，冰敷患部。
+（2）Invert the ice bag to check for leaks, wrap the ice bag with a dry towel, and apply ice to the affected area.
 
-（3）每天冰敷四次，每次15~20分鐘休息。
+（3）Apply ice four times a day, each time for 15~20 minutes with rest intervals.
 
-3. 儘量抬高患肢，穿著大小合適鞋子（禁止穿高跟鞋）、勿推拿。
+3. Elevate the affected limb as much as possible, wear properly sized shoes (avoid high heels), and do not massage.
 
-4. 疼痛無法忍受，或經治療後腫脹程度及瘀血仍持續增加，需回診治療
+4. If the pain is unbearable, or if swelling and bruising continue to increase despite treatment, seek medical attention.
 
-義大醫療財團法人 關心您
+Yi Da Medical Foundation Cares for You
