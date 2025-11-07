@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-Script to combine multi-page Chinese markdown files in assets/output folders.
+Script to combine multi-page markdown files in assets/output folders.
 Files with the same base name but different page numbers (_0, _1, etc.) will be merged.
-Only combines original Chinese markdown files (not English translations with -ENG suffix).
 
 Example:
     From: HA-9-0061(3)健康檢查前注意事項_0.md
@@ -12,6 +11,7 @@ Example:
 
 import os
 import re
+import shutil
 from pathlib import Path
 from collections import defaultdict
 from typing import Dict, List
@@ -29,11 +29,7 @@ def get_base_name(filename: str) -> tuple[str, int]:
         Example: "HA-9-0061(3)健康檢查前注意事項_0.md" -> ("HA-9-0061(3)健康檢查前注意事項.md", 0)
                  "HA-9-0061(3)健康檢查前注意事項_1.md" -> ("HA-9-0061(3)健康檢查前注意事項.md", 1)
     """
-    # Skip English translated files
-    if filename.endswith('-ENG.md'):
-        return (filename, -1)
-    
-    # Pattern to match _<number> before the .md extension (for Chinese files only)
+    # Pattern to match _<number> before the .md extension
     pattern = r'^(.+?)_(\d+)\.md$'
     match = re.match(pattern, filename)
     
@@ -67,8 +63,8 @@ def group_files_by_base(files: List[Path]) -> Dict[str, List[tuple[Path, int]]]:
     for base_name in grouped:
         grouped[base_name].sort(key=lambda x: x[1])
     
-    # Only return groups with multiple files
-    return {k: v for k, v in grouped.items() if len(v) > 1}
+    # Return all groups (including single files)
+    return grouped
 
 
 def combine_files(file_group: List[tuple[Path, int]], output_path: Path, 
@@ -98,31 +94,34 @@ def combine_files(file_group: List[tuple[Path, int]], output_path: Path,
         f.write(''.join(combined_content))
 
 
-def combine_multipage_files(base_dir: str = "assets/output", 
+def combine_multipage_files(input_dir: str, 
+                            output_dir: str,
                             dry_run: bool = True,
-                            add_page_separator: bool = False,
-                            delete_originals: bool = True):
+                            add_page_separator: bool = False):
     """
     Combine multi-page markdown files into single files.
     
     Args:
-        base_dir: Base directory containing the output folders
+        input_dir: Input directory containing the markdown files with page numbers
+        output_dir: Output directory where combined files will be saved
         dry_run: If True, only show what would be done without actually doing it
         add_page_separator: Whether to add "---" separator between pages
-        delete_originals: Whether to delete original files after combining
     """
-    base_path = Path(base_dir)
+    input_path = Path(input_dir)
+    output_path = Path(output_dir)
     
-    if not base_path.exists():
-        print(f"Error: Directory {base_dir} does not exist")
+    if not input_path.exists():
+        print(f"Error: Directory {input_dir} does not exist")
         return
+    
+    if not dry_run and not output_path.exists():
+        output_path.mkdir(parents=True, exist_ok=True)
     
     total_groups = 0
     total_files_combined = 0
-    total_files_deleted = 0
     
-    # Iterate through all subdirectories in assets/output
-    for folder in base_path.iterdir():
+    # Iterate through all subdirectories in input directory
+    for folder in input_path.iterdir():
         if not folder.is_dir():
             continue
         
@@ -139,32 +138,49 @@ def combine_multipage_files(base_dir: str = "assets/output",
             print("   No multi-page files found")
             continue
         
+        # Create corresponding output subfolder
+        output_subfolder = output_path / folder.name
+        if not dry_run:
+            output_subfolder.mkdir(parents=True, exist_ok=True)
+            
+            # Copy all subdirectories (like imgs/) from input to output
+            for item in folder.iterdir():
+                if item.is_dir():
+                    dest_dir = output_subfolder / item.name
+                    if dest_dir.exists():
+                        shutil.rmtree(dest_dir)
+                    shutil.copytree(item, dest_dir)
+                    print(f"   📂 Copied directory: {item.name}/")
+        else:
+            # Show what directories would be copied in dry-run mode
+            subdirs = [item.name for item in folder.iterdir() if item.is_dir()]
+            if subdirs:
+                print(f"   📂 Directories to copy: {', '.join(subdirs)}")
+        
         # Process each group
         for base_name, file_group in grouped_files.items():
             total_groups += 1
             num_pages = len(file_group)
             total_files_combined += num_pages
             
-            output_path = folder / base_name
+            output_file_path = output_subfolder / base_name
             
-            print(f"\n✓ Combining {num_pages} pages:")
-            print(f"  → Output: {base_name}")
-            
-            for file_path, page_num in file_group:
-                print(f"     Page {page_num}: {file_path.name}")
+            if num_pages == 1:
+                print(f"\n✓ Copying single file:")
+                print(f"  → Output: {output_file_path}")
+                print(f"     Source: {file_group[0][0].name}")
+            else:
+                print(f"\n✓ Combining {num_pages} pages:")
+                print(f"  → Output: {output_file_path}")
+                
+                for file_path, page_num in file_group:
+                    print(f"     Page {page_num}: {file_path.name}")
             
             if not dry_run:
                 try:
-                    # Combine files
-                    combine_files(file_group, output_path, add_page_separator)
-                    
-                    # Delete original files if requested
-                    if delete_originals:
-                        for file_path, _ in file_group:
-                            file_path.unlink()
-                            total_files_deleted += 1
-                    
-                    print(f"  ✅ Combined successfully")
+                    # Combine files (or copy single file)
+                    combine_files(file_group, output_file_path, add_page_separator)
+                    print(f"  ✅ {'Copied' if num_pages == 1 else 'Combined'} successfully")
                     
                 except Exception as e:
                     print(f"  ❌ Error: {e}")
@@ -178,9 +194,9 @@ def combine_multipage_files(base_dir: str = "assets/output",
         print(f"\n⚠️  DRY RUN MODE - No files were actually combined")
         print(f"   Run with --execute to perform actual combining")
     else:
-        if delete_originals:
-            print(f"   Original files deleted: {total_files_deleted}")
         print(f"\n✅ Combining complete!")
+        print(f"   Original files kept in: {input_dir}")
+        print(f"   Combined files saved to: {output_dir}")
 
 
 if __name__ == "__main__":
@@ -195,27 +211,27 @@ if __name__ == "__main__":
         help="Actually combine files (default is dry-run mode)"
     )
     parser.add_argument(
-        "--base-dir",
+        "--input-dir",
         required=True,
-        help="Base directory containing output folders (default: assets/output)"
+        help="Input directory containing markdown files with page numbers"
+    )
+    parser.add_argument(
+        "--output-dir",
+        required=True,
+        help="Output directory where combined files will be saved"
     )
     parser.add_argument(
         "--add-separator",
         action="store_true",
         help="Add '---' separator between pages in combined file"
     )
-    parser.add_argument(
-        "--keep-originals",
-        action="store_true",
-        help="Keep original files after combining (default is to delete them)"
-    )
     
     args = parser.parse_args()
     
     # Run in dry-run mode by default, unless --execute is specified
     combine_multipage_files(
-        base_dir=args.base_dir,
+        input_dir=args.input_dir,
+        output_dir=args.output_dir,
         dry_run=not args.execute,
-        add_page_separator=args.add_separator,
-        delete_originals=not args.keep_originals
+        add_page_separator=args.add_separator
     )
