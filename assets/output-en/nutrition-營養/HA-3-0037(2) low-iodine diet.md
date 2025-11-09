@@ -1,0 +1,28 @@
+## 低碘飲食
+
+碘是製造甲狀腺素的原料，主要來自食物，成人每日建議量150微克(μg)，低碘飲食以均衡飲食為基礎，減少富含碘食物，減緩甲狀腺機能惡化。
+
+1. 適用對象：自體免疫甲狀腺疾病、部分甲狀腺癌病患。
+
+2. 適用時機：平日
+
+3. 飲食原則
+
+台灣公共衛生政策，在食鹽中添加碘的方式，因為食鹽是日常飲食中的必需品，通過這種方式可以確保大多數人群攝取足夠的碘，以解決碘缺乏相關的健康問題，如今民眾開始使用未添加碘的進口鹽，台灣的碘鹽政策逐漸轉為鼓勵性措施，而非強制性；另外，「海鹽」製程雖不會額外添加碘，但海水本身富含礦物質，故仍含有少許碘。「岩鹽」為古代海洋蒸發後留下的鹽層，經長時間地質作用後，岩鹽中的天然碘已是極微量，建議民眾依本身治療需要，除了減少高碘食物攝取，仍應選用正確合適的調味品，且酌量使用。
+
+● 忌臘肉、火腿、肉品罐頭、鹹蛋、魚、貝、蝦、蟹及海鮮製品、醃製蔬菜、醬菜、海帶、紫菜、髮菜、含碘鹽、含碘維他命與營養補充品、含紅色色素糖果與果凍、含海洋原料之營養補充品(如：鯊魚軟骨素)。
+
+以台灣一般食鹽為例，1公克食鹽約含碘20-50微克(μg)，以6公克食鹽試算，約含120-300μg碘。
+
+● 1茶匙食鹽=6茶匙烏醋=6茶匙味精(5g)=2又2/5湯匙醬油=15茶匙番茄醬。建議運用天然食材本身鮮味烹調或選購無加碘食鹽。<div style="text-align: center;"><img src="imgs/img_in_image_box_24_59_1187_421.jpg" alt="Image" width="97%" /></div>
+
+
+## ☑ 食物選擇表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>食物種類</td><td style='text-align: center;'>可食</td><td style='text-align: center;'>忌食</td></tr><tr><td style='text-align: center;'>乳品類及其製品</td><td style='text-align: center;'>低脂(脫脂)鮮奶、優酪乳</td><td style='text-align: center;'>無</td></tr><tr><td style='text-align: center;'>全穀雜糧類</td><td style='text-align: center;'>米飯、麵條、冬粉、麥片、紅豆、薏仁</td><td style='text-align: center;'>無</td></tr><tr><td style='text-align: center;'>肉類</td><td style='text-align: center;'>新鮮未加工肉類</td><td style='text-align: center;'>臘肉、火腿、肉品罐頭</td></tr><tr><td style='text-align: center;'>蛋類</td><td style='text-align: center;'>新鮮蛋類</td><td style='text-align: center;'>鹹蛋</td></tr><tr><td style='text-align: center;'>黃豆及其製品</td><td style='text-align: center;'>豆腐、豆干、豆漿</td><td style='text-align: center;'>無</td></tr><tr><td style='text-align: center;'>海產類</td><td style='text-align: center;'>無</td><td style='text-align: center;'>海魚、貝、蝦、蟹及海鮮製品</td></tr><tr><td style='text-align: center;'>油脂類</td><td style='text-align: center;'>植物油、堅果類</td><td style='text-align: center;'>無</td></tr><tr><td style='text-align: center;'>蔬菜類</td><td style='text-align: center;'>新鮮蔬菜</td><td style='text-align: center;'>醃製蔬菜、醬菜、海帶、紫菜、髮菜</td></tr><tr><td style='text-align: center;'>水果類</td><td style='text-align: center;'>新鮮水果</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>調味品</td><td style='text-align: center;'>無碘鹽、無碘醬油</td><td style='text-align: center;'>含碘鹽</td></tr><tr><td style='text-align: center;'>其他</td><td style='text-align: center;'></td><td style='text-align: center;'>含碘維他命與營養補充品、含紅色色素糖果與果凍、含海洋原料之營養補充品(沙魚軟骨素)</td></tr></table>
+
+参考资料：Low-Iodine Cookbook. Guidelines, Tips, & Recipes for the Low-Iodine Diet Used Prior to Radioactive Iodine Treatment. 2022, 9th Edition.
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院地址:高雄市燕巢區角宿里義大路1號電話:07-6150011</td><td style='text-align: center;'>義大癌治療醫院地址:高雄市燕巢區角宿里義大路21號電話:07-6150022</td><td style='text-align: center;'>義大大昌醫院地址:高雄市三民區大昌一路305號電話:07-5599123</td></tr></table>

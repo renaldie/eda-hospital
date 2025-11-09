@@ -1,0 +1,297 @@
+## 六、 怎麼知道有咀嚼吞嚥困難？
+
+請依照每項進食情形填入0~4分
+
+(0分：沒有問題、4分：問題嚴重)
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>項目</td><td style='text-align: center;'>分數</td></tr><tr><td style='text-align: center;'>吞噬問題讓我體重減輕</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吞噬問題讓我不能像以前外出用餐</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>喝飲料時要花很多力氣</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吃固體食物時要花很多力氣</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吞藥丸時要花很多力氣</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吞嚥的過程會引起疼痛</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吞嚥問題讓我無法享受用餐</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>進食後會感到有東西黏在喉嚥上</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>進食的時候會咳嗽</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>吞嚥的過程讓我感到壓力</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>總分(大於3分請洽詢專業醫事人員)</td><td style='text-align: center;'></td></tr></table>
+
+## 七、 咀嚼吞噬困難常見的症狀
+
+吃東西或喝水時常嗆到。
+
+2. 吃飯後聲音改變有水聲或像喉嚨有痰。
+
+吃東西吞不下去。
+
+感覺食物卡在喉嚨。
+
+. 東西常常吃不完或吐出來。
+
+進食時間變長。
+
+時常須將口水吐出來或流口水。
+
+3. 沒有特別理由而體重變輕。
+
+4. 不明原因的發燒或感染肺炎
+
+## 八、 進食應注意的重點
+
+1. 準備專心吃飯，不邊聊天看電視。
+
+進食前
+
+2. 坐姿端正，下巴可微微内收。
+
+3. 拿小湯匙(約3公分)小口慢慢吃。
+
+4. 拿小且淺的杯子控制喝水量。
+
+進食中
+
+1. 小口吃，一口吞完後再吃下一口。
+
+2. 可以多吞幾次避免殘留。
+
+3. 吞完喉嚨癢，可清喉嚨咳嗽再吞。
+
+4. 吞完聲音水水濁濁要清喉嚨吞乾淨。
+
+進食後
+
+1. 清潔口腔保持衛生。
+
+2. 維持坐姿20分鐘避免食物逆流。
+
+## 參考資料：
+
+1. 吞嚥困難安心照護飲食全書(2022)臺大醫院復健科、營養師團隊。
+
+2. 咀嚼吞嚥衛教手冊(2023)台灣咀嚼吞嚥障礙醫學會。
+
+
+
+3. 高齡營養飲食質地衛教手冊(2019)衛福部國健署。
+
+4. Belafsky, Peter C et al. "Validity and reliability of the Eating Assessment Tool (EAT-10)." Ann Otol Rhinol Laryngol 117, 12 (2008): 919-24.
+
+義大醫院
+
+地址：高雄市燕巢區角宿里義大路1號
+
+電話: 07-6150011
+
+義大癌治療醫院
+
+地址: 高雄市燕巢區角宿里義大路21號
+
+電話: 07-6150022
+
+義大大昌醫院
+
+
+
+地址: 高雄市三民區大昌一路305號
+
+電話: 07-5599123
+
+
+
+# 咀嚼吞嚥
+
+# 困難飲食
+
+(質地調整飲食)
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1224_370_1469_760.jpg" alt="Image" width="15%" /></div>## 一、 什麼是咀嚼吞嚥困難？
+
+當食物從嘴巴進入到胃的過程中發生一些狀況，導致無法適當地將食物咀嚼成小塊或順利吞下食物，就是發生了「咀嚼吞嚥困難」。
+
+## 二、 咀嚼吞嚥困難有甚麼影響？
+
+長期的咀嚼吞噬困難，容易因為減少進食的意願，導致營養不良。也因為此時容易讓食物及液體誤入到氣管、甚至掉入肺部，導致吸入性肺炎等合併症。
+
+## 三、 誰容易發生咀嚼吞嚥困難
+
+1. 腦
+
+傷→腦中風, 頭部外傷, 腦瘤。
+
+
+
+2. 神經退化→帕金森，失智。
+
+3. 頭頸癌→口腔癌，舌癌，喉癌，鼻咽癌。
+
+4. 老化衰弱及其他(肺炎等)
+
+## 四、 咀嚼吞嚥困難基本飲食原則
+
+1. 留意過硬、過黏、過乾、太大等易嗆咳食物(如堅果，麵包，麻糬，魚丸等)。
+
+2. 容易在嘴裡散開、有小顆粒不均質、或會在嘴裡改變質地的食物，亦容易導致嗆咳。
+
+3. 食物需濕潤軟嫩，餐具可輕易切割。
+
+4. 如攝取液體有困難，可用增稠劑適當增加黏稠度幫助吞嚥。
+
+5. 因每餐進食量容易變少，建議增加點心(少量多餐)滿足營養需求。
+
+## 五、 臺灣飲食質地分類應用
+
+咀嚼吞嚥進食困擾
+
+是
+
+營養師或
+
+專業醫事人員
+
+一般飲食
+
+吞噬障礙
+
+牙口
+
+咀嚼差
+
+液體飲品質地調整
+
+固體食物質地調整
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_553_382_603_435.jpg" alt="Image" width="3%" /></div>
+
+
+## 均質糊狀食
+
+從湯匙上
+
+整塊滑落
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_693_444_757_545.jpg" alt="Image" width="4%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_553_555_601_609.jpg" alt="Image" width="3%" /></div>
+
+
+## 中稠度流食
+
+從湯匙上
+
+緩慢滴下
+
+不會附著
+
+##  $ ^{*} $ 均質糊狀
+
+流動性差、緩慢流動不太需要咀嚼即可吞。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_680_618_758_722.jpg" alt="Image" width="5%" /></div>
+
+
+→優格
+
+##  $ ^{*} $ 不易滴落的液體
+
+滑順，沒有結塊，可用杯子或湯匙食用。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_554_743_596_795.jpg" alt="Image" width="2%" /></div>
+
+
+→濃湯、米糊
+
+## 低稠度流食
+
+從湯匙上
+
+柱狀流動
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_694_799_759_892.jpg" alt="Image" width="4%" /></div>
+
+
+##  $ ^{*} $ 些微稠度的液體
+
+吸取時需花一些力氣。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_551_898_595_949.jpg" alt="Image" width="2%" /></div>
+
+
+→米漿、濃縮配方
+
+## 微稠度流食
+
+從湯匙上馬上流光
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_675_961_759_1052.jpg" alt="Image" width="5%" /></div>
+
+
+##  $ ^{*} $ 流動性高的液體
+
+比水稍微濃稠。
+
+→豆漿、均衡配方
+
+## 易咬普通食
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1069_2_1121_60.jpg" alt="Image" width="3%" /></div>
+
+
+不容易壓成小塊分開
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1185_63_1284_201.jpg" alt="Image" width="6%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1068_252_1118_307.jpg" alt="Image" width="3%" /></div>
+
+
+## 牙龈碎软食
+
+壓食物需用力
+
+才能壓碎
+
+1.5
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1198_503_1311_630.jpg" alt="Image" width="7%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1068_653_1124_707.jpg" alt="Image" width="3%" /></div>
+
+
+## 舌頭壓碎食
+
+## 不需用力就能 壓碎食物
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1198_716_1283_851.jpg" alt="Image" width="5%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1072_877_1123_930.jpg" alt="Image" width="3%" /></div>
+
+
+## 不須咬泥食
+
+餐具劃
+
+過表面
+
+留下痕跡
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1187_940_1301_1059.jpg" alt="Image" width="7%" /></div>
+
+
+##  $ ^{*} $ 不限制食物尺寸
+
+牙齒功能不佳，但仍可咀嚼食物，且舌頭可推送食物幫助進食。
+
+## →大黑豆乾/蘿蔔塊
+
+###  $ ^{*} $ 1.5公分塊狀
+
+牙齒無法咀嚼，只能靠牙齦咀嚼食物和舌頭推送食物幫助進食。
+
+→板豆腐/蘿蔔丁
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1375_468_1451_634.jpg" alt="Image" width="4%" /></div>
+
+
+###  $ ^{*} $ 0.4公分粒狀
+
+牙齒、牙齦無法咀嚼，但可靠舌頭和上顎壓碎食物。
+
+## →嫩豆腐/蘿蔔粒
+
+##  $ ^{*} $ 均質糊狀
+
+牙齒、牙齦無法咀嚼，且舌頭也無法壓碎食物。→豆花/蘿蔔泥

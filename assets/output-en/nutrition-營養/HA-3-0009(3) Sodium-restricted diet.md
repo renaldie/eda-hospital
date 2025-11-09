@@ -1,0 +1,87 @@
+## 食物選擇表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>食物類別</td><td style='text-align: center;'>可食</td><td style='text-align: center;'>忌食</td></tr><tr><td style='text-align: center;'>奶類</td><td style='text-align: center;'>鮮奶及奶製品</td><td style='text-align: center;'>乳酪</td></tr><tr><td style='text-align: center;'>豆、魚、蛋、肉類</td><td style='text-align: center;'>新鮮肉、魚、家禽類及蛋類。新鮮豆類及其製品，如：豆腐、豆漿。</td><td style='text-align: center;'>加鹽或燻製的食品，如：各式丸類、火腿、熱狗、香腸、臘肉、燻雞、肉髮、鹹魚、皮蛋、調味豆乾。罐製食品，如：肉醬、鮪魚、鰻魚、豆腐乳。</td></tr><tr><td style='text-align: center;'>全穀雜糧類</td><td style='text-align: center;'>米飯、冬粉、米粉、麵食。</td><td style='text-align: center;'>麵包及西點。</td></tr><tr><td style='text-align: center;'>蔬菜類</td><td style='text-align: center;'>新鮮蔬菜及自製蔬菜汁。</td><td style='text-align: center;'>醃製蔬菜，如：榨菜、酸菜、泡菜、笥干等。冷凍蔬菜，如：碗豆荬、青豆仁等。加工蔬菜汁及罐頭。</td></tr><tr><td style='text-align: center;'>水果類</td><td style='text-align: center;'>新鮮水果及自製果汁。</td><td style='text-align: center;'>乾果類，如：蜜餞、罐頭水果及加工果汁。</td></tr><tr><td style='text-align: center;'>油脂與堅果種子類</td><td style='text-align: center;'>植物油，如：大豆油、花生油。</td><td style='text-align: center;'>奶油、乳瑪琳、沙拉醬、蛋黃醬。</td></tr><tr><td style='text-align: center;'>調味品</td><td style='text-align: center;'>蔥、薑、蒜、肉桂、五香、八角、胡椒等。</td><td style='text-align: center;'>味精、豆腐醬、沙茶醬、鱗油、甜麵醬、番茄醬、豆豉、芥末醬等。</td></tr><tr><td style='text-align: center;'>其他</td><td style='text-align: center;'>太白粉、茶</td><td style='text-align: center;'>雞精、洋芋片、爆米花、運動飲料、碳酸飲料。</td></tr></table>
+
+## 参考來源
+
+1. Comparative effects of different dietary approaches on blood pressure in hypertensive and pre-hypertensive patients: A systematic review and network meta-analysis. Crit Rev Food Sci Nutr. 2019;59(16):2674-2687.
+
+2. Sodium Intake and Heart Failure. Int.J Mol Sci. 2020 Dec 13; 21(24):9474.
+
+3. Dietary Approaches to Stop Hypertension (DASH) Diet and Blood Pressure Reduction in Adults with and without Hypertension: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+
+Advances in Nutrition. 2020 Sep 1;11(5):1150-1160.
+
+4. 衛生福利部國民健康署減鹽祕笈手冊
+
+## 義大醫院
+
+地址：高雄市燕巢區角宿里義大路1號
+
+電話：07-6150011
+
+義大癌治療醫院
+
+地址：高雄市燕巢區角宿里義大路21號
+
+電話：07-6150022
+
+義大大昌醫院
+
+地址：高雄市三民區大昌一路305號
+
+電話：07-5599123
+
+本著作權非經著作權人同意不得轉載翻印或轉售
+
+著作權人：義大醫療財團法人
+
+表單編號：HA-3-0009（3）
+
+義大醫療財團法人 20X29.7cm 2024.06E 製 2024.03修訂
+
+## 限鈉飲食
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1184_266_1603_762.jpg" alt="Image" width="24%" /></div>
+
+
+## Low-sodium Diet
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1156_965_1642_1051.jpg" alt="Image" width="28%" /></div>## 一、 何謂限納飲食
+
+500mg。
+
+(三)限制每日飲食中鈉的攝取量，以減少鈉離子過多而造成體內水份蓄積。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_560_101_795_441.jpg" alt="Image" width="19%" /></div>
+
+
+## 二、 適用對象
+
+水腫、高血壓、腹水者、肝硬化、心衰竭、妊娠毒血症、骨質疏鬆症、結石、長期使用腎上腺皮質賀爾蒙和類固醇藥物者。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_74_135_325_344.jpg" alt="Image" width="21%" /></div>
+
+
+## 三、 飲食原則
+
+（二）食物選擇以均衡為主，不可偏食。
+
+（三）含鈉量高的調味品，如：鹽、醬油、味
+
+（四）含鈉量較高但卻不易被人察覺的食品，如：麵線、油麵、甜鹹蜜餞、甜鹹餅乾
+
+胡椒、咖喱粉等。
+
+（九）儘量少用刺激性的調味品，如、辣椒、
+
+(十)避免抽菸、飲酒。
+
+(十一)食用市售的低鈉醬油時，須按營養師指示食用。因其含鉀量甚高，不適於
+
+腎臟病患者食用。
+
+(十二) 餐館烹調經常使用較高的食鹽、味精等調味，所以應儘量避免在外用餐。萬一無法避免時，則忌食湯汁、醃製食品。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_204_1198_574_1593.jpg" alt="Image" width="31%" /></div>

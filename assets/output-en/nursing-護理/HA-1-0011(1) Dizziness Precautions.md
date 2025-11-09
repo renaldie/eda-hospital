@@ -1,0 +1,63 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_65_115_544_539.jpg" alt="Image" width="40%" /></div>
+
+
+地址：高雄市824燕巢區角宿里義大路1號
+
+電話：07-6150011
+
+網址：edah@edah.org.tw
+
+本著作權非經著作權人同意不得轉載翻印或轉售
+
+著作權人：義大醫療財團法人
+
+表單編號：HA-1-0011（1）
+
+義大醫療財團法人 20X20cm 2016.01印製 2011.05修訂
+
+## 眩晕注意事项
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_688_287_1133_804.jpg" alt="Image" width="37%" /></div>## 眩晕注意事项
+
+## 一、 何謂眩晕：
+
+眩晕是一種症狀，會導致眩暈的疾病很多，大致說來「眩晕」是平衡失常或內耳神經發炎所造成，病患會有一種天旋地轉的感覺，眼睛打開看四周之景象呈現一種繞轉的現象，伴隨嘔吐、噁心、四肢無法站穩：而「頭暈」的病患並不會有這種強烈的感覺，大多只是覺得頭重重的，走路不是很穩的樣子。
+
+## 二、 常見引起眩暈的疾病
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>疾病名稱</td><td style='text-align: center;'>不需手術治療或住院</td><td style='text-align: center;'>需手術治療或住院</td></tr><tr><td style='text-align: center;'>前庭(屬第八對腦神經)發炎或機能降醍</td><td style='text-align: center;'>◎</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>急性中耳炎</td><td style='text-align: center;'>◎</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>耳內異物或耳垢過多</td><td style='text-align: center;'>◎</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>顱葉癲癇</td><td style='text-align: center;'>◎</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>其他疾病導致循環不良</td><td style='text-align: center;'>◎</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>中風</td><td style='text-align: center;'></td><td style='text-align: center;'>◎</td></tr><tr><td style='text-align: center;'>腦瘤或聽神經瘤</td><td style='text-align: center;'></td><td style='text-align: center;'>◎</td></tr><tr><td style='text-align: center;'>腦炎、腦膜炎、腦矇傷</td><td style='text-align: center;'></td><td style='text-align: center;'>◎</td></tr><tr><td style='text-align: center;'>多發性硬化症</td><td style='text-align: center;'></td><td style='text-align: center;'>◎</td></tr></table>
+
+## 三、 居家生活注意事项：
+
+1. 建議多臥床休息，應有規律的睡眠時間、避免疲勞過度、熬夜及情緒緊張。
+
+2. 維持休息場所的寧靜與光線柔和。
+
+3. 在改變姿勢時應緩慢進行，下床活動時需有
+
+人在旁協助、預防跌倒。
+
+4. 飲食上應避免攝取過鹹的食物。例如：醃製品或醬瓜類。
+
+5. 若為心臟血管疾病患者，家中須備有血壓計，定時測量血壓。
+
+6. 戒煙與檳榔：如果您抽煙或嚼檳榔，會對您的病情有很不好的影響，為了您的健康以及家人的幸福，請痛下決心戒掉。
+
+7. 定期服藥：您常規服用的藥物，特別是高血壓與糖尿病的藥，一定要繼續按時服用，如果急診醫師有開藥給您，亦請遵照囑咐定時定量服用，藥物用完後如果尚有不適，請到神經內科、或耳鼻喉科、一般內科或是家醫科門診繼續追蹤治療。
+
+## 四、 如果有下列情形，請立即回來複診：
+
+1. 頭痛、眩暈情形加劇。
+
+2.聽力喪失、耳鳴、視力減退模糊或嚴重
+
+噁心、嘔吐等情形。
+
+3. 合併有單側的肢體無力、麻痺或是感覺異常。
+
+4. 不自主抽搐。
+
+5. 出現持續發燒超過38.5℃
+
+6. 其他讓您覺得不放心的症状或徵候。

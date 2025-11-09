@@ -1,0 +1,103 @@
+## 肺阻塞（COPD）肺部運動訓練
+
+## 上肢運動—水瓶&啞鈴訓練
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1361_188_1496_321.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1555_189_1684_322.jpg" alt="Image" width="7%" /></div>
+
+
+## 什麼是肺阻塞？
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_71_401_110_455.jpg" alt="Image" width="2%" /></div>
+
+
+呼吸道慢性發炎，不可逆的阻塞性疾病
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_63_472_101_526.jpg" alt="Image" width="2%" /></div>
+
+
+台灣十大死因第八位
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_54_562_93_617.jpg" alt="Image" width="2%" /></div>
+
+
+症状：咳
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_250_542_369_669.jpg" alt="Image" width="7%" /></div>
+
+
+痰
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_424_544_543_671.jpg" alt="Image" width="7%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_596_546_724_672.jpg" alt="Image" width="7%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_50_672_90_728.jpg" alt="Image" width="2%" /></div>
+
+
+## 喘
+
+## 危險因子：
+
+吸菸或二手菸
+
+環境有害物質
+
+或職業接觸
+
+家族史
+
+或其他肺部狀況
+
+
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_111_806_246_939.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_320_815_453_947.jpg" alt="Image" width="7%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_549_816_681_945.jpg" alt="Image" width="7%" /></div>
+
+
+## 上肢運動訓練重要性
+
+透過上肢運動，改善上肢肌肉力量，
+
+提高運動耐力及呼吸強度，減緩呼吸喘不適程度。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_821_506_864_564.jpg" alt="Image" width="2%" /></div>
+
+
+須經常練習才有效唷!!
+
+訓練頻率
+
+訓練時間
+
+每周3次以上
+
+每次至少20~30分鐘
+
+ $ ^{*} $ 建議頻率與時間提供參考，可依個人狀況增減調整
+
+## 參考資料來源
+
+1. 台灣胸腔暨重症加護醫學會(2022)•2022台灣肺復原實務指引•台北市：台灣胸腔暨重症加護醫學會
+
+2. 台灣胸腔暨重症加護醫學會(2022)•2022奔跑吧!小肺!-肺阻塞的肺部復健衛教手冊
+
+
+
+3. 台灣胸腔暨重症加護醫學會(2017)·肺阻塞知多少-台灣肺阻塞全方位照護手冊
+
+## 聯絡資訊
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>義大醫院</td><td style='text-align: center;'>義大癌治療醫院</td><td style='text-align: center;'>義大大昌醫院</td></tr><tr><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路1號</td><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路21號</td><td style='text-align: center;'>地址:高雄市三民區大昌一路305號</td></tr><tr><td style='text-align: center;'>電話:07-6150011 轉 5072 肺阻塞個管師</td><td style='text-align: center;'>電話:07-6150022 轉 6477 肺阻塞個管師</td><td style='text-align: center;'>電話:07-5599123 呼吸胸腔科門診</td></tr></table><div style="text-align: center;"><img src="imgs/img_in_image_box_0_24_1684_1156.jpg" alt="Image" width="100%" /></div>

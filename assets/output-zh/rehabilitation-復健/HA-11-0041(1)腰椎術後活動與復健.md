@@ -1,0 +1,167 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_312_0_809_85.jpg" alt="Image" width="41%" /></div>
+
+
+# 腰椎術後 活動與復健
+
+活動技巧篇
+
+復健運動篇
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_332_714_812_962.jpg" alt="Image" width="40%" /></div>
+
+
+背痛
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_117_998_370_1218.jpg" alt="Image" width="21%" /></div>
+
+
+醫師檢查
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_476_1102_603_1210.jpg" alt="Image" width="10%" /></div>
+
+
+藥物治療
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_709_1012_981_1211.jpg" alt="Image" width="22%" /></div>
+
+
+物理治療
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_204_1367_307_1528.jpg" alt="Image" width="8%" /></div>
+
+
+背架輔助
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_406_1318_697_1529.jpg" alt="Image" width="24%" /></div>
+
+
+手術治療
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_746_1282_1030_1531.jpg" alt="Image" width="23%" /></div>
+
+
+背痛改善## 腰椎手衔後 活動技巧篇
+
+活動目的:正確的轉位動作，可減緩術後疼痛。
+
+注意事項:(1)平躺休息時，可不穿背架，膝蓋小腿下方放置枕頭；
+
+側躺時雙腳微彎，雙腳夾枕頭，可減輕腰部的壓力。
+
+
+
+(2)活動或運動時，需正確穿戴背架，可保護您的手術部位。
+
+(3)不需穿背架保護患部的時間，請遵照醫生醫囑。
+
+
+
+翻身：對側腳踩床後，全身一起轉（維持脊椎一直線）
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_9_413_477_634.jpg" alt="Image" width="39%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_504_497_660_559.jpg" alt="Image" width="13%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_724_426_1178_641.jpg" alt="Image" width="38%" /></div>
+
+
+起床：側躺後，以雙手支撐床面，或請家屬協助再起床
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_9_717_360_935.jpg" alt="Image" width="29%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_382_718_720_937.jpg" alt="Image" width="28%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_737_716_953_965.jpg" alt="Image" width="18%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_966_715_1171_970.jpg" alt="Image" width="17%" /></div>
+
+
+坐到站：(1)穿好背架，屁股往前移(2)手支撑扶手(3)站起來
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_322_1018_575_1240.jpg" alt="Image" width="21%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_608_1021_865_1242.jpg" alt="Image" width="21%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_909_1018_1161_1247.jpg" alt="Image" width="21%" /></div>
+
+
+助行器行走：(1)助行器往前(2)較沒力的腳先走(3)另一腳跟上
+
+頭不暈
+
+再行走
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_344_1308_554_1567.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_623_1310_837_1569.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_920_1311_1135_1572.jpg" alt="Image" width="18%" /></div>## 腰椎手術後 復健運動篇
+
+運動目的:手術後配合復健運動，可以提升手術成功率，降低背痛的復發率。
+
+運動處方：維持10~15秒後放鬆，每次15下，每天四次。
+
+## 初階復健運動
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>腹式深呼吸運動(吸氣時肚子微微凸起)</td><td style='text-align: center;'>腳踝上勾</td></tr><tr><td style='text-align: center;'><img src="imgs/img_in_image_box_64_487_533_715.jpg" ></td><td style='text-align: center;'><img src="imgs/img_in_image_box_648_490_1124_720.jpg" ></td></tr><tr><td style='text-align: center;'>膝蓋壓毛巾<img src="imgs/img_in_image_box_66_792_536_1011.jpg" ></td><td style='text-align: center;'>腳跟壓毛巾<img src="imgs/img_in_image_box_642_801_1130_1015.jpg" ></td></tr><tr><td style='text-align: center;'>交替膝彎曲及伸直<img src="imgs/img_in_image_box_60_1097_531_1299.jpg" ></td><td style='text-align: center;'>縮小腹，以背部壓毛巾<img src="imgs/img_in_image_box_642_1092_1122_1312.jpg" ></td></tr><tr><td style='text-align: center;'>縮小腹，膝蓋彎曲，微微抬高<img src="imgs/img_in_image_box_61_1398_518_1597.jpg" ></td><td style='text-align: center;'>縮小腹，膝蓋伸直，向上抬高<img src="imgs/img_in_image_box_636_1402_1120_1628.jpg" ></td></tr></table>## 進階復健運動
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_40_135_274_397.jpg" alt="Image" width="19%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_305_142_517_400.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;">原地踏步(大腿交替上抬)</div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_640_144_835_403.jpg" alt="Image" width="16%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_904_140_1108_399.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;">踮脚尖</div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_41_489_249_754.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_315_494_516_756.jpg" alt="Image" width="16%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_638_497_851_756.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_922_495_1124_755.jpg" alt="Image" width="16%" /></div>
+
+
+注意事項：(1)手術前即可開始練習本衛教單張之復健運動。
+
+(2)穿著背架時，背板若導致手術傷口不適，可放置毛巾於背板內側。毛巾柔軟可減緩傷口疼痛，提升舒適感。
+
+(3)執行運動時，以不產生手術傷口疼痛為原則。若有疼痛產生，可諮詢物理治療師進行運動處方調整。
+
+(4)頭暈或身體不適時，應暫停運動，預防跌倒。運動量視個人情形而定，切勿過量，會造成手術傷口疼痛。
+
+(5)三個月內避免轉身取物及彎腰。
+
+(6)三個月內避免提重物(雙手總重量不可超過10公斤)。
+
+若想更進一步了解相關內容，請諮詢本院復健科
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院地址:高雄市燕巢區角宿里義大路1號電話:07-6150011#2330</td><td style='text-align: center;'>義大癌治療醫院地址:高雄市燕巢區角宿里義大路21號電話:07-6150022#2340</td><td style='text-align: center;'>義大大昌醫院地址:高雄市三民區大昌一路305號電話:07-5599123#7531</td></tr></table>
+
+義大醫療財團法人 29.7 × 42cm 2023.11 印製
+
+2023.11 新設 HA-11-0041(1)

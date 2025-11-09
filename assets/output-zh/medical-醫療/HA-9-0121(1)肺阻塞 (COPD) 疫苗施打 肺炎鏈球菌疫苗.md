@@ -1,0 +1,162 @@
+## 肺阻塞 (COPD) 疫苗施打 肺炎球菌疫苗
+
+## 什麼是肺阻塞？
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_77_315_122_373.jpg" alt="Image" width="2%" /></div>
+
+
+## 呼吸道慢性發炎，不可逆的阻塞性疾病
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_69_391_111_446.jpg" alt="Image" width="2%" /></div>
+
+
+台灣十大死因第八位
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_55_482_98_540.jpg" alt="Image" width="2%" /></div>
+
+
+## 症状：咳
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_265_464_397_596.jpg" alt="Image" width="7%" /></div>
+
+
+痰
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_47_599_91_658.jpg" alt="Image" width="2%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_452_467_582_597.jpg" alt="Image" width="7%" /></div>
+
+
+## 喘
+
+## 危險因子：
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_634_468_768_599.jpg" alt="Image" width="7%" /></div>
+
+
+吸菸或二手菸
+
+環境有害物質
+
+或職業接觸
+
+家族史
+
+或其他肺部狀況
+
+
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_109_741_255_882.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_333_748_477_890.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_579_747_723_885.jpg" alt="Image" width="8%" /></div>
+
+
+## 肺阻塞疫苗施打
+
+1. 依據國內外照護指引建議，COPD病人應接受相關疫苗施打，預防相關感染，以降低急性發作及併發重症，↓住院率及↓死亡率。
+
+2. 2023年國際GOLD指引建議，COPD病人應施打之疫苗：流感疫苗(每年)、肺炎鏈球菌疫苗(國內為13價及23價)、COVID-19疫苗、百日咳疫苗及帶狀疱疹疫苗。
+
+3. COPD病人除65歲以上建議施打外，65歲以下合併慢性疾病者也應施打肺炎鏈球菌疫苗。
+
+## 參考資料來源
+
+1. 台灣胸腔暨重症加護醫學會, 台灣肺阻塞臨床照護指引. 2019.
+
+2. 2023 GLOBAL STRATEGY FOR PREVENTION, DIAGNOSIS AND MANAGEMENT OF COPD. 2023.
+
+## 聯絡資訊
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>義大醫院</td><td style='text-align: center;'>義大癌治療醫院</td><td style='text-align: center;'>義大大昌醫院</td></tr><tr><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路1號</td><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路21號</td><td style='text-align: center;'>地址:高雄市三民區大昌一路305號</td></tr><tr><td style='text-align: center;'>電話:07-6150011 轉 5072 肺阻塞個管師</td><td style='text-align: center;'>電話:07-6150022 轉 6477 肺阻塞個管師</td><td style='text-align: center;'>電話:07-5599123 呼吸胸腔科門診</td></tr></table><div style="text-align: center;"><img src="imgs/img_in_image_box_29_31_250_251.jpg" alt="Image" width="13%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_44_321_247_487.jpg" alt="Image" width="12%" /></div>
+
+
+肺阻塞围际關心您
+
+若有疑問
+
+歡迎諮詢胸腔科醫師
+
+## 肺炎
+
+是一種肺部感染性疾病，由細菌或病毒透過空氣或飛沫傳染，
+
+常見症狀：發燒、咳嗽、呼吸急促或呼吸困难、胸痛等，可能導致敗血症，危及生命。
+
+## 肺炎鏈球菌
+
+最常見造成肺炎的細菌，
+
+也可能造成中耳炎、鼻竇炎、支氣管炎、腦膜炎等。
+
+主要傳染方式：帶菌者咳嗽或打噴嚏之飛沫傳染、觸摸過被細菌汙染之物品。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_321_663_498_860.jpg" alt="Image" width="10%" /></div>
+
+
+肝.腎.心.肺等慢性病
+
+## 肺炎鏈球菌疫苗種類
+
+## 13 價
+
+結合型疫苗 PCV13 原自費
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_62_664_289_854.jpg" alt="Image" width="13%" /></div>
+
+
+2023 65歲↑符合條件公費
+
+保護效期較長
+
+兩劑需間隔一年
+
+ $ ^{*} $ 實際補助狀況，以當下政府最新政策為準
+
+23價
+
+多醣體疫苗 PPV23
+
+原
+
+71歲↑公費
+
+
+
+2023
+
+65歳 ↑ 公費
+
+
+
+保護效期約 5年
+
+## 建議施打之高危險族群
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_694_661_876_861.jpg" alt="Image" width="10%" /></div>
+
+
+糖尿病
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_909_663_1082_855.jpg" alt="Image" width="10%" /></div>
+
+
+腦血管疾病.失智症
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1257_668_1432_861.jpg" alt="Image" width="10%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1465_663_1652_851.jpg" alt="Image" width="11%" /></div>
+
+
+吸菸者

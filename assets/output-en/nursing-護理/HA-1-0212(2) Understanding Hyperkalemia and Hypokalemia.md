@@ -1,0 +1,47 @@
+## 認識高血鉀及低血鉀
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td style='text-align: center;'>高血鉀</td><td style='text-align: center;'>低血鉀</td></tr><tr><td style='text-align: center;'>定義</td><td style='text-align: center;'>血液中鉀離子濃度大於5.5meq/L，就稱為高血鉀</td><td style='text-align: center;'>血液中鉀離子濃度小於3.5meq/L，就稱為低血鉀</td></tr><tr><td style='text-align: center;'>原因</td><td style='text-align: center;'>(一)攝取過多高鉀食物
+(二)經常性便秘
+(三)透析量不足
+(四)組織破壞:肌肉損傷、燒燙傷等
+(五)溶血
+(六)腸胃道出血
+(七)藥物:中草藥、保鉀利尿劑、某些降血壓藥等</td><td style='text-align: center;'>(一)鉀攝取不足:
+1. 蔬菜及水果攝取太少
+2. 仍維持蔬菜氽燙的烹調方式
+3. 食慾差，進食量少
+(二)嚴重腹瀉，造成鉀從腸胃道流失太多</td></tr><tr><td style='text-align: center;'>症狀</td><td style='text-align: center;'>(一)心臟方面:血壓降低、心律不整、心電圖改變、心室纖維顫動、心跳停止
+(二)肌肉方面:初期有肌肉震顫、抽筋、感覺異常等，嚴重時有肌肉無力、麻痹等
+(三)消化系統:噁心、嘔吐、腸蠕動增加、腹瀉、腸絞痛等</td><td style='text-align: center;'>(一)心臟方面:容易出現心律不整
+(二)肌肉方面:肌肉無力、肌肉麻痺等
+(三)消化系統:腸蠕動變慢，容易便秘</td></tr><tr><td style='text-align: center;'>處理</td><td style='text-align: center;'>(一)控制高鉀的飲食:
+1. 避免飲用可可粉、濃茶、三合一咖啡、果汁、中草藥汁、精力湯
+2. 避免雞精、牛肉湯、魚湯、排骨湯、火鍋湯、勾芡羹類等湯品
+3. 勿使用低鈉鹽或薄鹽醬油，因為是利用鉀取代鈉，容易鉀離子偏高
+4. 避免攝取鉀離子含量較高的水果，例如：草莓、番茄、哈密瓜、木瓜、水蜜桃、奇異果等；各種水果乾及蜜餞也是含非常高鉀的零食
+5. 青菜烹調前需先以滾水氽燙3至5分鐘，將菜撈起後，再做料理</td><td style='text-align: center;'>(一)多攝取含鉀量較高的食物，盡量以蔬菜及水果為主
+(二)蔬菜烹調以炒熟為主，不須額外搶燙
+(三)如有腸胃道不適症狀，例如嚴重嘔吐或腹瀉時，應立即就醫
+(四)依照醫師指示使用口服補鉀藥物</td></tr></table><table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'></td><td style='text-align: center;'>(二)每天需常規及足量透析
+(三)每天正常排便
+(四)依醫囑調整透析處方（考慮自動腹膜透析或手動多次換液）
+(五)依照醫師指示，使用降鉀藥物</td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>注意
+事項</td><td style='text-align: center;'>若有疑似高血鉀的症状，屬於緊急狀況，應立即就醫</td><td style='text-align: center;'>長期鉀離子偏低及便秘，容易造成腸道通透性改變而導致腹膜炎</td></tr></table>
+
+## 參考資料：
+
+吳紅蓮(2016)·血液透析病人控制血鉀的重要性-飲食策略·腎臟與透析，28(4)，155-159。DOI：10.6340/KD.2016.28(4).01
+
+衛生福利部食品藥物管理署(2019)·食品營養成分資料庫(新版)·2019年4月27日取自https://consumer.fda.gov.tw/Food/TFND.aspx?nodeID=178
+
+黃尚志(2021): 腹膜透析治療，台灣腎臟醫學會出版，P45–P47。
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院
+地址:高雄市燕巢區角宿里義大路1號
+電話:07-6150952</td><td style='text-align: center;'>義大癌治療醫院
+地址:高雄市燕巢區角宿里義大路21號
+電話:07-6150022</td><td style='text-align: center;'>義大大昌醫院
+地址:高雄市三民區大昌一路305號
+電話:07-6150208</td></tr></table>

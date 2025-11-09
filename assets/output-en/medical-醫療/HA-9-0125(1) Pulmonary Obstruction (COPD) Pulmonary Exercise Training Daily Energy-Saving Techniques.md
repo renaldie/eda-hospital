@@ -1,0 +1,182 @@
+# 肺阻塞（COPD）肺部運動訓練
+
+日常節能技巧
+
+## 什麼是肺阻塞？
+
+呼吸道慢性发炎，不可逆的阻塞性疾病
+
+台灣十大死因第八位
+
+## 🧠 症状：咳
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_262_529_708_656.jpg" alt="Image" width="26%" /></div>
+
+
+痰
+
+## 危險因子：
+
+吸菸或二手菸
+
+環境有害物質
+
+或職業接觸
+
+家族史
+
+或其他肺部狀況
+
+
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_117_788_256_922.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_327_794_456_926.jpg" alt="Image" width="7%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_544_792_674_920.jpg" alt="Image" width="7%" /></div>
+
+
+義大醫療財團法人 21X29.7cm 2024.08印製
+
+## 節能技巧重要性
+
+1. 節能技巧(又稱工作簡化技巧)，透過有效使用身體及安排順序操作，讓病人節省精力、保持行動獨立，並減少疾病所帶來的不適。
+
+2. 適當運用節能技巧能幫助呼吸困難、運動會喘的病人，更輕鬆的完成日常生活活動，搭配呼吸訓練可降低進行活動時所需的能量消耗。
+
+## 參考資料來源
+
+1. 台灣胸腔豎重症加護醫學會(2022)·2022台灣肺復原實務指引·台北市：台灣胸腔豎重症加護醫學會
+
+2.1.台灣胸腔豎重症加護醫學會(2022)•2022奔跑吧!小肺!-肺阻塞的肺部復健衛教手冊
+
+3. 台灣胸腔豎重症加護醫學會(2017)·肺阻塞知多少-台灣肺阻塞全方位照護手冊
+
+## 聯絡資訊
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>義大醫院</td><td style='text-align: center;'>義大癌治療醫院</td><td style='text-align: center;'>義大大昌醫院</td></tr><tr><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路1號</td><td style='text-align: center;'>地址:高雄市燕巢區角宿里義大路21號</td><td style='text-align: center;'>地址:高雄市三民區大昌一路305號</td></tr><tr><td style='text-align: center;'>電話:07-6150011 轉 5072 肺阻塞個管師</td><td style='text-align: center;'>電話:07-6150022 轉 6477 肺阻塞個管師</td><td style='text-align: center;'>電話:07-5599123 呼吸胸腔科門診</td></tr></table>## 穿著
+
+集中衣物
+
+方便拿取
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_9_216_264_438.jpg" alt="Image" width="15%" /></div>
+
+
+減少鈕扣類衣物
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_339_222_495_421.jpg" alt="Image" width="9%" /></div>
+
+
+坐著穿衣
+
+避免彎腰
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_606_222_726_433.jpg" alt="Image" width="7%" /></div>
+
+
+## 煮食與飲食
+
+集中用具及食材
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_21_683_319_886.jpg" alt="Image" width="17%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1_927_68_1036.jpg" alt="Image" width="3%" /></div>
+
+
+少量多餐
+
+避免吃太飽
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_339_692_547_876.jpg" alt="Image" width="12%" /></div>
+
+
+細嚼慢嚥避免嗆咳
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_593_681_764_873.jpg" alt="Image" width="10%" /></div>
+
+
+小撇步
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_16_1048_144_1190.jpg" alt="Image" width="7%" /></div>
+
+
+待處理事項
+
+安排優先順序
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_354_1011_522_1190.jpg" alt="Image" width="9%" /></div>
+
+
+每週工作
+
+預先計畫分配
+
+避免單日超負荷
+
+## 活動與購物
+
+善用各項輔具
+
+走路愜意又安全
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_859_243_995_425.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_998_251_1133_434.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1131_209_1268_439.jpg" alt="Image" width="8%" /></div>
+
+
+善用有輪拖車
+
+購物採買不費力
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1271_246_1363_443.jpg" alt="Image" width="5%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1393_220_1602_440.jpg" alt="Image" width="12%" /></div>
+
+
+## 穿鞋與洗澡
+
+坐著穿鞋或使用鞋拔輔助
+
+避免彎腰
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_922_691_1093_913.jpg" alt="Image" width="10%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1143_609_1241_939.jpg" alt="Image" width="5%" /></div>
+
+
+使用長柄刷輔助避免彎腰
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1365_677_1504_925.jpg" alt="Image" width="8%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_759_995_945_1188.jpg" alt="Image" width="11%" /></div>
+
+
+步調放慢
+
+不著急
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1109_985_1261_1175.jpg" alt="Image" width="9%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1266_976_1412_1172.jpg" alt="Image" width="8%" /></div>
+
+
+避免彎腰
+
+避免長時間久站
+
+善用工具輔助

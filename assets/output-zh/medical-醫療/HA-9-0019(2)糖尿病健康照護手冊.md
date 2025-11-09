@@ -1,0 +1,163 @@
+# 糖尿病健康 照護手冊
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_968_460_1356_689.jpg" alt="Image" width="26%" /></div><table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td></tr><tr><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td></tr><tr><td style='text-align: center;'>下</td><td style='text-align: center;'>下</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>
+
+## 問診時間：
+
+## 主总器照
+
+http://edng.edang.org.tw/
+
+網路掛號：義大醫療財團法人
+
+人工預約電話排號：07（6150911）
+
+義大大昌醫院(07)559123轉7354
+
+義大癌治療醫院(07)6150022轉6404
+
+義大醫院(07)6150011轉5959
+
+諮詢電話：
+
+畢
+
+住址
+
+出生 年自 日
+
+姓名：___## 高血糖症狀、處理
+
+症狀：
+
+1.多吃、多喝、多尿、體重減輕、傷口不易癒合。
+
+2.酮酸中毒時可能有噁心、嘔吐、腹痛。
+
+3.嚴重時可能會神智不清或休克。
+
+
+
+處理：
+
+門診或急診就醫。
+
+## 低血糖症状、處理
+
+症狀：
+
+1. 飢餓、手抖、冒冷汗、昏眩。
+
+
+
+2. 虚弱無力。
+
+3. 心悸。
+
+
+
+4. 神智不清。
+
+處理：
+
+喝120-150ml含糖飲料(約一般紙杯半杯)、或吃3-5顆方糖、或一湯匙蜂蜜，若服用後15分鐘症狀未改善，則再重複給予1次；若還是未改善症狀，請立即就醫。
+
+## 足部照護
+
+1. 每日用温水及肥皂洗涤。
+
+2. 擦乾雙腳及趾縫。
+
+3. 趾甲平剪，不要太短、粗邊要銼平滑。
+
+4. 檢查是否有水泡、紅腫、傷口。
+
+5. 穿著平底、舒適的包鞋。
+
+6. 不可赤腳避免受傷。
+
+7. 穿著清潔、柔軟的白色襪子，不可太緊或太鬆。
+
+8. 可用乳液保持皮膚滋潤。
+
+9. 避免使用熱水袋、暖爐等暖腳。
+
+10. 避免赤脚走公園内的健康步道。
+
+## 飲食原則
+
+1. 切忌肥胖，維持標準體重。
+
+2. 每餐定时定量。
+
+3. 少吃油炸、油煎或油酥及猪皮、雞皮、鴨皮、魚皮等食物。含脂肪熱量較高堅果類（如花生、瓜子、腰果、松子、核桃）應儘量少吃。4. 炒菜宜用植物油，忌用動物油，宜多採清蒸、水煮、涼拌、燒烤、燉，滷等烹調方式。
+
+5. 中老年人飲食不可太鹹，並應少吃含膽固醇高之食物，如內臟、蟹黃、蝦卵、魚卵等。患者膽固醇若過高，則蛋黃每週不超過2–3個為原則。
+
+6.多選用高纖維食物，可延緩血糖上升。
+
+7. 含澱粉質高的食物，如地瓜、馬鈴薯、芋頭、玉米、菱角、栗子、紅豆、綠豆、蠶豆、南瓜、燒膏、壽司、蘿蔔糕、咖哩餃，不可任意食用。
+
+8. 糖果、煉乳、蜂蜜、汽水罐裝或盒裝果汁、蜜餞、蛋捲、冬粉、太白粉、粉條、粉圓及西米露，應儘量不吃。
+
+9. 避免喝酒。
+
+10. 稀飯、泡麵應儘量少吃。
+
+11. 避免吃加糖食物，嗜甜食者可選用甜味劑(代糖)來調味。
+
+12. 儘量減少赴宴，必要時慎選食物的種類代換與份量。
+
+## 血糖自我監測
+
+由於糖尿病病人血糖會隨身體狀況、進食的情形及藥物吸收劑量而改變，許多病人僅靠門診檢測血糖並不夠，還必須搭配血糖機在家自我檢測紀錄，以利血糖控制及低血糖預防。
+
+血糖機雖然能及時提供血糖數值，但容易受到試紙保存，操作技術影響，故定期比對及校正血糖機是需要的。
+
+## 糖化血色素(HbA1C)
+
+為血中紅血球的「血紅素」與「葡萄糖」結合，紅血球於體內約生存120天，因此可反應抽血前三個月血糖濃度，越高代表血糖控制不佳，是糖尿病控制良好與否重要指標。
+
+## 參考資料：
+
+社團法人中華民國糖尿病衛教學會2024糖尿病衛教核心教材## 檢驗報告
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>項目/檢驗日期</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>體重</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>空腹血糖(80-130)mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>飯後血糖&lt;180mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>糖化血色素&lt;7%</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>總膽固醇&lt;160mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>三酸甘油脂&lt;150mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>低密度脂蛋白膽固醇&lt;100mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>高密度脂蛋白膽固醇男&gt;40mg/dl 女&gt;50mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>肌酸酐</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>腎絲球過濾率</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>白蛋白尿&lt;30mg/g 或尿蛋白(-)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>肝功能(GPT)</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>尿酸&lt;7mg/dl</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>眼底检查</td><td style='text-align: center;'>足部神经检查</td><td style='text-align: center;'>足部温度检查</td><td style='text-align: center;'>臂腕分期</td></tr><tr><td style='text-align: center;'><img src="imgs/img_in_image_box_1327_46_1409_186.jpg" ></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'><img src="imgs/img_in_image_box_1323_520_1388_638.jpg" ></td></tr><tr><td style='text-align: center;'>日期：视力：左 右 视网膜状癌：左：□正常□异常 右：□正常□异常 偏註：右：□正常□异常 偏註：</td><td style='text-align: center;'>日期：左：□正常□异常 右：□正常□异常</td><td style='text-align: center;'>日期：左：□正常□异常 右：□正常□异常</td><td style='text-align: center;'>日期：□正常□异常 偏註：</td></tr><tr><td style='text-align: center;'>日期：视力：左 右 视网膜状癌：左：□正常□异常 偏註：右：□正常□异常 偏註：</td><td style='text-align: center;'>日期：左：□正常□异常 右：□正常□异常</td><td style='text-align: center;'>日期：左：□正常□异常 右：□正常□异常</td><td style='text-align: center;'>日期：□正常□异常 偏註：</td></tr></table><table border=1 style='margin: auto; width: max-content;'><tr><td rowspan="2">年 月/日</td><td colspan="2">早餐</td><td colspan="2">午餐</td><td colspan="2">晚餐</td></tr><tr><td style='text-align: center;'>前</td><td style='text-align: center;'>後2小時</td><td style='text-align: center;'>前</td><td style='text-align: center;'>後2小時</td><td style='text-align: center;'>前</td><td style='text-align: center;'>後2小時</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>眼底檢查</td><td style='text-align: center;'>足部神經檢查</td><td style='text-align: center;'>足部溫度檢查</td><td style='text-align: center;'>腎臟分期</td></tr><tr><td style='text-align: center;'><img src="imgs/img_in_image_box_31_601_179_682.jpg" ></td><td style='text-align: center;'></td><td style='text-align: center;'><img src="imgs/img_in_image_box_340_599_479_689.jpg" ></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'>日期：視力：左 右視網膜狀態：左：□正常□異常備註：右：□正常□異常備註：日期：視力：左 右視網膜狀態：左：□正常□異常</td><td style='text-align: center;'></td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;"><img src="imgs/img_in_image_box_970_159_1120_260.jpg" alt="Image" width="10%" /></div>
+
+
+## 義大醫院
+
+地址：高雄市燕巢區義大路1號電話：07-6150011
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_970_284_1122_383.jpg" alt="Image" width="10%" /></div>
+
+
+## 義大癌治療醫院
+
+地址：高雄市燕巢區義大路21號
+
+電話：07-6150022
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_973_426_1118_528.jpg" alt="Image" width="9%" /></div>
+
+
+## 義大大昌醫院
+
+地址：高雄市三民區大昌一路305號電話：07-5599123
+
+
+
+本著作權非經著作权人同意不得轉載、翻印或轉售
+
+著作權人：義大醫療財團法人
+
+義大醫療財團法人 2024.11 印製 2024.08 修訂 HA-9-0019(2)

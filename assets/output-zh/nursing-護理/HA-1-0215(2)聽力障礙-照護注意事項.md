@@ -1,0 +1,92 @@
+## 聽力障礙-照護注意事項
+
+## ➢聽力喪失之分類：
+
+1. 感覺神經性聽力喪失：原因發生在內耳、聽神經，如：高分貝噪音、職業災害、耳毒性藥物、內耳病毒感染、內耳淋巴水腫、老年性重聽等。
+
+2. 傳導性聽力喪失：原因發生在外耳、中耳，如：耳垢堵塞、耳道異物或腫瘤、中耳膿瘍或積水等問題。
+
+3. 混合型聽力喪失：合併感覺神經性及傳導性聽力喪失。
+
+## 不可忽视的原因：
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_471_679_643_858.jpg" alt="Image" width="14%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_680_682_872_854.jpg" alt="Image" width="16%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_901_678_1103_863.jpg" alt="Image" width="16%" /></div>
+
+
+1. 對日常生活不便利，以及安全上顧慮，如：聽不見電話鈴聲、喇叭聲、警鈴聲等。
+
+2. 無法有效溝通、不想外出、不想與人交談、社交退縮。
+
+3. 心情憂鬱、容易猜忌妄想、情緒起伏大。
+
+4. 缺乏足夠的聽覺刺激，導致記憶力衰退、理解力變差、增加罹患失智症的風險。
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_360_1247_850_1525.jpg" alt="Image" width="41%" /></div>
+
+
+蛤？## ➢聽力損失的處理與照護：
+
+1. 首先到耳鼻喉科门诊，找出病因，做进一步治療。
+
+2. 進行聽力檢查與評估，配戴合適的助聽器，將有助提升生活品質。
+
+（依據不同受損程度、生活型態，提供各式助聽器做選擇，如：耳掛型、耳內型、口袋型等）
+
+3. 避免長時間接觸噪音、減少長時間使用耳機。
+
+
+
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_975_2_1162_233.jpg" alt="Image" width="15%" /></div>
+
+
+4. 對談採面對面交談、勿大聲喊叫、以較低音調、放慢且清楚的方式說話。
+
+5. 勿亂掏耳朵，耳垢具有保護作用，可避免耳朵感染。若有耳垢拴塞，則可請耳鼻喉科醫師協助清理耳垢。
+
+## 聽力異常時，應儘早就醫檢查，把握矯正聽力受損的機會。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_51_738_371_974.jpg" alt="Image" width="26%" /></div>
+
+
+聽力輔助器(聲音放大功能)
+
+聽力檢查
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_838_738_1190_983.jpg" alt="Image" width="29%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_41_1030_366_1273.jpg" alt="Image" width="27%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_417_874_805_1173.jpg" alt="Image" width="32%" /></div>
+
+
+客製化-數位助聽器
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_830_1042_1104_1275.jpg" alt="Image" width="22%" /></div>
+
+
+➢参考文献：
+
+羅意琪、葉蕙妮、郭姿吟（2021）·台灣年長者聽力損失盛行率及相關分析·台灣老年醫學暨老年學會雜誌，16（2），118-129。
+
+張東仁、裴駿（2018）·高齡者因生理感官退化對其自尊影響之關鍵因素分析·福祉科技與服務管理學刊，6（4），339-352。
+
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="3">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院地址:高雄市燕巢區角宿里義大路1號電話:07-6150011 分機:</td><td style='text-align: center;'>義大癌治療醫院地址:高雄市燕巢區角宿里義大路21號電話:07-6150022 分機:</td><td style='text-align: center;'>義大大昌醫院地址:高雄市三民區大昌一路305號電話:07-5599123 分機:</td></tr></table>
+
+義大醫療財團法人 21×29.7cm 2024.08印製
+
+2024.05修訂 HA-1-0215(2)

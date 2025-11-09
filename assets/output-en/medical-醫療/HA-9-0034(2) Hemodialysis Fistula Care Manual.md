@@ -1,0 +1,271 @@
+# 洗腎癭管照護手冊 (血液透析、心導管室 PTA、心臟外科治療 聯合記錄本)
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_466_750_927.jpg" alt="Image" width="85%" /></div>
+
+
+姓 名：___
+
+病壓號碼：___
+
+手冊請妥善保管，遺失恕不補發。洗腎醫院：
+
+該院腎臟內科醫師：
+
+聯絡電話：()
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_37_422_73_456.jpg" alt="Image" width="4%" /></div>
+
+
+病患基本聯絡資料
+
+聯絡電話：()
+
+住址：___
+
+(由該醫院填寫)## ☑ 聯絡方式
+
+若洗腎癭管有阻塞或流速不順及靜脈壓升高情形
+
+時請盡速聯絡以下單位
+
+※義大醫院心臟內科-介入性功能科
+
+電話:(07) 615-0011 分機 5029
+
+※義大醫院心臟外科
+
+電話:(07) 615-0011 分機 9 轉 心臟外科主治醫師
+
+ $ ^{※} $  大昌醫院心臟內科-心導管室
+
+電話:(07) 559-9123 分機 7509## ☑ 手冊功能
+
+1. 有效建立洗腎過程記載流程化以利各科室之間之有效溝通。
+
+2. 建立各手術治療流程標準化作業。
+
+3. 協助洗腎病患了解自身狀況以掌握病情。
+
+4. 增進醫病關係之良好，改善醫療品質。
+
+## ☑ 使用時機
+
+1. 開始洗腎時由洗腎室發給。
+
+2. 接受洗腎癭管各相關手術時，攜至該單位以利執行相關作業。
+
+3. 由執行手術之相關科室詳細記載相關手術過程（含圖示）以利查詢。
+
+4. 洗腎時請病患交由洗腎室保管紀錄數值，移至他處洗腎時交付病人攜帶至新的洗腎診所繼續使用。## ☑ 獲管注意事項
+
+1. 洗腎癭管穿刺區域應隨時保持清潔，避免感染。
+
+2. 執行癭管擴張術(PTA)後，止血加壓會持續2小時，並建議同時間留置於本院觀察，殆癭管止血情形改善後始得離開。
+
+3. 洗腎後癭管應適當加以止血，應盡量避免長時間以加壓帶壓迫止血。
+
+4. 洗腎時建議應輪流更換穿刺位置，以延長癭管使用壽命。
+
+5. 避免在血管瘤或硬块及瘀血处穿刺。
+
+6. 遵照醫囑積極做握球運動，以擴張手臂之癭管。
+
+7. 避免側睡，以防止對癭管產生長期性之壓迫。## ●有以下之情形時請儘速至醫院就診或聯絡洗腎室
+
+1. 洗腎時靜脈壓不正常升高，表示癭管有狹窄情形。
+
+2. 洗腎癭管手臂若有腫脹情形，應懷疑有中央靜脈阻塞或狹窄。
+
+3. 洗腎癭管手臂若有發紅或有分泌物，應懷疑有感染情形。
+
+4. 手部感到冰冷、麻木、酸痛时。
+
+5. 皮膚有傷口有出血危險時。
+
+6. 血管瘤形成过大或不正常之澎大。
+
+7. 洗腎癭管摸不到脈動或聽不到聲音時，應懷疑是癭管阻塞。
+
+8. 洗腎癭管的聲音異常時應懷疑癭管有即將阻塞之危險
+
+參考來源:台灣腎臟醫學會-血液透析臨床診療指引
+
+https://www.tsn.org.tw/archive/20210901/564cda62-620a-4907-8304-301ca0f3171d/564cda62-620a-4907-8304-301ca0f3171d.pdf<table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>项目</th><th style='text-align: center;'>内容</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>日期</td><td style='text-align: center;'>/</td></tr>
+    <tr><td style='text-align: center;'>状态</td><td style='text-align: center;'>✗</td></tr>
+    <tr><td style='text-align: center;'>操作</td><td style='text-align: center;'>洗 肾 痿 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>项目名称</td><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>项目</th><th style='text-align: center;'>内容</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>日期</td><td style='text-align: center;'>/</td></tr>
+    <tr><td style='text-align: center;'>状态</td><td style='text-align: center;'>洗 肾 痿 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>项目名称</td><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table><table border=1 style='margin: auto; width: max-content;'>
+  <thead><tr><th style='text-align: center;'>日期： / /</th></tr></thead>
+  <tbody>
+    <tr><td style='text-align: center;'>※洗 腎 癢 管 手 術 位 置 圖 示</td></tr>
+    <tr><td style='text-align: center;'>Operator:</td></tr>
+  </tbody>
+</table>___
+
+洗腎室追蹤紀錄表
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table>洗腎室追蹤紀錄單
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;">洗腎室追蹤紀錄單</div>
+
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td style='text-align: center;'>備註</td><td style='text-align: center;'>年 月 日</td><td style='text-align: center;'>動脈流速</td><td style='text-align: center;'>靜脈壓力</td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr><tr><td style='text-align: center;'></td><td style='text-align: center;'>/ /</td><td style='text-align: center;'></td><td style='text-align: center;'></td></tr></table><div style="text-align: center;"><img src="imgs/img_in_image_box_282_191_590_489.jpg" alt="Image" width="35%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_265_502_602_568.jpg" alt="Image" width="38%" /></div>
+
+
+義大醫院
+
+地址: 高雄市燕巢區角宿里義大路1號
+
+電話: 07-6150011
+
+
+
+義大癌治療醫院
+
+地址: 高雄市燕巢區角宿里義大路21號
+
+電話: 07-6150022
+
+
+
+義大大昌醫院
+
+地址: 高雄市三民區大昌一路305號
+
+電話: 07-5599123
+
+
+
+本著作權人非經著作權人同意不得轉翻印或轉售
+
+著作權人:義大醫療財團法人
+
+2024.07印製 2024.06修訂 HA-9-0034(2)
