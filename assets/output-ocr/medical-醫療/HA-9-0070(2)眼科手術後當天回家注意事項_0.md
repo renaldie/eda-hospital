@@ -1,0 +1,39 @@
+# 眼科手術後當天回家注意事項
+
+## 一、 定義
+
+眼科手術後當天即可回家，為了保護手術後的眼睛及預防感染，您需要遵照以下的照護方式。
+
+## 二、 適用對象
+
+接受眼科手術的病人
+
+## 三、 照護方式（如以下勾選）
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_2_559_273_831.jpg" alt="Image" width="22%" /></div>
+
+
+☐手術當天不要將紗布拆開，也不用點藥。
+
+☐當天領到的眼藥包括眼藥水、藥膏，請不要拆封，在隔天回診時請全部帶來，會教導您如何點藥。
+
+☐領到的口服藥，請依照藥袋上的指示開始服用。
+
+## 四、 注意事项
+
+1.非手術的眼睛如有刺痛情況，可能為手術中消毒藥水跑進眼內的關係，可使用之前門診領用的眼藥水、藥膏，降低不適感。
+
+2. 手術後回家盡量避免太用力咳嗽、提重物，其他日常生活及飲食無特別限制。
+
+3. 回家之後若有嚴重嘔吐、疼痛難耐情形，請撥打眼科電話。
+
+4. 手術後會幫您掛號（手術隔天回診），請帶著健保卡與領到的藥水、藥膏於 ___ 年 ___ 月 ___ 日，星期 ___，___ 午 ___ 點 ___ 分至眼科門診回診。
+
+## 参考资料：
+
+1.高雄榮民總醫院單位資料網。眼科手術注意事項。線上網址：http://org.vghks.gow.tw
+
+2. 臺安醫院眼科。眼部手術護理指導。線上網址：http://www.tahsda.org.tw
+
+
+<table border=1 style='margin: auto; width: max-content;'><tr><td colspan="6">聯絡資訊</td></tr><tr><td style='text-align: center;'>義大醫院</td><td style='text-align: center;'>眼科門診</td><td style='text-align: center;'>地址：高雄市燕巢區角宿里義大路1號</td><td style='text-align: center;'>電話：07-6150011</td><td style='text-align: center;'>分機5888</td><td style='text-align: center;'></td></tr></table>
