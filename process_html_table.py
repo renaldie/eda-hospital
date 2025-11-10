@@ -1,3 +1,4 @@
+import json
 import os
 from langchain_ollama import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
@@ -87,7 +88,15 @@ def main(input_dir: str, output_dir: str):
                 with open(filepath, "r", encoding="utf-8") as f:
                     content = f.read()
 
+                    if len(content) > 32_768:
+                        with open("log.json", "a", encoding="utf-8") as log_file:
+                            json.dump({"filename": filename, "dir": folder, "length": len(content)}, log_file)
+                            log_file.write("\n")  # Add newline for proper JSON lines format
+                        print(f'Skipping {filename} due to length {len(content)}')
+                        continue
+
                     if content.count("<table") >= 1:
+                        print(f'Formatting HTML Table in: {filename} with length {len(content)}')
                         formatted_content = html_table_formatter(content)
 
                         output_folder = os.path.join(output_dir, folder)
@@ -96,8 +105,6 @@ def main(input_dir: str, output_dir: str):
                         
                         with open(output_filepath, "w", encoding="utf-8") as f:
                             f.write(formatted_content)
-                        
-                        print(f"Processed: {filename}")
                     else:
                         pass
 
