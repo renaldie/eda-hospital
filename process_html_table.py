@@ -19,7 +19,7 @@ def html_table_formatter(text: str) -> str:
     resp = LLM.invoke(input=[system, human])
     return resp.content
 
-def main(input_dir: str):
+def main(input_dir: str, output_dir: str):
     for folder in os.listdir(f"{input_dir}"):
         for filename in os.listdir(f"{input_dir}/{folder}"):
             if filename.endswith(".md"):
@@ -29,8 +29,12 @@ def main(input_dir: str):
                     content = f.read()
                 
                 formatted_content = html_table_formatter(content)
+
+                output_folder = os.path.join(output_dir, folder)
+                os.makedirs(output_folder, exist_ok=True)
+                output_filepath = os.path.join(output_folder, filename)
                 
-                with open(filepath, "w", encoding="utf-8") as f:
+                with open(output_filepath, "w", encoding="utf-8") as f:
                     f.write(formatted_content)
                 
                 print(f"Processed: {filename}")
@@ -44,8 +48,14 @@ if __name__ == "__main__":
         required=True,
         help="The input directory to be processed"
     )
+    parser.add_argument(
+        "--output_dir",
+        required=True,
+        help="The output directory for processed files"
+    )
     args = parser.parse_args()
     
     main(
         input_dir=args.input_dir,
+        output_dir=args.output_dir,
     )
