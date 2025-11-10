@@ -1,0 +1,91 @@
+## Six. Family Planning
+
+1. After childbirth, sexual activity can be resumed after 4 weeks if there is no physical discomfort and the doctor has confirmed it, but contraception must be used. Contraceptive methods can be discussed with the doctor during the follow-up visit.
+
+2. Women who are breastfeeding should avoid using oral contraceptives.
+
+Seven. After childbirth, please bring both parties' identification documents to the nursing station in the postpartum ward from 08:00 to 17:00 on working days to apply for the birth certificate.
+
+References
+
+Li Congye, Chen Xinfu, Feng Rongzhuang, Zhang Hongjiang, Wang Zifang, Fang Yuwen, Jiang Xiaojing, Wang Yao Hua, Pan Wanlin, Huang Guoyi, Chen Shuwen, Zeng Yingfen, Jiang Zhixiu, Ke Shuhua, Pan Yiru (2021). Practical Obstetric Nursing (9th Edition). Hua Xing.
+
+Ministry of Health and Welfare, National Health Agency (2018). Breastfeeding Handbook.
+
+https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1586
+
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022
+
+Yi Da Dachang Hospital
+
+Address: No. 305, Dachang Road, Simei District, Kaohsiung City  
+Phone: 07-5599123
+
+Yi Da Medical Foundation
+
+19.8×21cm Revised in November 2024 HA-1-0169(2)
+
+## Precautions for Cesarean Section
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_620_414_1099_876.jpg" alt="Image" width="40%" /></div>## C-section
+
+## I. Preoperative Preparations
+
+1. On the day of admission, complete the surgical and anesthesia consent forms at the inpatient service desk, and undergo blood tests, ECG, and pre-anesthesia evaluation.
+
+2. Fast for at least 8 hours before surgery, including no drinking of water.
+
+3. Between 5–6 a.m. on the day of surgery, the nurse will perform enema and start intravenous infusion.
+
+4. Remove all personal items from the body: removable dentures and jewelry, and remove nail polish.
+
+5. Skin shaving will be performed upon entering the operating room.
+
+6. Wear disposable underpants on the day of surgery, and prepare two pads and a abdominal binder.
+
+## II. Postpartum Care
+
+1. After a cesarean section, you may experience numbness in the lower limbs, skin itching, vomiting, or pain. Please inform medical or nursing staff if any of these symptoms occur.
+
+## III. Dietary Guidance
+
+1. After surgery, food can be introduced starting at 8–12 hours post-operation. Eat small meals frequently, starting with water and rice porridge, then progressing to porridge or dry rice.
+
+2. Increase intake of vegetables and fruits to promote smooth bowel movements; drink at least 2000 cc of fluids daily.
+
+3. Avoid alcohol, sesame oil, and traditional Chinese medicine for one week after delivery to prevent excessive bleeding and to promote wound healing.
+
+4. Avoid consuming ginseng, leek, and raw malt, as these may affect milk production.
+
+Yi Da Medical Foundation  
+19.8×21 cm Revised in November 2024 HA-1-0169(2)
+
+5. If you need to use traditional Chinese medicine, please consult your attending physician or traditional Chinese medicine practitioner.
+
+## IV. Postoperative Recovery
+
+1. Monitor the amount of lochia after cesarean delivery. If the sanitary pad becomes completely soaked within one hour or if there is a large amount of clots, inform medical or nursing staff immediately.
+
+2. Lochia color will change from bright red to brown and then to yellowish-white, with decreasing volume, possibly lasting up to 4–6 weeks. If bright red discharge, clots, or an odor reappear, seek medical attention immediately.
+
+3. After each bowel movement, wash the external genital area with warm water from front to back. Change the sanitary pad every 2–3 hours to maintain cleanliness.
+
+4. When getting up after delivery, change positions slowly and gradually. When using the toilet, have a family member accompany and support you to avoid falls.
+
+5. The urinary catheter will be in place for 24 hours. After catheter removal, urinate independently within 4–6 hours. If you experience difficulty in urinating, abdominal bloating, or urine that is not fully expelled, inform medical or nursing staff immediately.
+
+## V. Wound Care
+
+1. After 7–10 days when the wound surface has healed, you may bathe according to the doctor’s instructions. If using a self-paid waterproof dressing (as per doctor’s instructions), it can be changed accordingly. Otherwise, you may take a shower.
+
+2. Monitor the wound for signs of infection such as redness, swelling, heat, or pain. If any of these symptoms occur, seek medical attention immediately.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_617_1077_1084_1163.jpg" alt="Image" width="39%" /></div>

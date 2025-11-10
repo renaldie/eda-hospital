@@ -1,0 +1,38 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_71_101_539_524.jpg" alt="Image" width="39%" /></div>
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: 07-6150011  
+Website: edah@edah.org.tw  
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.  
+Copyright Holder: Edah Medical Foundation  
+Form Number: HA-1-0057(2)  
+Edah Medical Foundation, 20x20 cm, printed in May 2016, revised in May 2014  
+
+## Edema  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_674_341_1129_753.jpg" alt="Image" width="38%" /></div>## Edema
+
+## I. Introduction:
+
+Excess fluid accumulation in the interstitial spaces causing tissue swelling is called edema. Edema is not a standalone disease but rather a clinical manifestation of various diseases. It requires professional medical judgment for diagnosis.
+
+## II. Causes of Edema:
+
+1. **Congenital edema**: Most cases do not require treatment. Physicians usually provide lifestyle recommendations, such as wearing compression stockings, eating a light diet (since excessive salt intake causes water retention in the body), and elevating the legs when sleeping. In some women, edema occurs due to menstruation and resolves after the period ends.
+
+2. **Liver cirrhosis**: Patients with edema due to liver cirrhosis often have a history of chronic liver disease or long-term alcohol consumption. The appearance of jaundice is common. The occurrence of edema indicates that liver function has been severely compromised.
+
+3. **Heart failure**: Patients with heart failure are also prone to edema. These patients often experience shortness of breath and respiratory difficulty when walking or climbing stairs, and may be unable to reach the second floor without stopping to rest.
+
+4. **Kidney disease**: Edema caused by kidney disease is often accompanied by foamy urine. This is primarily due to large amounts of protein being excreted in the urine.
+
+5. **Medications**: Medication-induced edema is commonly seen with vasodilators, oral hypoglycemic agents, anti-inflammatory and analgesic drugs, or estrogen. Stopping the medication and providing appropriate supportive therapy usually leads to gradual improvement.
+
+6. **Thyroid dysfunction**: Hypothyroidism can lead to mucoid edema.
+
+7. **Obstruction of local blood vessels or lymphatic vessels**: In such cases, edema often occurs unilaterally in the lower limbs.
+
+Clinical observations show that edema is related to individual constitution. In some cases, no treatment is required. For caution, it is recommended to undergo a simple screening for heart, liver, kidney, and thyroid function to enable early detection, early treatment, or long-term monitoring. Remember: do not seek unnecessary medical consultations or overuse diuretics simply because the cause is unknown (diagnosed as constitutional edema), as this may be wasteful and harmful to your health.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_760_639_1059_958.jpg" alt="Image" width="25%" /></div>

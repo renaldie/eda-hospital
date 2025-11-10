@@ -1,0 +1,48 @@
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Juxu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Juxu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022
+
+Yi Da Da Chang Hospital
+
+Address: No. 305, Da Chang Road, Sancheng District, Kaohsiung City  
+Phone: 07-5599123
+
+This copyright is not allowed to be reproduced, reprinted, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yi Da Medical Foundation  
+21X29.7cm Printed in February 2025, Revised in May 2024 HA-6-0010(2)
+
+What is dementia? (Cognitive impairment)
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_743_382_1099_737.jpg" alt="Image" width="29%" /></div>## Three: Basic Care and Response Strategies:
+
+| No. | Description |
+|-----|-------------|
+| 1 | Focus on tasks the person can handle, and encourage them to perform activities they are capable of, such as eating, using the toilet, bathing, or brushing teeth. |
+| 2 | Understand their past background and life experiences, and try to align care with their preferences and habits. Talk about familiar past events. The rooms and spaces familiar to the elderly should be preserved as much as possible; if changes are necessary for safety, make them as minimal as possible. |
+| 3 | Maintain a safe and comfortable environment. To prevent falls and accidents, ensure adequate lighting indoors, keep furnishings simple, and ensure clear pathways. |
+| 4 | In areas where the person with dementia frequently moves around, provide orientation cues regarding people, time, and place—such as clearly visible large calendars, family photos, large clocks, and windows offering views of the outdoors. |
+| 5 | The condition of dementia patients may change over time. The behavioral issues experienced this month may differ from those in the next month. Caregivers should adjust their care methods according to the patient's current state. |
+| 6 | Guide and assist the elderly with dementia in interacting with others, which can promote their language skills and interpersonal satisfaction. |
+| 7 | When the person refuses, do not force them. Instead, first follow their lead, and then try a different approach later. |
+| 8 | Establish a regular daily routine and avoid frequent changes. |
+
+| No. | Description |
+|-----|-------------|
+| 9 | Within the person's acceptable range, use physical touch to convey warmth and care. |
+| 10 | Patience and love are important, but they are not always sufficient. Caregivers should accept their own emotions and limits, and regularly schedule rest and recharge periods. |
+
+## Four: Other Daily Life Considerations:
+
+| No. | Description |
+|-----|-------------|
+| 1 | Strive to maintain the patient's health: keep the living environment clean, ensure daily living is convenient, provide easy-to-use bathroom equipment, instruct patients with incontinence to use the toilet at regular intervals, monitor their fluid intake, and ensure they receive balanced nutrition. |
+| 2 | For patients with osteoporosis, in addition to calcium supplementation, movement should be cautious to prevent falls and fractures. |
+| 3 | Place commonly used items in fixed locations, and have the same caregiver manage the care as much as possible. |
+| 4 | For dementia patients with visual and auditory impairments, daily care should pay attention to the following: (1) Speak directly to the elderly, slow down your speech, and use gestures to help them understand. (2) In terms of tone, avoid shouting, as the elderly find it difficult to process. If necessary, consult a doctor about whether hearing aids are needed. (3) The bathroom floor should not be too slippery; use a sitting toilet, and install handrails around it. |

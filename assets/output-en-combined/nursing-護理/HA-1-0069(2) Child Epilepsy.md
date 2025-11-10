@@ -1,0 +1,60 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_78_113_551_536.jpg" alt="Image" width="39%" /></div>
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: 07-6150011  
+Website: edah@edah.org.tw  
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.  
+Copyright Holder: Edah Medical Foundation  
+Form Number: HA-1-0069(2)  
+Edah Medical Foundation, 20x20 cm, printed in 2016.05, revised in 2012.05  
+
+## Childhood Epilepsy  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_678_312_1134_721.jpg" alt="Image" width="38%" /></div>## Childhood Epilepsy
+
+## I. What is epilepsy?
+
+It is a chronic brain disorder caused by congenital or acquired factors, characterized by abnormal electrical discharges in brain cells leading to recurrent seizures. However, not all episodes can be diagnosed as epilepsy.
+
+## II. Parental Home Care Guidelines:
+
+**(1) Safety measures during a child's seizure:**
+
+1. If the child's jaw is clenched, do not forcibly open the mouth or insert foreign objects, as this may cause jaw dislocation or fractures. Instead, gently turn the child's head to one side to allow saliva to drain.
+
+2. Do not forcibly restrain the child's limbs, as this may lead to fractures.
+
+3. After a seizure, do not immediately give the child water or food, as this may lead to aspiration pneumonia. Only provide food once the child has fully recovered and regained consciousness. After a seizure, it is best to maintain the child in a lateral (side-lying) position.
+
+4. If a seizure lasts longer than 5–10 minutes, seek emergency medical help immediately.
+
+**(2) Creating a safe environment:**
+
+1. Remove any items from the bed that could harm the child, and place a soft cushion on the bed.
+
+2. During bathing, ensure the bathroom door is not locked. Bathing should be done using a shower, not standing in the shower, and the child must sit during the shower.
+
+3. If the home requires stairs to be used, someone should accompany the child. In play areas or rooms, avoid sharp edges or corners.
+
+4. Cycling should only be done on open, flat playgrounds or parks. Cycling is not allowed on slopes or roads with traffic.
+
+**(3) Avoid tight clothing for children, especially around the neck and collar.
+
+## III. Treatment
+
+**(1) Taking anti-epileptic drugs:**
+
+1. The goal of epilepsy treatment is to control seizures effectively without causing significant side effects, allowing the patient to return to normal function.
+
+2. If there are any questions about taking anti-epileptic medication, consult the doctor.
+
+3. Do not stop medication on your own. Stopping medication without medical advice often leads to seizure recurrence and more severe symptoms.
+
+**(2) Ketogenic diet:**
+
+The ketogenic diet refers to a diet that causes the body to produce large amounts of ketones. It involves consuming high-protein, low-carbohydrate foods, which can help control seizures in certain types of childhood epilepsy. The ketogenic diet primarily consists of meat, fish, and eggs, which can be prepared by roasting with cream sauce, frying, or pan-frying. Sugar and flour-based coatings must not be added.
+
+**(3) Surgical treatment: for refractory epilepsy
+
+Consultation service phone: 07-6150011

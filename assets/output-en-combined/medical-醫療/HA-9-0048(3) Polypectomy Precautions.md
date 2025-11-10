@@ -1,0 +1,39 @@
+# Notes on Polyp Removal
+
+## 1. Definitions
+
+Polyps are abnormal hyperplasia of the mucosal tissue in the gastrointestinal tract. Most are asymptomatic, but some may progress to cancerous changes. For such polyps, metal rings can be used for direct removal and submission for examination, thereby reducing the risk of future cancer development.
+
+## 2. Applicable Population
+
+Patients who have undergone polyp removal.
+
+## 3. Care and Precautions
+
+1. What should be noted in daily life?
+
+Do not lift heavy objects (such as water) or engage in intense physical activities (such as running or mountain climbing) for one week.
+
+2. What dietary precautions should be taken?
+
+(1) Avoid raw foods and stimulating foods (such as tea, coffee, chili, etc.) and refrain from smoking or drinking alcohol for one week.
+
+(2) Avoid high-fiber foods such as enoki mushrooms, bamboo shoots, pineapple, mango, etc., for one week.
+
+2023.11 Revised HA-9-0048(3)# Polyp Removal Precautions
+
+(3) Do not eat hot foods (such as hot pot) or hot drinks, or hard foods such as almonds, cashews, etc., for three days.
+
+3. If you are taking anticoagulant medication, please continue to stop taking it for ___ days.
+
+4. After returning home, if you experience heavy bleeding from the rectum, severe abdominal pain, or significant abdominal distension, please contact us during working hours (Monday to Friday, 8:00–17:00) by phone, or visit the emergency department after working hours.
+
+Yi Da Medical Foundation, Gastroenterology and Hepato-Biliary Department – Caring for Your Health
+
+| Contact Information |
+|---------------------|
+| Yi Da Hospital Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City. Phone: 07-6150011 ext. 5179 |
+| Yi Da Malaria Treatment Hospital Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City. Phone: 07-6150022 ext. 6711 |
+| Yi Da Dachang Hospital Address: No. 305, Dachang Road, Sanchong District, Kaohsiung City. Phone: 07-5599123 ext. 7541 |
+
+Revised in November 2023 HA-9-0048(3)

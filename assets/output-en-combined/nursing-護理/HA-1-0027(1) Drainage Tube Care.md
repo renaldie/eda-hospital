@@ -1,0 +1,54 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_68_87_556_527.jpg" alt="Image" width="40%" /></div>
+
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City
+
+Phone: 07-6150011
+
+Website: edah@edah.org.tw
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.
+
+Copyright Holder: Edah Medical Foundation
+
+Form Number: HA-1-0027 (1)
+
+Edah Medical Foundation, 20x20 cm, printed in January 2016, revised in May 2011
+
+## Catheter Care
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_697_377_1131_799.jpg" alt="Image" width="36%" /></div>## Drainage Tube Care
+
+## I. Introduction:
+
+When returning to the ward after surgery, patients often find themselves with various tubes connected to their bodies. Many people feel anxious or fearful due to a lack of understanding. If patients understand how to properly care for these tubes, unnecessary wound complications can be reduced. Therefore, it is essential to be familiar with the purposes of surgical drainage tubes and how to manage abnormalities.
+
+## II. Objectives:
+
+1. Drainage: In cases of membrane swelling, such as hepatic or pancreatic pseudomembranous swelling, surgical placement of drainage tubes is one of the treatment methods.
+
+2. Observation: The drainage fluid from the wound can indicate whether there is leakage or bleeding from the wound.
+
+3. Irrigation: When deep infection or abscess formation occurs, simple drainage tubes are often ineffective. Using drainage tubes with external irrigation and suction functions can achieve better results.
+
+## III. Precautions:
+
+1. Check whether the drainage tube is unobstructed.
+
+2. Avoid compression or twisting that may cause blockage.
+
+3. Observe the color, volume, and consistency of the drainage fluid (typically changing from dark to lighter colors, and from large to small volumes). Any changes should prompt notification of medical staff for handling.
+
+IV. Removal Time: Drainage tubes are usually removed when the daily drainage volume is less than 50 cc, depending on the physician's assessment.
+
+## V. Wound Care:
+
+1. Monitor the skin around the wound for signs of redness, swelling, heat, or pain.
+
+2. Check for fever.
+
+## VI. Physical Activity:
+
+Many people believe they cannot move freely due to having drainage tubes. In reality, there are few restrictions. Getting up and walking promotes wound healing and helps drainage. As long as the tubes are properly secured and not pulled or tugged, movement is encouraged.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_706_587_1101_971.jpg" alt="Image" width="33%" /></div>

@@ -1,0 +1,53 @@
+## Five. References
+
+Wu L, Zhou X, Liu L (2022). Nursing care of digestive system diseases. In Liu X (ed.), Adult Internal and Surgical Nursing (8th ed., pp. 446–450). Hua Xing.
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011  
+
+Yi Da Cancer Treatment Hospital  
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022  
+
+Yi Da Dachang Hospital  
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City  
+Phone: 07-5599123  
+
+## Understanding A Hepatitis  
+
+<center><img src="imgs/img_in_image_box_635_370_1044_726.jpg" alt="Image" width="36%" /></center>## Hepatitis A
+
+## I. Introduction
+
+When the liver is infected by the hepatitis A virus, it is called hepatitis A. Hepatitis A primarily occurs in countries with poor public health, family environments, and personal hygiene conditions.
+
+## II. Transmission Routes
+
+1. Oral infection: Drinking water or consuming raw or undercooked food, especially shellfish.
+
+2. Fecal-oral infection: Consuming or drinking food or water contaminated by the feces of hepatitis A patients.
+
+## III. Main Symptoms
+
+1. Vomiting, diarrhea, loss of appetite, weight loss, dark urine, yellowing of the skin and eyes (jaundice), abdominal pain, and fever.
+
+2. The incubation period for hepatitis A infection generally lasts two to four weeks before symptoms appear.
+
+3. Symptoms similar to the common cold, such as fever, fatigue, nausea, and vomiting, or no obvious symptoms.
+
+4. Hepatitis A has a good prognosis with a low mortality rate and does not progress to chronic hepatitis.
+
+## IV. Prevention Methods and Daily Precautions
+
+1. Develop good personal dietary hygiene habits, such as washing hands before and after using the toilet and before eating.
+
+2. Avoid eating raw food.
+
+3. Use separate chopsticks and spoons when dining.
+
+4. Before traveling to epidemic areas, receive immunoglobulin injections for passive immunization protection.
+
+5. Avoid excessive consumption of alcoholic beverages.
+
+6. Maintain a regular lifestyle, avoid staying up late, and ensure adequate sleep.

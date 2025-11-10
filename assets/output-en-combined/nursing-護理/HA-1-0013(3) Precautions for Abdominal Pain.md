@@ -1,0 +1,64 @@
+3. Severe abdominal pain, especially when the location or nature of the pain changes, or when the pain shifts to the right lower abdomen, should prompt immediate medical attention.
+
+4. Dehydration, such as severe thirst, dry and loss of elasticity in the skin, dark-colored urine, or decreased urine output.
+
+References:
+
+Uptodate-Evaluation of the adult with abdominal pain
+
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City
+
+Phone: 07-6150011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City
+
+Phone: 07-6150022
+
+Yi Da Dachang Hospital
+
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City
+
+Phone: 07-5599123
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yi Da Medical Foundation
+
+Printed size: 20x20 cm, Printed in April 2025, Revised in November 2024, HA-1-0013(3)
+
+## Abdominal Pain Precautions
+
+## Small## Definition and Precautions for Abdominal Pain
+
+Abdominal pain refers to discomfort in the abdominal area and is one of the most common complaints among patients. According to foreign statistics, 8% of patients visiting emergency departments present with abdominal pain. While most cases can be managed with observation, rest, or medication, some may be life-threatening and require urgent medical intervention. Therefore, vigilance is essential.
+
+This form is applicable to patients experiencing first-time or recurrent abdominal pain, as well as those with an undetermined cause.
+
+## I. Common Causes of Abdominal Pain:
+
+Abdominal pain can result from various diseases involving organs such as the liver, gallbladder, biliary system, gastrointestinal tract, kidneys, and reproductive or urinary organs. When you experience abdominal pain, it is important to also note any accompanying symptoms to provide the physician with more diagnostic information.
+
+| Surgical Treatment | Disease |
+|-------------------|---------|
+| Not required       | Gastrointestinal dysfunction, gastritis, peptic ulcer, constipation, urinary tract infection, ureteral stones, pancreatitis, dysmenorrhea, pelvic inflammatory disease. |
+| Required           | Acute appendicitis, intestinal obstruction, perforation of peptic ulcer, gallstones, acute cholecystitis, peritonitis, pelvic tumors. |
+
+$ ^{*} $ Whether surgical intervention is required will still depend on the physician's comprehensive clinical judgment $ ^{*} $
+
+## II. Home Care Precautions:
+
+1. When abdominal pain occurs, pay attention to changes in the location, intensity, and nature of the pain, as well as any accompanying symptoms such as nausea, vomiting, or diarrhea. At this time, avoid eating and rest appropriately to help restore physical strength. After six hours, you may try drinking plain water or electrolyte drinks. If there is no abdominal pain and you feel hungry, you may consume rice porridge, thin porridge, or white toast in small amounts. Try to eat light, easily digestible foods in small, frequent meals.
+
+2. Avoid eating oily, spicy, or stimulating foods until symptoms fully subside. Do not consume alcohol, coffee, tea, soda, or fresh milk. Fruits should be limited to apples only; otherwise, it is best to avoid them altogether.
+
+3. Take prescribed medications regularly as instructed by your doctor. If symptoms persist after finishing the medication, please follow up at a gastroenterology, general internal medicine, or family medicine outpatient clinic.
+
+## III. Seek Medical Attention Immediately If Any of the Following Occurs:
+
+1. Persistent or worsening abdominal pain, bloating, nausea, vomiting, or diarrhea. The presence of mucus resembling nasal discharge, blood, or visible parasites in the stool.
+
+2. If you develop a fever lasting over $ 38.5^{\circ} $ C, chills, frequent urination, difficulty urinating, hematuria, night sweats, cold and clammy skin, or pallor, seek medical attention immediately.

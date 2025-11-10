@@ -1,0 +1,83 @@
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022
+
+Yi Da Da Chang Hospital
+
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City  
+Phone: 07-5599123
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yi Da Medical Foundation  
+29.7×20 cm, Printed in January 2025, Revised in July 2024, HA-8-0018(4)
+
+## Acupuncture Treatment Precautions
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1166_302_1628_674.jpg" alt="Image" width="27%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1324_733_1491_907.jpg" alt="Image" width="9%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1187_945_1619_1031.jpg" alt="Image" width="25%" /></div>Using specially designed disposable sterile needles to stimulate acupoints, the treatment promotes blood circulation, balances yin and yang, and applies the principles of reinforcing and reducing (yin-yang regulation), thereby achieving therapeutic effects such as pain relief and unblocking meridians, with the ultimate goal of health promotion, physical strengthening, disease prevention, and treatment.
+
+## I. Before Acupuncture Treatment
+
+(1) If you have any special discomfort on the day of treatment, please inform the medical or nursing staff.
+
+(2) Before each session, empty your bladder. Any existing topical ointments must be removed and the area thoroughly cleaned and dried.
+
+(3) Wear loose-fitting clothing before acupuncture. Women are advised to wear a two-piece outfit to facilitate needle insertion; long hair should be tied neatly to facilitate treatment.
+
+(4) Individuals prone to tension, fatigue, or dizziness after fasting may experience syncope during acupuncture. If you have a history of dizziness, lightheadedness, cold sweats, or similar symptoms, please inform the medical or nursing staff in advance.
+
+(5) During acupuncture, try to relax your mind and body. Avoid moving or turning over, as this may cause pain. Each acupuncture session typically lasts about 20 minutes, or as directed by the physician.
+
+(6) Patients with special medical conditions—such as viral hepatitis or other diseases transmissible through blood—patients with heart disease or those with implanted cardiac pacemakers—must inform the medical or nursing staff in advance.
+
+(7) Patients with skin infections, ulcers, or severe edema should not undergo acupuncture.
+
+(8) Chronic conditions require long-term treatment; treatment at least two to three times per week is generally appropriate.
+
+(9) If you have any questions, please consult your attending physician or nurse.
+
+## II. During Acupuncture Treatment
+
+(1) Maintain the most comfortable posture during treatment. When lying down, lie flat on the bed. For patients with mobility issues or altered consciousness, family members should accompany them.
+
+(2) If you experience dizziness, palpitations, lightheadedness, blurred vision, nausea, or vomiting during needle insertion, press the call button immediately to alert the nursing staff.
+
+(3) Try to remain relaxed both physically and mentally throughout the acupuncture process.
+
+(4) Do not move or change your posture during treatment, as this may cause pain or alter the depth of the needles, potentially leading to bending of the needles.
+
+(5) The physician may use infrared lamps, broad-spectrum devices, or warm baths for heat therapy as needed. If you feel any discomfort such as excessive heat at the treatment site, inform the medical or nursing staff immediately.
+
+(6) If there is persistent pain at the needle site during treatment, inform the medical or nursing staff for handling.
+
+(7) The sensations produced during acupuncture (such as numbness, tingling, swelling, distension, or electric-like feelings) are normal phenomena.
+
+## III. After Acupuncture Treatment
+
+(1) After needle removal, do not rub the puncture site, as this may lead to bruising or bleeding. If bleeding or bruising occurs, do not panic. Simply apply sterile cotton to the area to stop the bleeding. For minor bleeding, apply ice to the area within 24 hours (72 hours for the eyes) to help stop bleeding; after 24 hours (72 hours for the eyes), switch to heat application to promote absorption and dissipation of localized bruising.
+
+(2) The lingering aching or heaviness after acupuncture is a normal phenomenon known as "retained sensation." Due to individual differences, this sensation may persist for several hours or even up to 1–2 days. It can be alleviated by gently applying heat with a towel and massaging the area.
+
+(3) If severe bleeding or hematoma occurs after acupuncture, please notify the medical or nursing staff immediately (especially after eye acupuncture).
+
+(4) If there is bruising or aching at the needle site, do not worry or panic—this is usually self-resolving. If signs of inflammation such as redness, swelling, heat, or pain appear, please visit the clinic promptly for diagnosis and treatment by a physician.
+
+(5) For any bleeding wounds after treatment, avoid water contact for 1–2 hours.
+
+(6) Patients with chronic conditions requiring long-term treatment should follow the physician’s instructions for follow-up visits.
+
+## IV. References
+
+Du Huijuan (2019). Common Traditional Chinese Medical Nursing. Edited by Zhang Yongxian and Zhang Manling. *Introduction to Traditional Chinese Nursing* (4th ed., pp. 370–381). Xinwenjing Development.
+
+Lü Wan’an (2020). Research on the Conductivity and Polarization Direction of Human Meridians and Their Symmetry. *Journal of Traditional Chinese Medicine Research*, 23(2), 1–14.

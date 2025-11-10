@@ -1,0 +1,131 @@
+## High-potassium foods
+
+| Category       | Foods                                                                 |
+|----------------|-----------------------------------------------------------------------|
+| Vegetables     | Lettuce, mushrooms, dried nori, dried kelp, pickled bamboo shoots, large tomatoes, etc. |
+| Fruits         | Water peach, strawberries, dragon fruit, Meong melon, honeydew melon, small tomatoes, papaya, bananas, rambutan, various dried fruits, etc. |
+| Snacks and beverages | Chocolate, coffee, sports drinks, juice, nuts, various brewed teas, herbal teas, etc. |
+| Soups and broths | Meat broth, vegetable broth, flavoring powders (e.g., chicken flavoring, beef flavoring, pork flavoring), traditional Chinese herbal medicines, stewed dishes, energy broths, etc. |
+
+## Peritoneal Dialysis
+
+- **Calories**: During dialysis, the body tissues absorb glucose from the dialysate. Patients require fewer calories from dietary sources than the general population. Due to the potential for increased blood triglyceride levels, single-sugar and excessive fat intake should be avoided, such as sugary foods, fried foods, and butter-based products.
+
+- **Protein**: Peritoneal dialysis results in greater protein loss compared to hemodialysis. Therefore, intake of high biological value proteins should be increased (approximately 6–8 servings of soy products, fish, eggs, and meat per day).
+
+- **Sodium, potassium, and water**: Intake is relatively free, as long as fluid and electrolyte imbalances are managed to control edema.
+
+- **Other**: Following the principles of hemodialysis, patients are encouraged to engage in moderate physical activity or develop a regular exercise routine.
+
+## References
+
+1. Chronic Kidney Disease Health Management Handbook, Ministry of Health and Welfare, National Health Research Institutes, 2018  
+2. Nutritional Therapy and Food Selection Techniques for Chronic Kidney Disease, *Taiwan Journal of Nutrition*, Vol. 46, No. 3 (2022/09), pp. 90–100  
+3. KDOQI Clinical Practice Guideline for Nutrition in CKD: 2020 Update
+
+## Yida Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011  
+
+Yida Cancer Treatment Hospital  
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022  
+
+Yida Dachang Hospital  
+Address: No. 305, Dachang Road, Simei District, Kaohsiung City  
+Phone: 07-5599123  
+
+This copyright is not allowed to be reproduced, reprinted, or resold without the consent of the copyright holder.  
+Copyright holder: Yida Medical Foundation  
+Size: 20x29.7 cm, Printed in January 2025, Revised in March 2024, HA-3-0003(3)
+
+## Dialysis Diet
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1239_276_1656_780.jpg" alt="Image" width="24%" /></div>## General Principles:
+
+Dialysis is generally divided into hemodialysis and peritoneal dialysis. Dietary control is still necessary, but the restrictions are less strict than before dialysis.
+
+## Hemodialysis:
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_233_43_295.jpg" alt="Image" width="2%" /></div>
+
+### 1. Adequate Protein:
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_303_39_357.jpg" alt="Image" width="2%" /></div>
+
+Consume 4–7 servings (two portions) of high biological value proteins daily, such as soy products, fish, eggs, and meat.
+
+Limit intake of low biological value proteins, such as dried beans, nuts, and gluten-containing foods (e.g., noodles, noodle products, roasted soya, etc.).
+
+Fluid restriction: The increase in body weight before dialysis should not exceed 5% of dry weight. Total daily fluid intake should be estimated based on the previous 24-hour urine output plus 500–700 mL of water.  
+Hydration alternatives: Use limited ice cubes, chew sugar-free gum, rinse mouth with water, or use lemon slices to stimulate saliva production.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_445_40_501.jpg" alt="Image" width="2%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_511_37_573.jpg" alt="Image" width="2%" /></div>
+
+### 8. If salt restriction is required:
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_802_40_855.jpg" alt="Image" width="2%" /></div>
+
+Use natural seasonings such as scallions, ginger, garlic, cinnamon, Sichuan pepper, celery, cilantro, lemon, and white vinegar to enhance flavor. Limit the use of salt and seasonings (e.g., monosodium glutamate, soy sauce, miso, sambal sauce, chili sauce, tomato sauce, fermented bean paste, vinegar, etc.). Avoid high-sodium foods such as pickled and processed foods, canned goods, instant noodles, broths, and sauces.
+
+### 4. Phosphorus restriction
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_0_945_50_1038.jpg" alt="Image" width="2%" /></div>
+
+Avoid high-phosphorus foods (see appendix).  
+Follow medical instructions to use phosphate binders appropriately during meals.
+
+### 5. If potassium restriction is required:
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_570_86_621_145.jpg" alt="Image" width="3%" /></div>
+
+Since potassium ions are water-soluble, vegetables should be blanched for 1–3 minutes, then drained and stir-fried with vegetable oil to reduce potassium content.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_572_159_625_215.jpg" alt="Image" width="3%" /></div>
+
+Consume moderate amounts of medium- and low-potassium fruits, and avoid high-potassium foods (see appendix).
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_573_228_621_281.jpg" alt="Image" width="2%" /></div>
+
+Avoid low-sodium salt and low-salt soy sauce (thin soy sauce), as these products replace part of sodium with potassium. Avoid broth-based dishes and soups.
+
+### 6. Iron
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_567_359_620_418.jpg" alt="Image" width="3%" /></div>
+
+Increase intake of iron-rich foods such as red meat, pig blood, clams, mussels, red amaranth, and red leafy greens.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_569_426_620_485.jpg" alt="Image" width="3%" /></div>
+
+Pair iron-rich foods with vitamin C-rich foods to enhance iron absorption, such as citrus fruits and colored peppers.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_564_494_618_550.jpg" alt="Image" width="3%" /></div>
+
+Animal-based iron-rich foods also contain high levels of phosphorus, so they should be taken with phosphate binders.
+
+### 7. Vitamins
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_565_663_618_720.jpg" alt="Image" width="3%" /></div>
+
+Dialysis patients often suffer from deficiencies in water-soluble vitamins due to dietary restrictions or metabolic disorders, especially B vitamins. Therefore, appropriate supplementation of B vitamins and folic acid is necessary. Folic acid also helps prevent anemia.
+
+## Appendix:
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_584_860_745_1044.jpg" alt="Image" width="9%" /></div>
+
+Persimmon may cause unexplained neurological reactions in dialysis patients.
+
+## Do Not Eat!
+
+## High Phosphorus Foods
+
+| Category           | Foods                                                                 |
+|--------------------|-----------------------------------------------------------------------|
+| Whole grains and cereals | Brown rice, oatmeal, five-grain rice, whole wheat products, red beans, green beans, yam, lotus seeds, etc. |
+| Dairy products     | Fresh milk and milk products, yogurt, kefir, cheese, baked dishes, etc. |
+| Nuts               | Cashews, almonds, peanuts, sesame seeds, walnuts, pistachios, sunflower seeds, etc. |
+| Meat, fish, eggs   | Processed meats (ham, dried meat, bacon, bao, fish balls, fish dumplings, vegetable dumplings, and other processed foods containing phosphate salts), animal offal, fish eggs, crab roe, black fish roe, small fish, dried fish, etc. |
+| Others             | Chocolate, coffee, meat broth, chicken broth, carbonated drinks, probiotic drinks, milk powder products, snacks, cookies, potato chips, ready-to-eat meal kits, etc. |

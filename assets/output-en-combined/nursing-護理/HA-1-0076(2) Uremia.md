@@ -1,0 +1,77 @@
+E-DA HOSPITAL/I-SHOU UNIVERSITY
+
+Form ED
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_36_398_534_812.jpg" alt="Image" width="41%" /></div>
+
+Address: No. 1, Yida Road, Jiaoxu Village, Yanchao District, Kaohsiung City, 824
+
+Phone: 07-6150011
+
+Website: edah@edah.org.tw
+
+This copyright is protected and may not be reproduced, copied, or resold without the consent of the copyright holder.
+
+Copyright Holder: E-DA Hospital
+
+Form Number: HA-1-0076 (2)
+
+E-DA Hospital, 20×20 cm, printed on 100.09, revised in May 100.05
+
+## Uremia
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_653_627_1125_1051.jpg" alt="Image" width="39%" /></div>## Uremia
+
+## I. Introduction:
+
+When kidney function deteriorates to a severe extent and is no longer able to eliminate waste products from the body, thereby affecting the functions of various tissues and leading to abnormalities in endocrine, skeletal, cardiovascular systems, this condition is known as uremia.
+
+## II. Symptoms of Uremia:
+
+1. Nausea, vomiting, and loss of appetite.
+
+2. Anemia.
+
+3. Hypertension.
+
+4. Itching of the skin.
+
+5. Blurred vision.
+
+6. Increased susceptibility to infections.
+
+7. Imbalance of body fluids and electrolytes.
+
+## III. Diet for Uremia Patients:
+
+1. Low-sodium diet to reduce the burden on the kidneys.
+
+2. Fluid intake: the daily fluid intake should be equal to the previous day's urine output plus 500 ml.
+
+3. Avoid using salt-free soy sauce, which contains high levels of potassium and may worsen the burden on the heart and kidneys.
+
+4. Limit protein intake to reduce the production of nitrogenous waste.
+
+5. If caloric intake is insufficient, increase consumption of carbohydrates and fats.
+
+6. Avoid consuming legume products, which contain excessive amounts of low biological value proteins.
+
+7. Add a small amount of vinegar or lemon juice to food to alleviate nausea and promote appetite.
+
+## III. Precautions for Uremia Patients:
+
+1. Weigh the patient daily, record all fluid intake and output completely, and use this data as a reference for fluid and caloric supplementation.
+
+2. Ensure adequate caloric intake while reducing protein consumption. Foods to avoid include legume products such as tofu, bean curd, and soy milk. Animal organs contain high levels of cholesterol and should be avoided, such as pig brain, heart, liver, and kidneys. Additionally, foods like caviar, crab roe, and shrimp should also be avoided.
+
+3. Maintain personal hygiene to enhance comfort: take warm baths and apply lotion to dry skin.
+
+4. Control blood pressure to reduce headaches and discomfort, thereby improving sleep. Monitor blood pressure closely and take antihypertensive medications correctly.
+
+5. When immunity is weakened, minimize exposure to public places and avoid contact with individuals suffering from upper respiratory tract infections to prevent infection.
+
+6. Encourage patients and their families to participate in activities (such as kidney patient support groups) and share experiences with successful cases.
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_932_1035_1112_1288.jpg" alt="Image" width="15%" />
+</div>

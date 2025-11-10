@@ -1,0 +1,90 @@
+## References
+
+Feng Rongfen (2022). Nursing care of neurological diseases. In Liu Xue'e, General Editor, Adult Internal and External Medicine Nursing (8th edition, pp. 82-90). Hua Xing.
+
+## Yida Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011
+
+## Yida Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022
+
+## Da Chang Hospital
+
+Address: No. 305, Da Chang Road, Sanchong District, Kaohsiung City  
+Phone: 07-5599123
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yida Medical Foundation
+
+Form Number: HA-1-0012(2)
+
+Yida Medical Foundation, 20X29.7cm, Printed in December 2024, Revised in December 2024
+
+## Headache Precautions
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1192_278_1640_829.jpg" alt="Image" width="26%" /></div>
+
+(3)## Headache Precautions
+
+One. Definition of headache:
+
+Headache often results from stimulation, stress, or abnormalities in the head's pain nerves, and is a common complaint in clinical practice. Typical symptoms include a dull, persistent pain in the skull, temples, or upper back of the head, commonly caused by fatigue, stress, emotional disturbances, or poor posture leading to muscle tension. Headaches may also be caused by infections, trauma, tumors, intracranial bleeding, muscle tension in the head, neck, or chest, or diseases of the eyes, ears, or nose. If left untreated, headaches can persist for life and severely affect daily life.
+
+Two. Precautions:
+
+1. Keep a headache diary:
+
+(1) Record the time and location (single or bilateral) of each headache episode.
+
+(2) Note the nature of the pain—continuous, intermittent, or episodic.
+
+(3) Write down the foods you consumed and drinks you drank.
+
+(4) Review your activities in the six to eight hours before the headache occurs to identify potential triggers and take preventive measures.
+
+(5) Note whether any other symptoms accompany the headache.
+
+(1) Take your regular medications, especially those for high blood pressure and diabetes, as prescribed.
+
+(2) If prescribed medication by your doctor, take it exactly as instructed—by time and dosage. If discomfort persists after taking medication, seek follow-up treatment in neurology, general internal medicine, or family medicine.
+
+3. For patients with cardiovascular diseases, keep a blood pressure monitor at home and measure blood pressure regularly.
+
+4. Recommend adequate rest: maintain a regular sleep schedule, avoid excessive fatigue, staying up late, and emotional stress. Keep the environment quiet and the lighting soft during rest.
+
+5. Dietary habits: Avoid overly salty foods such as preserved items or pickled vegetables, and animal offal with high fat content. Patients with migraines should avoid foods high in tyramine, such as cheese, alcohol, citrus fruits, and chocolate.
+
+6. Adjust lifestyle to avoid overly intense activities. Excessive stress and fatigue can lead to headaches.
+
+7. Take a 10-minute break every hour while reading or writing, ensuring sufficient but not overly bright lighting. Avoid squinting, as squinting can cause muscle tension.
+
+8. If the headache is allergy-induced, ensure your home is free of dust, mold, and pollen, and minimize outdoor exposure during pollen season.
+
+9. Avoid drinking alcoholic beverages, especially during emotional fluctuations or when taking sedatives.
+
+10. Some medications can trigger migraines (e.g., birth control pills). If your headache is suspected to be medication-induced, consult your doctor about switching to an alternative medication.
+
+11. Massage the forehead and temples for 10 minutes: Use two fingers starting from the central hairline on the forehead, gently massage slowly to both sides of the forehead, and then to the temples.
+
+12. Reduce stress and engage in physical activity:
+
+(1) Take regular breaks or practice relaxation exercises during busy work hours. Maintain proper sitting posture—sit upright with the neck not bent too far forward. If performing heavy physical work, 
+
+(2) Gently turn your head to relax the neck, massage the skull slowly, then shrug your shoulders. Massaging the neck can temporarily relieve pain. Begin massaging from the muscles between the head and neck, down through the shoulders, and finally to the head.
+
+Three. Seek immediate follow-up if any of the following occur:
+
+1. The headache worsens.
+
+2. Loss of hearing, tinnitus, blurred or severely impaired vision, or severe dizziness, nausea, and vomiting.
+
+3. Associated with unilateral limb weakness, numbness, or abnormal sensations.
+
+5. Persistent fever exceeding 38.5°C.
+
+6. Any other symptoms that make you feel uneasy.

@@ -1,0 +1,45 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_62_103_529_536.jpg" alt="Image" width="39%" /></div>
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: 07-6150011  
+Website: edah@edah.org.tw  
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.  
+Copyright Holder: E-Da Healthcare Foundation  
+Form Number: HA-1-0138 (1)  
+
+E-Da Healthcare Foundation, 20x20 cm, printed in 2016.05, revised in 2011.05  
+
+## What is Coronary Artery Bypass Grafting Surgery?
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_666_336_1117_852.jpg" alt="Image" width="37%" /></div>
+
+E-Da Healthcare Foundation, printed by E-DA HEALTHCARE GROUP## What is Coronary Artery Bypass Grafting (CABG)?
+
+Coronary artery bypass grafting (CABG) is a surgical procedure that improves blood flow to coronary arteries that have become blocked. It helps alleviate angina symptoms and enhances quality of life. However, CABG does not cure coronary artery disease, so patients must continue to manage risk factors after surgery.
+
+CABG can use grafts obtained from various parts of the body. The most common method involves harvesting a segment of the saphenous vein from the leg—connecting one end to the area distal to the blocked coronary artery and the other end to the ascending aorta. Another method involves removing the internal mammary artery from the chest wall and connecting its distal end to the area below the site of coronary artery blockage. Patients with multiple coronary artery diseases can undergo multiple bypass procedures during a single surgery.
+
+CABG is also considered one of the best methods for maintaining long-term patency of coronary arteries.
+
+Outpatient care and follow-up after CABG surgery
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_85_690_484_967.jpg" alt="Image" width="33%" />
+</div>
+
+Coronary artery bypass surgery is only one component of treating coronary artery disease. The underlying conditions causing atherosclerosis are not eliminated by surgery. Therefore, patients must continue lifelong treatment to slow or reverse atherosclerosis, otherwise the grafted vessels and the native coronary arteries may continue to undergo atherosclerosis and lead to myocardial ischemia. Thus, the fundamental principles—such as quitting smoking, maintaining a healthy weight, engaging in appropriate physical activity, paying attention to dietary components, and managing hypertension, hyperlipidemia, and diabetes—must be continued.
+
+Post-discharge wound care: Once the wound has healed and stitches have been removed, you can remove the dressing. You may bathe three days after surgery, as long as you keep the wound dry afterward. If you wish for a more aesthetically pleasing wound healing, you may purchase breathable adhesive tape and apply it every two to three days, continuing for up to six months. If you experience allergic reactions such as redness or blisters on the skin, you should stop using the tape immediately to avoid discomfort and infection.
+
+Important signs to watch for:
+
+1. Shortness of breath or difficulty breathing  
+2. Swelling in the eyes, fingers, or ankles  
+3. Body temperature exceeding 38°C for more than 24 hours  
+4. Redness, swelling, and tenderness around a small wound, or a large amount of fluid discharge  
+5. Unexplained upper abdominal discomfort accompanied by nausea and vomiting  
+6. A significant decrease in urine output  
+7. Sudden changes in heart rate or pulse, such as becoming abnormally slow, fast, or irregular  
+
+If any of the above symptoms occur, you should seek medical attention promptly.

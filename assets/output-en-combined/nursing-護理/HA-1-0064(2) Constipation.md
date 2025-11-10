@@ -1,0 +1,58 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_75_103_549_528.jpg" alt="Image" width="39%" /></div>
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: 07-6150011  
+Website: edah@edah.org.tw  
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.  
+Copyright Holder: Edah Medical Foundation  
+Form Number: HA-1-0064(2)  
+Edah Medical Foundation, 20x20 cm, printed in May 2016, revised in May 2011  
+
+## Constipation  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_685_353_1130_784.jpg" alt="Image" width="37%" /></div>## Constipation
+
+## 1. What is constipation:
+
+Difficulty in passing dry, small amounts (less than 50 grams per day) or infrequent bowel movements  
+(frequently occurring once every three days).
+
+## 2. Causes of constipation include the following:
+
+1. Insufficient fluid intake.  
+2. Inadequate dietary fiber consumption.  
+3. Lack of physical activity.  
+4. Depression, life stress, tension, and a busy schedule, which suppress gastrointestinal function and cause intestinal muscle tension.  
+5. Anorectal diseases (such as anal fissures, anal abscesses, or anal stenosis).  
+6. Drug effects.  
+7. Pregnancy.  
+8. Mechanical obstruction: tumors.  
+9. Systemic diseases: diabetes, stroke.
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_375_508_535_666.jpg" alt="Image" width="13%" />
+</div>
+
+## 3. Symptoms of constipation include the following:
+
+1. Infrequent bowel movements and difficulty in defecation.  
+2. Needing to strain during bowel movements.  
+3. Pain or rectal bleeding during defecation.  
+4. Persistent sensation of needing to defecate after bowel movements.  
+5. Abdominal bloating and pain.  
+6. Passing only small amounts of loose stool or leakage—this is a late-stage symptom of severe constipation.
+
+## 4. Prevention and health tips for constipation include the following:
+
+1. Drink more water, fruit juice, or milk to increase body fluid and facilitate the passage of dry feces.  
+2. Eat more foods rich in fiber or vitamins.  
+3. Chew food slowly and thoroughly, and add digestive aids to your meals.  
+4. Limit consumption of caffeinated, alcoholic, or carbonated beverages to prevent dehydration.  
+5. Avoid refined or processed foods.  
+6. Eat small, frequent meals to maintain energy levels between meals and support healthy digestive function.  
+7. Ensure adequate sleep and rest, and avoid lifestyle stress that may affect health or lead to digestive disorders.  
+8. Maintain regular physical activity to improve blood circulation and support digestive function.  
+9. Develop a habit of regular bowel movements—ideally within one hour after breakfast. Do not rush; even if no stool is passed, sit quietly for ten minutes to focus on it.  
+10. Avoid stress and anxiety; drinking warm water can promote intestinal motility. Avoid using laxatives.  
+11. If there is no significant improvement, consider the possibility of mechanical obstruction caused by tumors.

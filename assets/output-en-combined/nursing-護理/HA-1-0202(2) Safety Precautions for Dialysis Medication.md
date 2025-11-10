@@ -1,0 +1,54 @@
+# Medication Safety for Dialysis Patients
+
+## I. Medication Precautions:
+
+(1) All medications must be used according to the doctor's prescription. The dosage of medications should not be adjusted arbitrarily by oneself.
+
+(2) Medications that have expired, deteriorated, or changed color should not be used.
+
+## II. Common Medications for Dialysis Patients:
+
+| Category | Function: Lower blood pressure |
+|---------|-------------------------------|
+| | Precautions:  
+1. Use as prescribed by the doctor; do not stop medication without medical advice.  
+2. Measure blood pressure daily and record it for the doctor's reference.  
+3. If blood pressure is too high or too low, check for lower limb edema and contact the peritoneal dialysis nurse immediately. Seek medical attention if necessary. |
+
+| Category | Function: Reduce blood phosphorus |
+|---------|-------------------------------|
+| | Precautions:  
+1. Take with meals and food to bind dietary phosphorus and excrete it through the digestive tract, thereby reducing phosphorus absorption.  
+2. Grinding or crushing the medication and mixing it evenly with food is recommended for optimal effect.  
+3. Take a small amount of phosphate binder even if eating snacks.  
+4. The doctor will adjust the dosage of phosphate binder monthly based on blood test results.  
+5. Strictly follow the doctor's prescription to avoid complications due to improper medication use. |
+
+| Category | Function: Treat constipation |
+|---------|-------------------------------|
+| | Precautions:  
+1. Take as prescribed by the doctor if constipation occurs to maintain intestinal smoothness.  
+2. If severe diarrhea occurs, temporarily discontinue use and inform the peritoneal dialysis nurse. || 草藥名稱 | 作用：刺激骨髓造血、治療慢性腎衰竭引起的貧血 | 注意事項：  
+1. 依照醫師處方定期注射，以皮下注射效果為佳。  
+2. 領藥回家後需冷藏保存，不要放在冰箱的門邊。  
+3. 從冰箱拿出來回溫15分鐘內注射完畢。 |
+|----------|--------------------------------------------------|-------------------------------------------------------------|
+| 鐵質補充劑 | 作用：可改善貧血、增加紅血球生成素(EPO)的效果 | 注意事項：  
+1. 不能空腹服用，因為容易有腸胃不適情形。  
+2. 服用後難便可能會變成黑色。  
+3. 如果鐵質過低需依照醫師處方，以靜脈注射鐵劑效果為佳，但是要注意是否會出現過敏反應，若有請告知腹膜透析護理師。 |
+| 降血脂類 | 作用：降低血中的三酸甘油脂及膽固醇 | 注意事項：  
+1. 需依照醫師處方按時服用藥物，不可以隨意停藥。  
+2. 如果出現肌肉痠痛、行走無力或是出現腹瀉、噁心及嘔吐情形，請立即告知腹膜透析護理師，必要時返院就診。 |
+| 鎮靜安眠類 | 作用：治療失眠症 | 1. 有思睡的副作用，服藥後請避免開車或從事危險的機械工作。  
+2. 不要與酒類同服，因為酒精會增加鎮靜安眠藥的藥效，會造成嚴重的眩暈情形。 |
+
+## Reference:
+
+1. Wu Zhao-tao (2015) *Dialysis Manual (Fifth Edition)*, Lida Book Publishing.
+
+2. Chen Hong-yi, Qiu Li-qian (2012) *Common Drug Interactions in Hemodialysis Patients*, Kidney and Dialysis, 2(24), 136-139.
+
+| 聯絡資訊 |  |  |
+|----------|----------|----------|
+| 義大醫院<br>地址: 高雄市燕巢區角宿里義大路1號<br>電話: 07-6150952 | 義大癌治療醫院<br>地址: 高雄市燕巢區角宿里義大路21號<br>電話: 07-6150022 | 義大大昌醫院<br>地址: 高雄市三民區大昌一路305號<br>電話: 07-6150208 |

@@ -1,0 +1,73 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_62_409_550_828.jpg" alt="Image" width="41%" /></div>
+
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: 07-6150011  
+Website: edah@edah.org.tw  
+
+This copyright is protected and may not be reproduced, copied, or resold without the written consent of the copyright holder.  
+
+Copyright Holder: E-Da Hospital  
+Form Number: HA-1-0054 (2)  
+
+E-Da Hospital, 20x20 cm, printed on 100.09, revised in May 100.05  
+
+Sinusitis  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_673_568_1120_1002.jpg" alt="Image" width="37%" /></div>
+
+E-Da Hospital  
+E-DA HOSPITAL/I-SHOU UNIVERSITY, ED## Sinusitis
+
+## I. Definition of Sinusitis
+
+Sinusitis refers to inflammatory changes in the mucous membranes of the nasal cavity.
+
+## II. Classification of Sinusitis
+
+1. Acute sinusitis: Often caused by bacterial infections, commonly occurring after a cold due to bacterial infection.
+
+2. Chronic sinusitis: Primarily results from allergic rhinitis, chronic rhinitis, or prolonged colds that block the sinus passages, allowing bacteria to grow and become infected and inflamed within the sinuses.
+
+## III. Symptoms
+
+1. Yellow thick nasal discharge; nasal secretions appear yellow to dark brown.
+
+2. Headache.
+
+3. Cough with phlegm.
+
+4. Nasal congestion.
+
+5. Loss of smell.
+
+6. Ear ringing.
+
+7. Postnasal drip.
+
+8. Pain and tenderness in the cheek area.
+
+## IV. Treatment Methods
+
+1. Treat colds promptly to keep nasal passages open.
+
+2. Steam inhalation helps constrict blood vessels in the nasal mucosa and improves sinus drainage.
+
+3. Seek medical advice to receive appropriate antibiotics; treatment typically lasts 10 to 14 days.
+
+## V. Self-care Tips
+
+1. Inhale warm steam, which helps open nasal passages.
+
+2. Drink a warm beverage, which can provide some relief.
+
+3. Use a humidifier to prevent dryness in the nasal cavity and nasal passages.
+
+4. Increase fluid intake; drinking large amounts of fluids daily helps dilute mucus and maintain its flow.
+
+5. Exercise helps stimulate the adrenal glands to release hormones that constrict blood vessels, helping reduce sinus swelling.
+
+6. Gently rub the painful sinus area with the palm of your hand to promote fresh blood flow to the region and alleviate discomfort.
+
+7. Cover the eyes and forehead with a warm towel to relieve sinus pain.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_671_972_1074_1237.jpg" alt="Image" width="33%" /></div>

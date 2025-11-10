@@ -1,0 +1,74 @@
+Chang Shun-chang (2019) · Allergy is troublesome (Sanfu moxibustion therapy) to remove cold obstruction · Changji Hospital News · 36(7), 10–11.
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011  
+
+Yi Da Cancer Treatment Hospital  
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022  
+
+Yi Da Da Chang Hospital  
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City  
+Phone: 07-5599123  
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.  
+Copyright Holder: Yi Da Medical Foundation  
+29.7 x 20 cm Printed in January 2025 Revised in July 2024 HA-8-0011(5)  
+
+Summer treatment for winter diseases: Sanfu days  
+Winter strengthening: Sanjiu moxibustion  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1251_218_1605_720.jpg" alt="Image" width="21%" /></div>  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1339_752_1502_925.jpg" alt="Image" width="9%" /></div>## Traditional Chinese Seasonal Therapy
+
+## "Winter exercise during the Three Nine Days, Summer exercise during the Three Heat Periods"
+
+Exercising in cold weather enhances the body's resistance to cold pathogens and helps prevent common winter illnesses. Exercising in hot weather improves heat tolerance and enables the body to adapt to hot climates, thereby achieving the goals of disease prevention and physical strengthening. These two periods—Three Nine and Three Heat—offer opportunities to improve allergic constitution, as stated.
+
+## One: Method of Calculating the "Three Nine" Period
+
+The "Three Nine" period begins on the day after winter solstice. Every nine days are counted, with the first nine days being the "First Nine," the second nine days being the "Second Nine," and the third nine days being the "Third Nine," collectively known as the "Three Nine Days." The Three Nine period is the coldest time of the year, when yang energy is hidden and yin energy is at its peak. This is a crucial time for health maintenance and wellness.
+
+## Two: Method of Calculating the "Three Heat" Period
+
+The "Three Heat" period spans from the solar term of Xiaoshu to the solar term of Liuchong, representing the hottest and most yang-dominant time of the year, known as the "Three Heat Days."
+
+- Initial Heat Period: The third庚day after summer solstice.
+- Middle Heat Period: The fourth庚day.
+- Final Heat Period: The first庚day after the beginning of autumn.
+
+## Three: Application Method, Functions, and Indications
+
+This therapy is also known as "Tianjiu" (Sky Aromatic Therapy). It involves applying a mixture of warming and pungent herbs such as Bai Jie Zi (White Mustard Seed), Xì Xīn (Asarum), Yan Hu Suo (Corydalis), and Gān Jiāng (Dry Ginger), which are then applied to specific acupoints. The herbs are absorbed through the skin into the underlying acupoints, exerting tonifying and regulating effects on the five zang and six fu organs, thereby improving constitution and preventing diseases. This method helps reduce chronic conditions triggered by seasonal changes or cold waves.
+
+The "Winter Disease, Summer Treatment" method has evolved into the "Three Heat Patch" and "Three Nine Patch," which are suitable for patients with allergic constitutions, including asthma, allergic rhinitis, chronic bronchitis, and atopic dermatitis. Additionally, individuals with weak and cold constitutions and those who suffer from recurrent colds may also benefit.
+
+## Four: Contraindications and Precautions
+
+### (1) Contraindications:
+
+Pregnant women, children under two years of age, and individuals with severe cardiovascular or pulmonary dysfunction, such as heart disease, hypertension, severe emphysema, or tuberculosis; patients with acute inflammatory conditions such as fever, sore throat, or tonsillitis; and individuals with sensitive skin who experience rash or allergic reactions within a short time after patch application or who have wounds at the application site.
+
+### (2) Precautions:
+
+1. If allergic reactions occur on the skin—such as severe itching or blisters—remove the patch immediately.
+
+2. During patch application, avoid direct exposure to sunlight. Avoid cold air, cold water baths, or swimming, as these may reduce the effectiveness of the treatment.
+
+3. During patch application, maintain a light diet. Avoid cold drinks, raw foods, spicy and fried foods, alcohol, and seafood such as shrimp and crab. Limit consumption of foods that may trigger allergies, such as peanuts, mangoes, and kiwi.
+
+4. Take a normal bath on the day of patch application, but avoid rubbing or massaging the patch area vigorously.
+
+## Five: Duration and Treatment Course
+
+For young children, the patch duration is approximately 1 hour; for children and adults, it is about 2 hours. If no significant discomfort is observed at the application site, the duration can be extended to 3–4 hours, as long as a warming and prickling sensation is felt. For optimal results, the treatment should be applied three times per course, and the treatment should be continued for three consecutive years.
+
+## Six: Acupoint Locations
+
+The acupoints for patch application include Dazhui, Dingchuan, Dazu, Fengmen, Fei Yu, Gao Huang, Xin Yu, Ge Yu, Pi Yu, and Tuin Yu. The doctor will adjust the specific acupoints based on each patient's condition. Typically, 3–7 acupoints are treated per session.
+
+## Seven: References
+
+Chen Huishan (2019). Medication Care. Edited by Zhang Yongxian and Zhang Manling. *Introduction to Traditional Chinese Nursing* (4th Edition, pp. 255–287). Xinwenjing Development.

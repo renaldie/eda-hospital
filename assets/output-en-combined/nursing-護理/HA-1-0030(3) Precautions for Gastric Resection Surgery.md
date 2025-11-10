@@ -1,0 +1,79 @@
+## Seven. Example Diet Schedule After Gastric Resection:
+
+| Date & Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
+|-------------|-------|-------|-------|-------|-------|-------|-------|
+| 08:00       | Rice soup 100cc | Rice soup 100cc | Egg porridge (small bowl) | Meat porridge (small bowl) | Meat porridge (small bowl) | Reference: Mild diet | Reference: Mild diet |
+| 10:00       | Vegetable soup 100cc | Vegetable soup 100cc | Tapioca porridge 150cc | Soft tofu (half block) | Tofu 150cc | | |
+| 12:00       | Rice soup 100cc | Rice soup 100cc | Meat porridge (small bowl) | Meat porridge (small bowl) | Meat porridge (small bowl) | | |
+| 15:00       | Vegetable soup 100cc | Oil-free soup 100cc | Steamed egg | Steamed egg | Steamed egg | | |
+| 18:00       | Rice soup 100cc | Rice soup 100cc | Meat porridge (small bowl) | Meat porridge (small bowl) | Meat porridge (small bowl) | | |
+| 20:00       | Lactose-free milk 100cc | Lactose-free milk 100cc | Milk 150cc | Milk 200cc | Milk 200cc | | |
+| 22:00       | Lactose-free milk 240cc | Lactose-free milk 240cc | Milk 150cc | | | | |
+
+## Important Notes After Gastric Surgery
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung  
+Phone: 07-6150011  
+
+Yi Da Cancer Treatment Hospital  
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung  
+
+## Eight. References:
+
+Wu L, Zhou X, Liu L, Li W (2022).  
+Nursing of Digestive Diseases. Edited by Liu Xue'e. Adult Internal and External Medicine Nursing, Volume 2 (8th edition, pages 368–389). Hua Xing.  
+Phone: 07-6150022  
+
+Yi Da Da Chang Hospital  
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung  
+Phone: 07-5599123  
+
+This copyright holder shall not reproduce, reprint, or resell without the written consent of the copyright owner.  
+Copyright Owner: Yi Da Medical Foundation  
+19.8×21cm Printed in 2024. Revised in 2024.04 HA-1-0030(3)## Postoperative Care for Gastric Resection
+
+## 1. Definition:
+
+The stomach is responsible for mixing and digesting food. Most gastric diseases are initially treated with medical therapy. When medical treatment is ineffective or complications arise, surgical intervention may be considered.
+
+## 2. Applicable Candidates:
+
+(1) Ulcers (peptic or stress-related) that cannot be managed medically.  
+(2) Gastrointestinal bleeding unresponsive to medical treatment.  
+(3) Gastric cancer.
+
+## 3. Postoperative Care Instructions:
+
+(1) After anesthesia recovery, elevate the head of the bed by 15–30 degrees to reduce pulling on the abdominal incision and alleviate pain.  
+(2) Turn the patient at least every 2 hours to prevent pulmonary complications and promote intestinal motility.  
+(3) During turning, the patient or family member can use hands to support the incision or use an abdominal binder to reduce pain.  
+(4) Depending on the condition, nasogastric tubes and multiple drainage tubes may be placed to help drain gastric fluid and blood. Therefore, when turning, care must be taken to avoid compression, twisting, or dislodgement of the drainage tubes.  
+(5) Immediately after surgery, drainage fluid may appear dark brown or contain small amounts of dark red blood—this is a normal phenomenon and no need for concern. Nursing staff will closely monitor the situation.  
+
+(6) Once flatus is passed and intestinal motility is restored, the surgeon will decide whether to remove the nasogastric tube. Only then can the patient try drinking small amounts of water. If there are no symptoms such as nausea, vomiting, or abdominal distension, they may begin consuming specially prepared dietary meals provided by the hospital. (See example on the following page)
+
+## 4. Complications:
+
+After gastric surgery, patients often develop "dumping syndrome."
+
+(1) Cause: After gastric resection, if high-carbohydrate and electrolyte-rich foods are consumed, they enter the intestines rapidly without adequate mixing and normal digestion in the stomach, leading to discomfort.  
+(2) Symptoms: After consuming a large meal, discomfort such as cramping abdominal pain and diarrhea typically occurs within 10–15 minutes. Other symptoms may include tachycardia, weakness, cold sweats, dizziness, nausea, and vomiting.  
+(3) Management: When dumping syndrome occurs, the patient should immediately lie down and rest, and perform several deep breaths to relax.
+
+## 5. Preventive Measures:
+
+(1) Sit or lie semi-upright during meals, and remain supine for 20–30 minutes after eating to slow gastric emptying.  
+(2) Avoid high-sugar foods (sweets, processed snacks, sugar, and sugary drinks).  
+(3) Avoid foods with excessive water content (such as porridge and juice), and avoid drinking liquids during meals. Water can be consumed between meals.  
+(4) Eat small, frequent meals.
+
+## 6. Post-discharge Care Instructions:
+
+(1) Continue taking prescribed medications as directed.  
+(2) Monitor stool color; if black stools reappear, seek medical attention immediately.  
+(3) For two months, maintain a gentle, non-irritating diet and avoid smoking, alcohol, and difficult-to-digest foods.  
+(4) For two months, maintain a regular eating schedule, eating small, frequent meals and chewing food thoroughly.  
+(5) Maintain a balanced lifestyle and avoid stressful, stimulating, or anxiety-inducing activities.  
+(6) Resume light work after one month; return to physically demanding work after three months.  
+(7) Attend regular follow-up visits to the hospital.

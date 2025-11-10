@@ -1,0 +1,134 @@
+# Understanding the Transfer Technique for Patients with Unilateral or Bilateral Weakness
+
+✓ Applicable to: Patients with unilateral (or bilateral) weakness
+
+Objective: To safely transfer a patient from bed to wheelchair or from wheelchair to bed
+
+## Pre-transfer Preparation
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_29_273_102_339.jpg" alt="Image" width="6%" /></div>
+
+## Wheelchair Positioning
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_58_353_405_629.jpg" alt="Image" width="29%" /></div>
+
+Wheelchair and bed at approximately 30 degrees angle
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_77_639_135_702.jpg" alt="Image" width="4%" /></div>
+
+Use the stronger limb to approach the destination!
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_10_741_89_813.jpg" alt="Image" width="6%" /></div>
+
+## Ensuring Safety
+
+● Confirm that the wheelchair brakes are engaged  
+● Confirm that the wheelchair footrests are raised or rotated outward  
+● Do not pull the IV line  
+● Secure the urine bag and hang it on the patient  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_40_1002_274_1252.jpg" alt="Image" width="19%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_331_1000_534_1256.jpg" alt="Image" width="17%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_4_1288_78_1356.jpg" alt="Image" width="6%" /></div>
+
+## Patient Positioning in Seated Posture
+
+● Move the buttocks forward  
+● Bend both knees to approximately 90 degrees  
+● Place both feet flat on the ground  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_301_1384_552_1629.jpg" alt="Image" width="21%" /></div>
+
+## Transfer Procedure
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_641_271_711_341.jpg" alt="Image" width="5%" /></div>
+
+Caregiver's foot positioning  
+(Choose one of the two methods)
+
+Method 1: Suitable for patients with single-leg weakness  
+
+● Place the caregiver's single foot between the patient's two knees  
+● The caregiver's feet are positioned in a "forward bow, backward arrow" stance  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_929_472_1181_750.jpg" alt="Image" width="21%" /></div>
+
+## Method 2: Suitable for both single- and bilateral weakness  
+
+● The caregiver places both feet around the front edge of the patient's weaker leg's knee  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_648_990_876_1251.jpg" alt="Image" width="19%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_945_986_1171_1253.jpg" alt="Image" width="18%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_634_1292_701_1359.jpg" alt="Image" width="5%" /></div>
+
+## Hand Placement
+
+● Patient: Use the stronger hand to grasp the caregiver or place it on the destination surface  
+● Caregiver: Grasp the patient's waistband with both hands or embrace the patient's armpits  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_915_1385_1174_1627.jpg" alt="Image" width="21%" /></div><div style="text-align: center;"><img src="imgs/img_in_image_box_42_30_111_96.jpg" alt="Image" width="5%" /></div>
+
+
+## Lift the patient (key point!)
+
+● Patient leans forward
+
+Caregiver shifts weight backward, slightly bends knees, keeps back straight
+
+<div style="text-align: center;">Method 1: Suitable for patients with one weak leg</div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_45_264_372_613.jpg" alt="Image" width="27%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_451_266_773_619.jpg" alt="Image" width="27%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_851_263_1176_618.jpg" alt="Image" width="27%" /></div>
+
+
+Method 2: Suitable for patients with one or both weak legs
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_36_718_315_1081.jpg" alt="Image" width="23%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_399_718_668_1077.jpg" alt="Image" width="22%" /></div>
+
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_778_868_853_933.jpg" alt="Image" width="6%" /></div>
+
+
+Caregiver must continuously hold the patient's knees with both feet
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_3_1119_78_1198.jpg" alt="Image" width="6%" /></div>
+
+
+Safety check before sitting down
+
+Patient maintains a forward-leaning posture before sitting稳
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_643_1187_679_1221.jpg" alt="Image" width="3%" /></div>
+
+
+Avoid the patient's body leaning backward!
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_226_1235_339_1322.jpg" alt="Image" width="9%" /></div>
+
+
+References
+
+## Safety first — seek help if needed!
+
+1. Davies, P. M. (2000). Steps to follow: the comprehensive treatment of patients with hemiplegia. Springer Science & Business Media.
+
+2. Jian Meng-yue (2003). Physical therapy for stroke patients: comprehensive treatment for hemiplegic patients. Heki Publishing.
+
+| Contact Information |
+|---------------------|
+| Yida Hospital: Address: No. 1, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City. Phone: 07-6150011 |
+| Yida Cancer Treatment Hospital: Address: No. 21, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City. Phone: 07-6150022 |
+| Yida Da Chang Hospital: Address: No. 305, Da Chang Road, Sancheng District, Kaohsiung City. Phone: 07-5599123 |

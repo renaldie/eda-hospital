@@ -1,0 +1,59 @@
+## Four. References
+
+Wu Jiayou, Wu Meifeng (2020). "The Pain That Everyone Must Go Through: Lower Back Pain." *Changji Hospital News*, 37(3), 24-25.
+
+Dong Yiru, Wang Yuyun, Shi Yushuang, Fang Yuanyan (2019). "The Effectiveness of Exercise in Alleviating Lower Back Pain Among Nursing Staff." *Kaohsiung Nursing Journal*, 36(3), 1-14.
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: (07) 615-0011  
+
+## Yi Da Cancer Treatment Hospital  
+
+Address: No. 21, Yida Road, Jiaosu Village, Yanchao District, Kaohsiung City  
+Phone: (07) 615-0022  
+
+## Yi Da Da Chang Hospital  
+
+Address: No. 305, Da Chang Road, Simei District, Kaohsiung City  
+Phone: (07) 559-9123  
+
+Traditional Chinese Medicine for Prevention and Health Care of Lower Back Pain  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1378_493_1607_692.jpg" alt="Image" width="13%" /></div>People often experience lower back pain during their lifetime. Clinically, the primary complaints are pain and discomfort in the lower back, lumbar-sacral region, and gluteal areas. Why does lower back pain occur so frequently? Because the lumbar spine bears the majority of the body's weight, and due to modern workloads and large range of motion in daily activities, damage often occurs between the fourth and fifth lumbar vertebrae and the first sacral vertebra, along with injury to the muscles surrounding the lumbar region, leading to lower back pain.
+
+Reduced functional capacity can subsequently affect quality of life. Most people can alleviate symptoms through adequate rest and posture correction. However, 5–10% of cases progress into chronic pain. In clinical practice, besides Western medical treatments such as medication and physical therapy, traditional Chinese medicine (TCM) auxiliary therapies also show excellent therapeutic effects.
+
+## One: Causes of Lower Back Pain
+
+1) Intervertebral disc disease: Due to rupture of the fibrous ring around the intervertebral disc, the nucleus pulposus protrudes backward and compresses adjacent nerves, causing pain, numbness, and tingling in the lower back or lower limbs. Most patients improve after appropriate rest, taking pain relievers, or receiving lumbar traction. At least 80% of patients show gradual recovery within three months.
+
+2) Spondylolisthesis: Most commonly occurs at the fourth and fifth lumbar vertebrae. Pain is typically felt in the lower back and the sides of the thighs. The pain often begins after prolonged standing or walking and can be alleviated by sitting or squatting. For mild cases, wearing a back brace, strengthening abdominal muscles through exercise, and avoiding bending forward can help manage symptoms.
+
+3) Acute muscle strain of the back: commonly known as "twisting the back." Strained muscles have clear tender points. Generally, no special treatment is required. With proper rest, taking a few days of pain relievers, applying heat, soaking in warm water, or receiving acupuncture, the condition can heal on its own.
+
+## Two: Prevention Methods for Lower Back Pain
+
+1) Maintain good posture: Keep the head level, look straight ahead, draw in the abdomen, and maintain the natural physiological curvature of the spine. Office workers should correct poor posture and avoid keeping the lower back in the same position for prolonged periods.
+
+2) Pay attention to daily habits: Prevent the lower back from being exposed to wind and dampness; avoid cold baths or staying too long in air-conditioned rooms; avoid bending to lift heavy objects. Adjust clothing according to weather changes; after sweating or getting wet in the rain, promptly change into dry clothes and dry the body. In cold weather, pay special attention to keeping the lower back warm.
+
+3) Engage in appropriate physical activity: After the symptoms of lower back and back pain have improved, it is important to actively strengthen the muscles of the lower back and waist. Activities such as swimming, brisk walking, cycling, hiking, and yoga are beneficial. Always warm up before exercising to prevent sudden strain that may lead to lower back injury.
+
+4) Maintain a balanced diet: Avoid cold foods such as ice water, cold drinks, and raw fruits and vegetables. Add traditional Chinese herbs with liver and kidney tonifying effects, such as Du Zong (Eucommia), Gou Qi Zi (Goji berries), and Sang Ji Sheng (Sapindus), into soups.
+
+5) Control body weight: Excess body weight inevitably increases the load on the lower back. Diet control and regular exercise are essential.
+
+6) Choose an appropriate mattress: A mattress that is too soft cannot maintain the natural physiological curvature of the spine. A mattress with moderate firmness should be selected.
+
+7) Treat acute sprains promptly: Acute lower back sprains require active treatment. Rest and recovery are essential to prevent progression into chronic injury. When pain occurs, seek diagnosis and treatment from a qualified TCM or Western physician to avoid delaying the condition.
+
+## Three: Acupressure Points
+
+1) Shenshu (Kidney俞): Located 1.5 cun lateral to the spinous process of the second lumbar vertebra; it helps to tonify the kidneys, strengthen the waist, and promote diuresis.
+
+2) Kunlun: Located in the posterior region of the outer ankle, in the depression between the outer ankle tip and the Achilles tendon; used for treating headaches, lower back pain, and sciatica. Avoid use during pregnancy; use with caution during menstruation.
+
+3) Huan Tiao: Located in the depression above the greater trochanter of the femur in the buttock area. It helps to unblock meridians, strengthen the waist and kidneys, and dispel wind and cold.
+
+All these points should be pressed with the palm, 2–3 times daily, for 3–5 minutes until a sensation of soreness or heaviness is felt.

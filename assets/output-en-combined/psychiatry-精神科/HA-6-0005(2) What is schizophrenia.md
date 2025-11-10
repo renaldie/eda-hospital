@@ -1,0 +1,72 @@
+If you have any questions, please feel free to consult our psychiatry outpatient department~
+
+References:
+
+Boland, R., Verduin, M. & Ruiz, P. (2022). Kaplan & Sadock's Synopsis of Psychiatry (12th ed.). Wolters Kluwer.
+
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150022
+
+Yi Da Dachang Hospital
+
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City  
+Phone: 07-5599123
+
+## What is schizophrenia?
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1213_295_1614_677.jpg" alt="Image" width="23%" /></div>## One: What is schizophrenia?
+
+Schizophrenia is a severe mental illness, commonly occurring during adolescence and early adulthood.
+
+## Two: Common features of patients:
+
+| No. | Features |
+|-----|---------|
+| 1 | Cognitive impairment: In terms of logical thinking, patients often exhibit irrelevant or disorganized responses. In content, they may experience delusions such as persecution (believing someone is trying to harm or poison them), referential delusions (believing that people around them are targeting them or that conversations relate to them), and delusions of control (believing their thoughts or behaviors are being controlled by external forces). |
+| 2 | Sensory disturbances: Auditory hallucinations are most common; some patients also experience visual or tactile hallucinations. |
+| 3 | Emotional disturbances: Expression is flat, inappropriate, or emotionally unstable. |
+| 4 | Abnormal behaviors: Strange or disorganized behaviors, self-talk. |
+| 5 | Negative symptoms: Poverty of thought, lack of interest in things, lack of motivation, social withdrawal, and reduced work capacity. |
+
+## Three: Causes of schizophrenia?
+
+Schizophrenia is a condition caused by multiple factors, including:
+
+| No. | Factors |
+|-----|--------|
+| 1 | Genetic factors: There is a strong genetic component, but children or siblings of patients do not necessarily develop the illness. |
+| 2 | Physiological factors: Imbalance in dopamine, brain structure, and neurotransmitters. |
+| 3 | Psychological and social factors: Social stress and family environment may play a role, but are not the sole causes. Personality and family communication patterns can contribute to the onset or worsening of the illness. |
+
+## Four: Treatment of schizophrenia?
+
+1. Drug treatment is the primary approach for schizophrenia.
+
+2. Traditional antipsychotic medications often cause side effects such as muscle rigidity and restlessness. Newer-generation antipsychotics have fewer side effects, are better tolerated by patients over the long term, and improve quality of life. Some antipsychotics are available in long-acting injectable formulations. After receiving a long-acting injection, the body maintains a drug concentration equivalent to daily oral dosing, providing sustained therapeutic effects. Depending on the medication, the duration of action ranges from one to six months, reducing the inconvenience of daily medication. Because the drug concentration in the body is more stable, the risk of side effects is lower than with oral medications—making it a worthwhile treatment option. Psychological and social interventions include individual or family therapy, focusing on education, guidance, support, cognitive behavioral therapy, and reality-oriented therapy.
+
+3. Schizophrenia often leads to functional decline, so long-term rehabilitation therapy is necessary to improve or maintain daily and occupational functioning. The Yida Hospital currently offers day hospital services, providing patients with continuous rehabilitation treatments such as vocational training, social skills training, interpersonal interaction, self-medication training, and recreational activities to enhance their functional abilities. Current treatment emphasizes early intervention. During the acute phase, the focus is on managing acute symptoms, building relationships and cooperation with patients and their families, and selecting appropriate and effective medications. In the stable phase, stress reduction and prevention of relapse are emphasized, with encouragement to reintegrate into society and maintain social and family functioning.
+
+## Five: Common Q&A about schizophrenia?
+
+**Q:** Is medication absolutely necessary for schizophrenia?
+
+**A:** Medication plays a crucial role in symptom improvement, so taking medication is essential. Newer-generation antipsychotics show good efficacy with fewer side effects compared to traditional drugs. It is generally recommended to continue treatment for a period of time and discuss with a doctor about the plan for continuing treatment.
+
+**Q:** Can schizophrenia relapse?
+
+**A:** During treatment, schizophrenia may relapse due to various reasons. Therefore, patients should take medication regularly and maintain long-term treatment to avoid repeated relapses that could impair daily functioning.
+
+**Q:** What can family members do?
+
+**A:** Maintain appropriate communication and interaction, increase understanding of the illness and medication. Show care and support, encourage patients to continue treatment and take medication regularly. However, avoid excessive interference or unrealistic expectations, as this may create undue pressure. Family members should also support each other and share responsibilities.
+
+**Q:** How can we maintain patients' functional abilities?
+
+**A:** In addition to regular medication and preventing acute relapses, patients should be encouraged to participate in social activities and rehabilitation programs. The day hospital at our hospital offers various rehabilitation activities and vocational training to continuously enhance patients' adaptability in community and family settings.

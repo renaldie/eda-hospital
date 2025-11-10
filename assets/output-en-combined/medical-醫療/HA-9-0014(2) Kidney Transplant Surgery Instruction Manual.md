@@ -1,0 +1,61 @@
+2. After kidney transplantation, to help patients understand immunosuppressive medications and daily dietary intake, specialized pharmacists and nutritionists from the hospital will personally visit your ward to explain the functions, side effects, interactions between food and medication, and important precautions related to immunosuppressive drugs.
+
+Kidney transplantation outpatient clinic, organ transplantation center, and contact numbers:
+
+Urology Department: Dr. Wang Huabin – Monday, Tuesday, Wednesday (morning), Thursday (afternoon)  
+Urology Department: Dr. Jiang Chao-yang – Wednesday (afternoon), Thursday (morning), Saturday (morning)
+
+Coordinator:  
+Consultation phone: 07-6150011, extension 5853, 5852, 5855
+
+## Edah Hospital
+
+Address: No. 1, Yida Road, Juxu Village, Yancheng District, Kaohsiung City  
+Phone: (07) 615-0011  
+Website: http://www.edah.org.tw
+
+## Kidney Transplantation Information Sheet
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1218_282_1677_595.jpg" alt="Image" width="27%" /></div>This is a written explanation regarding the method, benefits, risks, and alternative options for kidney transplantation surgery. Kidney transplantation is the preferred treatment for patients with end-stage renal failure, significantly improving quality of life and survival rates. However, this treatment is not without risks. We hope you will carefully read and fully understand the content, as this will help you discuss further with your physician.
+
+## Surgical Method and Scope
+
+Kidney transplantation is performed under general anesthesia, with the procedure lasting approximately 4–5 hours. The surgical site is primarily in the lower abdomen. A single oblique incision is made in the lower right or left abdomen. The kidney is placed in the anterior pelvic cavity near the bladder. The transplanted kidney may come from a deceased organ donor or from a living relative or spouse. During surgery, the renal artery and vein are anastomosed to the recipient’s iliac artery and vein, and the donor’s ureter is sutured to the recipient’s bladder (see figure below). Whether the original kidney or a previously failed transplanted kidney needs to be removed depends on individual circumstances. After surgery, a urinary catheter and drainage tubes will be left in place for several days and removed once recovery is stable.
+
+**Surgical Success Rate and Risks**
+
+Before surgery, tissue matching is performed to minimize the risk of immediate rejection, although a small number of cases may still experience immediate rejection despite thorough preoperative evaluations. Currently, the one-year survival rate for transplanted kidneys ranges from 98% to 100%, with a five-year survival rate of approximately 95% and a ten-year survival rate of about 83%. In addition to rigorous surgical and anesthetic assessments, detailed immunological testing is one of the most critical factors determining the success of kidney transplantation. Furthermore, recent advances have introduced new immunosuppressive medications, which have reduced the incidence of rejection and improved long-term outcomes for the transplanted kidney.
+
+## Surgical Risks
+
+We have attempted to outline the risks associated with the surgery. While the overall risk is low, some risks are difficult to detect before surgery, and some risks that physicians cannot predict are not listed due to space limitations. Therefore, not all possible risks are included:
+
+### 1. Risks associated with anesthesia.
+
+2. Blood transfusion. Due to anemia commonly associated with renal failure, blood transfusions may be necessary during surgery to maintain cardiac and pulmonary function and stabilize blood pressure. The side effects of blood transfusion are detailed in the informed consent form. If you do not wish to receive a blood transfusion, please inform the medical staff as early as possible before surgery.
+
+3. Cardiovascular or cerebrovascular diseases.
+
+4. Delayed function of the transplanted kidney may occasionally occur (the incidence varies depending on the source of the kidney: living donors have a lower rate, less than 10%, while kidneys from deceased donors may reach up to 30%). In rare cases, the transplanted kidney may never become functional.
+
+5. The donor’s pre-existing infectious diseases or malignant tumors may be transmitted to the recipient. Before transplantation, we will make every effort to rule out potential infectious diseases or malignant tumors in the donor using current standard screening methods. However, there remains a very small possibility of disease during a "window period" that cannot currently be detected by existing medical techniques.
+
+## Surgical Benefits
+
+A successful transplant enables the new kidney to function properly, effectively eliminating metabolic waste and toxins from the body, maintaining water and electrolyte balance, improving quality of life, and extending life expectancy. Patients with end-stage renal failure who undergo kidney transplantation have a higher survival rate than those receiving hemodialysis or peritoneal dialysis. Long-term dialysis not only leads to a lower quality of life but also carries various side effects. The balance between surgical benefits and risks is ultimately a decision you must make.
+
+## Possible Postoperative Complications
+
+Potential complications following kidney transplantation include wound infection or poor healing, wound bleeding, incisional hernia, transmission of infectious diseases from the transplanted kidney to the recipient, and failure of the transplanted kidney. In cases of severe complications, reoperation may be necessary. The transplant medical team will provide appropriate medical management based on the severity of the complications experienced by the patient.
+
+## Surgical Reimbursement
+
+The cost of this surgery and most long-term immunosuppressive medications is covered by the national health insurance. However, in some cases, certain medications or specialized immunosuppressive drugs may be required and are not covered by insurance. These medications are typically used before or during surgery, and the physician will discuss their necessity with you after a complete preoperative assessment. You will need to sign a self-paid consent form for such drugs, such as polyclonal antibodies or anti-CD20 antibodies, which are out-of-pocket expenses.
+
+## Temporary or Permanent Symptoms After Surgery
+
+Pain at the surgical site is common initially and gradually diminishes over several weeks. In some cases, pain may persist and require medication for pain relief. Most acute rejections are treated with stronger immunosuppressive therapy; however, a very small number of cases may result in permanent loss of function in the transplanted kidney.
+
+## Postoperative Precautions
+
+1. Patients must take immunosuppressive medications for life after surgery. These medications have various side effects, such as increased blood pressure, hyperlipidemia, hyperuricemia, and diabetes. Some drugs suppress the bone marrow, leading to reduced white blood cells, hemoglobin, or platelets. Others may cause thickened gums, increased hair growth, or hair loss. Additionally, some medications may cause moon face or buffalo hump. These symptoms may improve when medication doses are reduced, although some may not improve. Therefore, regular follow-up visits to the transplant outpatient clinic are essential for monitoring and treatment.

@@ -1,0 +1,76 @@
+Yi Da Hospital
+
+Address: No. 1, Yida Road, Juxu Village, Yancheng District, Kaohsiung City  
+Phone: (07) 615-0011
+
+Yi Da Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Juxu Village, Yancheng District, Kaohsiung City  
+Phone: (07) 615-0022
+
+Yi Da Dachang Hospital
+
+Address: No. 305, Dachang Road, Sancheng District, Kaohsiung City  
+Phone: (07) 559-9123
+
+This copyright shall not be reproduced, duplicated, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yi Da Medical Foundation
+
+21*29.7cm Printed in January 2025 Revised in July 2024 HA-8-0004(4)
+
+Understanding Traditional Chinese Medicine and Nursing for Asthma
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1323_862_1513_1034.jpg" alt="Image" width="11%" /></div>## Asthma is a chronic inflammatory respiratory disease that causes excessive sensitivity of the airways and reversible airway obstruction. Common symptoms include shortness of breath, wheezing, throat obstruction, prolonged coughing, and nighttime coughing.
+
+Traditional Chinese Medicine (TCM) treatment primarily focuses on preventing attacks by avoiding exposure to triggers that may induce asthma episodes. In addition, symptomatic treatment is provided. During an attack, immediate Western medical treatment should be administered; during routine periods, herbal medicine prescribed by a physician should be used to strengthen the body's resistance and reduce the frequency of attacks. However, it is strictly forbidden to take random medications, as this may damage the body's vital energy (zheng qi).
+
+## I. Asthma Prevention
+
+(1) Regularly clean bedding and expose it to sunlight.
+
+(2) Avoid exposure to allergens such as indoor dust mites, plush toys, animal dander, mold, and pollen.
+
+(3) Avoid inhaling irritating gases such as secondhand smoke, oil fumes, mosquito coils, paint, perfumes, and insecticides.
+
+(4) Avoid overexertion, reduce anxiety and stress, and regulate emotional states to maintain a calm and pleasant mood.
+
+(5) Engage in appropriate physical activity to gradually improve physical fitness, such as walking, jogging, or swimming. However, proper warm-up exercises must be performed before any physical activity.
+
+(6) The ideal indoor humidity should be maintained between 40% and 60%.
+
+(7) Pay attention to warmth; when getting up in the morning or going out, wear a mask and use a scarf.
+
+## II. Dietary Recommendations and Avoidances
+
+(1) Avoid cold and cool foods:
+
+1. Any ice products or cold beverages.
+
+2. Fruits such as watermelon, honeydew melon, cantaloupe, water pear, grapefruit, coconut water.
+
+3. Vegetables such as white radish, Chinese cabbage, bitter gourd, loofah, winter melon, asparagus, bamboo shoots.
+
+(2) Avoid spicy, hot, grilled, fried, and stimulating foods:
+
+Chili peppers, black pepper, Sichuan pepper, garlic, onions, sambal paste, pickled foods, canned foods, coffee, curry, tobacco, and alcohol.
+
+(3) Avoid foods that may trigger allergies, such as proteins, milk, shellfish, chocolate, nuts, peanuts, and buckwheat.
+
+(4) Suitable dietary foods include papaya, apples, grapes, papaya, cherries, Chinese cabbage, spinach, red radish, celery, cauliflower, and potatoes.
+
+## III. Acupressure Points
+
+(1) Shenzhu point: Located in the middle of the elbow crease, in the fossa on the radial side of the biceps tendon; it has the effect of clearing and promoting lung qi.
+
+(2) Lieque point: Cross the hands' web spaces naturally flat; place the index finger of one hand on the radial styloid process of the other hand, at the depression below the fingertip; used to treat cough, asthma, and headaches.
+
+(3) Hegu point: Located in the depression between the thumb and index finger at the base of the hand; it helps to unblock meridians, relieve pain, and enhance resistance.
+
+All of the above points should be massaged with the palm, for 3–5 minutes per point, twice to three times daily.
+
+## IV. References
+
+Huang Yanbin (2021). "Children's persistent asthma and cough—let TCM help you relieve it." *Journal of the Chinese Association for Endometriosis in Women*, 25(5–6), 16–17.
+
+Yang Peirong (2020). "TCM internal and external treatments to improve asthma symptoms." *Journal of the Chinese Association for Endometriosis in Women*, 27(11–12), 19–20.

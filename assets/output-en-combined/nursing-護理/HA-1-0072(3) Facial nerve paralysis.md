@@ -1,0 +1,69 @@
+## Seven. References
+
+Chen, M.-L., Fang, M.-J., Su, C.-C., and Ye, H.-F.  
+(2023) · Nursing care for patients with neurological disorders · Edited by Chen, H.-S.-L., Internal and External Medicine Nursing (Volume II, 7th edition, pp. 853-854) · Hua Xing.
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: 07-6150011  
+
+## Facial Nerve Palsy  
+Phone: 07-5599123## I. Introduction
+
+Facial nerve palsy is an acute nerve inflammation that causes paralysis of muscles under the nerve's control, resulting in stiffened or absent facial expressions.
+
+## II. Clinical Symptoms
+
+1. Mouth drooping, face tilting,  
+2. Inability to close eyelids,  
+3. Easy tearing,  
+4. Dry, red eyes,  
+5. Taste disturbances,  
+6. Food getting stuck in the mouth,  
+7. Water leaking from the corner of the mouth when drinking,  
+8. Abnormal sensitivity to sound, with pain felt on the back side of the same side of the face.
+
+## III. Causes
+
+1. Central facial nerve palsy: Often caused by stroke or brain tumor leading to central palsy, with symptoms extending beyond the face, possibly including limb numbness or functional impairments.
+
+2. Peripheral facial nerve palsy: Commonly occurs in spring and winter seasons; the most common type is "Bell's palsy," typically resulting from viral infection or an unknown infectious cause, leading to inflammation of the facial nerves and resulting in weakness of facial muscles.
+
+## IV. Risk Factors
+
+1. Prolonged exposure to wind or cold environments,  
+2. Chronic stress and emotional disturbance,  
+3. Excessive fatigue,  
+4. Insufficient sleep,  
+5. Poor dietary habits,  
+6. Diabetic patients or pregnant women.
+
+## V. Diagnosis
+
+1. Physicians can diagnose based on the patient's clinical presentation.
+
+2. Differentiate from other diseases causing similar symptoms, such as tumors, trauma, or peripheral neuropathies.
+
+3. Perform additional neurological examinations and electromyography (EMG) tests.
+
+## VI. Treatment
+
+1. Medical treatment – During the acute phase, physicians generally prescribe patients corticosteroids, vitamins, or vasodilators.
+
+2. Rehabilitation treatment – During the recovery phase
+
+(1) Electrotherapy: Electrical stimulation of facial muscles to prevent muscle atrophy.
+
+(2) Heat therapy and massage: Promote blood circulation in facial muscles.
+
+(3) Facial exercises: Aid in restoring muscle function.
+
+● Raise eyebrows (showing forehead wrinkles) and frowning movements.  
+● Closing eyes (tightening both eyes) and blinking.  
+● Sucking actions, such as drinking water.  
+● Blowing up a balloon exercise.  
+● Making funny facial expressions.  
+● Chewing gum (using the affected side).  
+● Reading or speaking aloud.
+
+3. Surgical treatment – If facial changes are severe and still not recoverable even after rehabilitation therapy.

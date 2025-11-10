@@ -1,0 +1,50 @@
+## Home Rehabilitation Exercises Before Joint Replacement
+
+Exercise Purpose: Maintain joint angle and strength, improve surgical success rate
+
+Exercise Prescription: Hold for 5~15 seconds. Perform 10~15 repetitions, four times daily
+
+## Warm-up Exercises
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_120_375_499_629.jpg" alt="Image" width="31%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_714_385_1087_636.jpg" alt="Image" width="31%" /></div>
+
+## Joint Movements
+
+| Stretching Exercises | Strength Exercises |
+|---------------------|--------------------|
+| <img src="imgs/img_in_image_box_43_830_551_1157.jpg" /> | <img src="imgs/img_in_image_box_715_839_1084_1169.jpg" /> |
+| <img src="imgs/img_in_image_box_128_1183_448_1552.jpg" /> | <img src="imgs/img_in_image_box_712_1194_1075_1563.jpg" /> |<div style="text-align: center;">Mild Exercise</div>
+
+|  | Ankle Circles Exercise | Dorsiflexion Exercise |
+|---|---|---|
+|  | <img src="imgs/img_in_image_box_70_179_518_465.jpg"> | <img src="imgs/img_in_image_box_731_174_1029_468.jpg"> |
+| Walking Exercise: Walk for 5~10 minutes on a safe surface, and use a walker or cane as needed | <img src="imgs/img_in_image_box_145_577_377_878.jpg"> | <img src="imgs/img_in_image_box_453_574_693_876.jpg"> | 
+|  | <img src="imgs/img_in_image_box_772_573_999_875.jpg"> |  |
+
+## Notes:
+
+(1) Before exercising, assess your pain level. Only proceed with at-home rehabilitation exercises if you experience mild pain.
+
+(2) For each exercise, perform it 4 times daily, maintaining or exerting effort for 5~15 seconds, depending on your pain level.
+
+(3) After exercise, if pain occurs, apply ice for 10~15 minutes. Additionally, follow the medication prescription prescribed by your doctor to achieve optimal rehabilitation outcomes.
+
+(4) If you experience severe pain during exercise, stop immediately and rest.
+
+(5) Exercise with caution and take precautions to prevent falls.
+
+## References:
+
+1. Matt, A. R., Kemp, J. L., Mosler, A. B., Salmon, L., Gomes, D. A., De Livera, A., … & Semciw, A. L. (2025). Do preoperative interventions affect patient satisfaction or expectation fulfilment following total hip arthroplasty? A systematic review. JSAMS Plus, 5, 100089.
+
+2. Dutta, S., Ambade, R., Wankhade, D., Agrawal, P., & WANKHADE, D. (2024). Rehabilitation techniques before and after total knee arthroplasty for a better quality of life. Cureus, 16(2).
+
+|  | Contact Information |
+|---|---|
+| Yida Hospital: Address: No. 1, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City; Phone: 07-6150011 | Yida Cancer Treatment Hospital: Address: No. 21, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City; Phone: 07-6150022 | Yida Da Chang Hospital: Address: No. 305, Da Chang Road, Sancheng District, Kaohsiung City; Phone: 07-5599123 |
+
+Maidai Ju, Foundation, 21×29.7cm, Printed in August 2025
+
+Revised in May 2025, HA-11-0034(2)

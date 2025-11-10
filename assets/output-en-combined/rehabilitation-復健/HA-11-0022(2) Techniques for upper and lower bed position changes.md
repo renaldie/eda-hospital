@@ -1,0 +1,97 @@
+# Techniques for Moving Between Bed and Chair
+
+## 1. Definition:
+
+Turning refers to the transition between different planes of posture. Physical activities can help restore strength and prevent complications caused by prolonged bed rest. Early bed-to-chair mobility during hospitalization may be affected by patient weakness or treatment. If there are impairments in functional movement or balance, turning ability will be compromised, increasing the risk of falls. To balance early mobility with safety and avoid injury, learning correct turning techniques is crucial.
+
+2. Applicable Population: Patients with weakness, limb mobility impairments, or those who require assistance with daily activities.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_115_420_236_504.jpg" alt="Image" width="10%" /></div>
+
+## Bed-to-Chair Turning Techniques: Care Methods and Precautions
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_21_507_96_564.jpg" alt="Image" width="6%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_96_507_518_864.jpg" alt="Image" width="35%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_600_493_671_548.jpg" alt="Image" width="5%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_671_500_1095_849.jpg" alt="Image" width="35%" /></div>
+
+↑ Patient leans with strength against the bed, wheelchair and bed form a 30-degree angle.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_13_905_519_1220.jpg" alt="Image" width="42%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_602_887_673_944.jpg" alt="Image" width="5%" /></div>
+
+↑ Apply brakes to secure the wheelchair.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_665_888_1107_1250.jpg" alt="Image" width="37%" /></div>
+
+↑ Sit forward so that the buttocks are positioned one-third of the way in front of the seat cushion.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_11_1260_500_1597.jpg" alt="Image" width="41%" /></div>
+
+↑ Caregiver grasps the patient's pants hem to assist in horizontal movement; caregiver does not need to stand fully.
+
+↑ Extend hands forward, support against the bed, and leave space for the patient's buttocks to sit.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_592_1285_669_1344.jpg" alt="Image" width="6%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_671_1287_1087_1598.jpg" alt="Image" width="34%" /></div>
+
+↑ Confirm that the patient is securely seated before leaving.<div style="text-align: center;"><img src="imgs/img_in_image_box_129_105_257_192.jpg" alt="Image" width="10%" /></div>
+
+
+## Techniques for Bed-to-Chair Transfer, Care Methods, and Precautions
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_98_213_501_543.jpg" alt="Image" width="33%" /></div>
+
+
+2
+
+↑ Place the wheelchair so that the patient's stronger side is against the bed at a 30-degree angle.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_606_222_1048_548.jpg" alt="Image" width="37%" /></div>
+
+
+↑ Apply brakes to secure the wheelchair.
+
+3
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_95_597_500_936.jpg" alt="Image" width="34%" /></div>
+
+
+ $ ^{↑} $ Move the buttocks forward and ensure the feet are on the floor.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_613_602_1068_938.jpg" alt="Image" width="38%" /></div>
+
+
+ $ ^{↑} $ Extend hands forward, grasp the far-side handrail of the wheelchair, and use the stronger leg to push.
+
+5
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_84_998_479_1293.jpg" alt="Image" width="33%" /></div>
+
+
+↑ The caregiver grabs the patient's pants waist to assist with horizontal movement—no need to stand completely upright.
+
+↑ Ensure the patient is seated stably before the caregiver leaves.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_653_1006_1018_1308.jpg" alt="Image" width="30%" /></div>
+
+
+## Three. References
+
+Li Shu-ling (2015). Activity and Physical Needs. Edited by Su Lizi. Practical Basic Nursing (7th Edition, pp. 381–437). Hua Xing.
+
+$ ^{*} $ For further information on bed-to-chair transfer techniques, please consult the Rehabilitation Department or nurses at the Yida Medical Foundation's Individual Clinic.
+
+| Contact Information |
+|---------------------|
+| Yida Hospital: Address: No. 1, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City; Phone: 07-6150011 |
+| Yida Cancer Treatment Hospital: Address: No. 21, Yida Road, Jiaoshu Village, Yancheng District, Kaohsiung City; Phone: 07-6150022 |
+| Yida Dachang Hospital: Address: No. 305, Dachang Road, Sanyin District, Kaohsiung City; Phone: 07-5599123 |
+
+Published by Yida Medical Foundation, 21×29.7cm, printed in February 2025  
+Revised in May 2024, HA-11-0022(2)

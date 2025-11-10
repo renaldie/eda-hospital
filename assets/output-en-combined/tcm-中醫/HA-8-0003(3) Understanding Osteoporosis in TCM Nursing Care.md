@@ -1,0 +1,95 @@
+Medications: Any substance that may cause dizziness or disorientation, such as alcohol, drugs, or sedatives, carries potential risks.
+
+## Six. References
+
+Kan Yaoqin (2020). "The Role of Traditional Chinese Medicine in Osteoporosis." *Taiwan Menopause Medical Society Newsletter*, 63, 25–29. Ming Fen (2023). "Dietary Recommendations for Osteoporosis." *Taiwan Menopause Medical Society Newsletter*, 70, 18–19.
+
+Chang Cen, He Jianzhang, Jiang Yilang, Lin Yuru, Chen Yunzhong (2024). "Long-term practice of Ba Duan Jin Improves Body Composition, Bone Density, and Gait Stability in Elderly Women." *Journal of Sports Performance*, 11(1), 83–99.
+
+Yi Da Hospital  
+Address: No. 1, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: (07) 615-0011  
+
+Yi Da Cancer Treatment Hospital  
+Address: No. 21, Yida Road, Jiaosu Village, Yancheng District, Kaohsiung City  
+Phone: (07) 615-0022  
+
+## Traditional Chinese Medicine Nursing in Understanding Osteoporosis  
+
+Yi Da Da Chang Hospital  
+Address: No. 305, Dachang Road, Simei District, Kaohsiung City  
+Phone: (07) 559-9123  
+
+This copyright is not allowed to be reproduced, reprinted, or resold without the consent of the copyright holder.  
+Copyright Holder: Yi Da Medical Foundation  
+21*29.7cm Printed in January 2025. Revised in July 2024. HA-8-0003(3)  
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1152_281_1682_824.jpg" alt="Image" width="31%" /></div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1346_857_1516_1031.jpg" alt="Image" width="10%" /></div>## One: What is Osteoporosis
+
+Osteoporosis is a condition characterized by reduced bone mass. As the mineral density of bones gradually decreases, the bones become smaller and more porous, leading to fragility and an increased risk of fractures.
+
+## Two: Symptoms of Osteoporosis
+
+Patients often do not notice any symptoms. Once symptoms appear, osteoporosis has likely progressed for a long time. Common symptoms include驼背 (curvature of the spine), reduced height, back pain, and fractures.
+
+## Three: Traditional Chinese Medicine Perspective
+
+Osteoporosis in Traditional Chinese Medicine (TCM) is similar to "bone weakness" (bone xie). TCM believes it results from insufficient blood and qi circulation, long-term overwork, or age-related decline in kidney energy. Since TCM teaches that the kidneys govern bones and marrow, kidney deficiency leads to weak bones and weak tendons, making bones prone to fractures. Clinically, the main symptom is lower back pain, all of which are related to "kidney deficiency" in TCM. Women during or around menopause experience a gradual decline in kidney energy, making them a high-risk group for developing osteoporosis.
+
+Based on the principle of "the kidneys govern bones and produce marrow," treatment focuses primarily on tonifying the kidneys. Many traditional Chinese herbal remedies can help prevent and alleviate osteoporosis. Treatment should be individually tailored by a TCM practitioner according to the patient's specific constitution.
+
+## Four: Risk Factors for Osteoporosis
+
+(1) Gender: Women have lower bone density than men. After menopause, bone loss increases significantly, and due to their longer average lifespan, women are 6 to 8 times more likely to develop osteoporosis than men. The risk increases with age, later onset of menstruation, and a slender body type.
+
+(2) Genetic factors: Individuals with a family history of osteoporosis.
+
+(3) Low intake of calcium and vitamin D: For example, women who eat a restrictive or picky diet.
+
+(4) Low body weight: Bone density is maintained through mechanical stress from body weight. Maintaining a standard body weight helps stabilize bone density.
+
+## Five: Prevention and Health Care
+
+## (1) Diet:
+
+1. Consume foods rich in calcium, such as:
+
+(1) Dairy products like milk, cheese, and yogurt.
+
+(2) Small dried fish, seaweed, sesame seeds, nori, sardines, kelp, and dark green vegetables.
+
+2. Vitamin D deficiency may lead to osteoporosis. In addition to dietary intake, it is recommended to get at least 2–3 sessions of sun exposure per week, which helps with calcium absorption.
+
+3. Low-salt, low-fat diet: Excessive salt and fat intake can interfere with calcium absorption in the body.
+
+4. When boiling pork bones or large bone broth, add a small amount of vinegar to help dissolve calcium into the broth, improving absorption.
+
+5. Alcohol and smoking negatively affect calcium absorption.
+
+6. During growth, pregnancy, and lactation, sufficient calcium intake should be ensured.
+
+7. If taking calcium supplements, they should be taken before meals to stimulate gastric acid secretion and enhance calcium absorption.
+
+## (2) Exercise:
+
+Appropriate and moderate physical activity can increase bone density. Examples include walking, jogging, and cycling. Patients may also refer to the health-preserving "Eight Pieces of Brocade" teaching videos provided by our hospital's Traditional Chinese Medicine Department to practice qigong.
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1221_405_1388_571.jpg" alt="Image" width="9%" /></div>
+
+<div style="text-align: center;">(Seated posture)</div>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1485_403_1652_568.jpg" alt="Image" width="9%" /></div>
+
+<div style="text-align: center;">(Standing posture)</div>
+
+## (3) Daily Life Tips:
+
+Older individuals are more prone to fractures due to falls, so special attention should be paid to the details of their living environment.
+
+1. Stairs: Ensure that carpets and stair treads are securely fastened to prevent falls.
+
+2. Floors: Avoid scattering small items around. Loose carpets and excessively slippery floors, especially in bathrooms and kitchens, should be avoided.
+
+3. Lighting: Osteoporosis patients, due to aging and declining vision, require adequate lighting in hallways, stairwells, and other areas to prevent falls.

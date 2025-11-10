@@ -1,0 +1,115 @@
+## VII. Acupoints that Help Lower Blood Pressure
+
+Press the acupoints with both fingertips for about 2 minutes each time.
+
+1) Fengchi Point: On both sides of the back of the neck, at the intersection of the hairline and the outer side of the spine.
+
+## 2) Baihui Point: At the exact center of the top of the head.
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_1_310_215_551.jpg" alt="Image" width="12%" />
+</div>
+
+The intersection of the midline of the head and the line connecting both ears.
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_218_369_432_557.jpg" alt="Image" width="12%" />
+</div>
+
+## 3) Taichong Point: In the posterior depression, just behind the gap between the first and second metatarsal bones on the dorsum of the foot.
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_50_618_422_817.jpg" alt="Image" width="22%" />
+</div>
+
+## VIII. References
+
+Ministry of Health and Welfare, National Health Agency (October 4, 2023). Self-Management of Blood Pressure: The 3C Principles.
+
+Liu Guoying (2021). Traditional Chinese Medicine Diagnosis and Treatment of Hypertension. Mingtong Medical, p. 532, pp. 17–18.
+
+Xie Yingbiao and Zhang Maosen (2019). Dietary Guidelines and Prevention Knowledge for Hypertension. Qilin Publishing.
+
+## Yida Hospital
+
+Address: No. 1, Yida Road, Juxu Village, Yanchao District, Kaohsiung City  
+Phone: (07) 615-0011
+
+Yida Cancer Treatment Hospital
+
+Address: No. 21, Yida Road, Juxu Village, Yanchao District, Kaohsiung City  
+Phone: (07) 615-0022
+
+## Yida Da Chang Hospital
+
+Address: No. 305, Dachang Road, Sanchong District, Kaohsiung City  
+Phone: (07) 559-9123
+
+This copyright is not allowed to be reproduced, reprinted, or resold without the consent of the copyright holder.
+
+Copyright Holder: Yida Medical Foundation
+
+21*29.7cm Printed in January 2025. Revised in July 2024. HA-8-0009 (5)
+
+Understanding Hypertension  
+Traditional Chinese Medicine Care
+
+<div style="text-align: center;">
+<img src="imgs/img_in_image_box_1326_863_1496_1041.jpg" alt="Image" width="10%" />
+</div>## One: What is hypertension?
+
+Blood pressure refers to the pressure exerted on the walls of blood vessels when blood flows through them. The systolic pressure (commonly known as high blood pressure) and diastolic pressure (commonly known as low blood pressure) should normally be equal to or less than 120/80 mmHg. When blood pressure reaches 130/85 mmHg, it is considered elevated. If, under calm conditions, blood pressure readings show a systolic/diastolic value exceeding 140/90 mmHg for three or more occasions over a period of two weeks, it is defined as hypertension. It is recommended to discuss with a doctor whether further treatment is needed.
+
+## Two: High-risk groups for hypertension
+
+(1) Excess body weight.  
+(2) Age over 40 years.  
+(3) Chronic stress, fatigue, anxiety, insomnia, and prolonged mental stress.  
+(4) Excessive salt intake.  
+(5) Genetic predisposition.  
+(6) Smoking and excessive alcohol consumption.
+
+## Three: Complications of hypertension
+
+Chronic hypertension can cause damage to many organs, especially the brain, heart, kidneys, and retina.
+
+(1) Cerebral vascular obstruction: symptoms may include headaches, dizziness, memory loss, difficulty concentrating, and insomnia. In severe cases, ischemic or hemorrhagic stroke may occur, leading to various long-term complications.
+
+(2) Cardiovascular issues: such as palpitations, heart failure (symptoms include shortness of breath and lower limb edema), and coronary artery atherosclerosis (chest tightness, angina).
+
+(3) Impaired kidney function: such as proteinuria and lower limb edema.
+
+(4) Retinal vascular changes: such as vision loss and retinal bleeding.
+
+(5) Peripheral vascular hardening: due to arteriosclerosis, reduced blood flow or ischemia in the lower limbs may result in intermittent claudication and numbness in the limbs.
+
+## Four: Etiology, pathogenesis, and treatment
+
+Hypertension is a modern term for a common chronic disease. Although traditional Chinese medical texts do not have the specific diagnosis of "hypertension," clinical manifestations are similar to conditions such as dizziness or headaches. In traditional Chinese medicine, hypertension is attributed to imbalance between yin and yang, emotional stress, improper diet, internal organ damage, and congenital predisposition.
+
+## Five: Precautions for hypertension patients
+
+(1) Ensure adequate sleep and rest, avoid overwork.  
+(2) Bathwater should not be too cold or too hot, nor should it be soaked for too long.  
+(3) Adjust clothing according to weather changes and pay attention to warmth.  
+(4) Take medication as prescribed by a doctor; do not stop medication on your own, do not use unproven remedies, and attend regular outpatient follow-ups.  
+(5) Measure and record blood pressure regularly to provide reference for doctors.  
+(6) Adopt a low-sodium diet, maintain a healthy weight, and keep bowel movements regular.  
+(7) Engage in appropriate physical activity such as walking, fitness exercises, or swimming. Precautions during exercise:  
+1. Avoid exercising within one hour after meals.  
+2. Once blood pressure is fully controlled, exercise intensity can be gradually increased.  
+3. Warm up before exercise for 20–30 minutes.  
+4. If any discomfort occurs during exercise, stop immediately and measure blood pressure.  
+5. If symptoms do not improve after rest, seek medical attention immediately.  
+6. In winter, pay attention to warmth and avoid outdoor exercise in extremely cold weather.  
+(8) Maintain a positive mood and reduce emotional stress.  
+(9) Adjust lifestyle habits, such as engaging in appropriate physical activity, avoiding excessive alcohol consumption, and quitting smoking.
+
+## Six: Dietary restrictions and recommendations for hypertension patients
+
+(1) Consume high-fiber foods such as fresh fruits, vegetables, brown rice, and oats.  
+(2) Limit intake of high-sodium foods such as salt, soy sauce, monosodium glutamate (MSG), canned foods, and preserved items (e.g., pickled vegetables, fermented tofu, pickled vegetables, dried meats).  
+(3) Avoid high-cholesterol foods such as animal offal, red meat (beef, lamb), lard, egg yolks, and seafood.  
+(4) Use plant-based oils such as sunflower oil or olive oil.  
+(5) Eat meals at fixed times and in fixed portions; avoid overeating and maintain an ideal body weight.  
+(6) Do not take supplements without medical guidance.
