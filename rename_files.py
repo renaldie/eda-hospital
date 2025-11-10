@@ -112,12 +112,12 @@ if __name__ == "__main__":
         help="Actually rename files (default is dry-run mode)"
     )
     parser.add_argument(
-        "--json-file",
+        "--json_file",
         required=True,
         help="Path to the JSON file containing filename mappings"
     )
     parser.add_argument(
-        "--target-dir",
+        "--target_dir",
         required=True,
         help="Target directory containing folders with markdown files"
     )

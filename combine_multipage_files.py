@@ -211,17 +211,17 @@ if __name__ == "__main__":
         help="Actually combine files (default is dry-run mode)"
     )
     parser.add_argument(
-        "--input-dir",
+        "--input_dir",
         required=True,
         help="Input directory containing markdown files with page numbers"
     )
     parser.add_argument(
-        "--output-dir",
+        "--output_dir",
         required=True,
         help="Output directory where combined files will be saved"
     )
     parser.add_argument(
-        "--add-separator",
+        "--add_separator",
         action="store_true",
         help="Add '---' separator between pages in combined file"
     )

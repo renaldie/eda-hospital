@@ -130,7 +130,7 @@ def main(collection_name: str, persist_directory: str, input_dir: str, dry_run: 
 
         add_documents(vector_store=vector_store, documents=documents, is_execute=True)
 
-        print(f"Added: {len(vector_store.get()['documents'])}" documents)
+        print(f"Added: {len(vector_store.get()['documents'])} documents")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
