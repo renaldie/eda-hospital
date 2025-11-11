@@ -11,10 +11,10 @@ Folders are:
 - `./assets/output-zh-combined`
 
 ### Convert HTML Table
-run `uv run process_html_table.py --input_dir "./assets/output-zh-ocr" --output_dir "./assets/output-zh-combined"`
+run `uv run process_html_table.py --input_dir "./assets/output-zh-ocr" --output_dir "./assets/output-zh-tabled"`
 
 ### Combine MD Files
-run `uv run combine_multipage_files.py --execute --input_dir "./assets/output-zh-combined" --output_dir "./assets/output-zh-combined"`
+run `uv run combine_multipage_files.py --execute --input_dir "./assets/output-zh-tabled" --output_dir "./assets/output-zh-combined"`
 
 ## Build VectorDB
 run `uv run build_vectordb.py --execute --collection_name "eda-hospital-zh" --persist_directory "./vectordb/eda-hospital-zh" --input_dir "./assets/output-zh-combined"`
